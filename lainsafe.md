@@ -1,0 +1,1 @@
+[[go]] https://lainsafe.delegao.moe/?
