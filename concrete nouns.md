@@ -1,0 +1,1 @@
+Things that signify a semantic place or thing in the [[ideasphere]]. I wouldn't use ball as a concrete noun but I would use twitter. concrete nouns are essentially things you would intuitively [[wikilink]]

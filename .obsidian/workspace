@@ -6,11 +6,22 @@
       {
         "id": "338a842a5283684a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021-01-11.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7bcec52c62f9c532",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concrete nouns.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-11.md",
+                "file": "concrete nouns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +106,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "concrete nouns.md",
     "2021-01-11.md",
     "Maggie Appleton Garden.md",
     "0data.app.md",
@@ -103,7 +115,6 @@
     "digital-garden.md",
     "Untitled.md",
     "interesting sites.md",
-    "discussion is ephemeral.md",
-    "2021-01-06.md"
+    "discussion is ephemeral.md"
   ]
 }
