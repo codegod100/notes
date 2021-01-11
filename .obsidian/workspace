@@ -6,7 +6,6 @@
       {
         "id": "338a842a5283684a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +17,7 @@
       {
         "id": "928f27bd2ea9240a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-09.md",
+                "file": "hyperdraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2021-01-09.md",
-    "remoteStorage.md",
     "hyperdraft.md",
+    "remoteStorage.md",
+    "2021-01-09.md",
     "refactoring notes.md",
     "2020-12-31.md",
     "2021-01-11.md",
