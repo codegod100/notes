@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "asch experiment.md",
+            "file": "pay to win.md",
             "mode": "source"
           }
         }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "black army",
+                "query": "pay to win",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asch experiment.md",
+                "file": "pay to win.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "pay to win.md",
+    "2021-01-10.md",
     "asch experiment.md",
     "2021-01-11.md",
     "the expanding circle.md",
@@ -112,8 +115,6 @@
     "Unfit The Psychology of Donald Trump.md",
     "tending the garden.md",
     "agora.md",
-    "anagora.md",
-    "emotional narrative.md",
-    "gemini.md"
+    "anagora.md"
   ]
 }
