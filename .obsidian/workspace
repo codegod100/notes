@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-11.md",
+            "file": "moscow.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2021-01-11.md",
+            "file": "moscow.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2021-1-1",
+                "query": "black army",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-11.md",
+                "file": "moscow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2021-01-11.md",
-    "tending the garden.md",
-    "2021-1-1.md",
-    "2020-12-31.md",
-    "2021-01-02.md",
-    "mastodon.md",
-    "pinafore.md",
-    "anagora.md",
-    "2020-12-30.md",
-    "shae.md"
+    "moscow.md",
+    "maya kate.md",
+    "lemmy.md",
+    "graph.md",
+    "lame.md",
+    "lainsafe.md",
+    "Janet.md",
+    "2021-01-10_1.md",
+    "2021-01-10.md",
+    "2021-1-1.md"
   ]
 }
