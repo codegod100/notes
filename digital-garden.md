@@ -3,7 +3,4 @@
 -   **Fruits.** Produce [new work](https://www.mentalnodes.com/on-the-newness-of-ideas). These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them [live beyond their expiration date](https://www.mentalnodes.com/living-beyond-your-expiration-date).
 
 
-from https://maggieappleton.com/garden/ [[Maggie Appleton]]
-	-	An open collection of notes, resources, sketches, and explorations I'm currently cultivating. Some notes are Seedlings, some are budding, and some are fully grown Evergreen.
-	-	[[digital garden history]]
-	-	Digital gardening is the [Domestic Cozy](https://www.ribbonfarm.com/series/domestic-cozy/) version of the personal blog. It's less performative than a blog, but more intentional and thoughtful than our Twitter feed.
+[[Maggie Appleton Garden]]
