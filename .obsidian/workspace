@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "moscow.md",
+            "file": "obsidian.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "moscow.md",
+            "file": "obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moscow.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +111,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "moscow.md",
-    "maya kate.md",
-    "lemmy.md",
-    "graph.md",
-    "lame.md",
-    "lainsafe.md",
-    "Janet.md",
-    "2021-01-10_1.md",
-    "2021-01-10.md",
-    "2021-1-1.md"
+    "obsidian.md",
+    "2021-01-11.md",
+    "woah.md",
+    "whatever.md",
+    "wetransfer.md",
+    "volcano.md",
+    "vera.md",
+    "underscore protocol.md",
+    "Upcoming dates.md",
+    "Untitled.md"
   ]
 }
