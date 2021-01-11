@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-1-1.md",
+            "file": "2021-01-11.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2021-1-1.md",
+            "file": "2021-01-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-1-1.md",
+                "file": "2021-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +111,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-01-11.md",
+    "tending the garden.md",
     "2021-1-1.md",
     "2020-12-31.md",
     "2021-01-02.md",
@@ -119,8 +120,6 @@
     "pinafore.md",
     "anagora.md",
     "2020-12-30.md",
-    "shae.md",
-    "vera.md",
-    "Untitled 3.md"
+    "shae.md"
   ]
 }
