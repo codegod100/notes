@@ -15,9 +15,20 @@
         }
       },
       {
-        "id": "7c59d19ee3f975ef",
+        "id": "79c9996cd4e79f7b",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "speculative outlines.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7c59d19ee3f975ef",
+        "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
@@ -86,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "speculative outlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "oilshell.md",
+    "speculative outlines.md",
     "2021-01-11.md",
     "quantum.country.md",
+    "Andy Matuschak.md",
+    "oilshell.md",
     "misskey.md",
     "discussion is ephemeral.md",
     "gomuks.md",
     "golang.md",
-    "cli.md",
-    "subway tooter.md",
-    "fedi server.md"
+    "cli.md"
   ]
 }
