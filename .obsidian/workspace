@@ -6,31 +6,25 @@
       {
         "id": "285b09bf2878087e",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-01-04.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d822cd2dd0a197f2",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-11.md",
-            "mode": "source"
+            "file": "Terrance McKenna.md",
+            "mode": "preview"
           }
-        },
-        "group": "c5eb3a8a352c7bb9"
-      },
-      {
-        "id": "082bf39a15d6ef32",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "2021-01-11.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        },
-        "group": "c5eb3a8a352c7bb9"
+        }
       }
     ],
     "direction": "vertical"
@@ -94,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-11.md",
+                "file": "Terrance McKenna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +105,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terrance McKenna.md",
+    "2021-01-04.md",
     "2021-01-11.md",
     "Untitled.md",
     "obsidian.md",
@@ -118,8 +114,6 @@
     "whatever.md",
     "wetransfer.md",
     "volcano.md",
-    "vera.md",
-    "underscore protocol.md",
-    "Upcoming dates.md"
+    "vera.md"
   ]
 }
