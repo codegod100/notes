@@ -15,46 +15,35 @@
         }
       },
       {
-        "id": "60f62a90ef04dcbe",
+        "id": "bd74f84765b7afd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "subway tooter.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "61b1fdb033d1cc25",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "gomuks.md",
+            "file": "pleroma.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "aee0b34f0ae58109",
+        "id": "3cdc31548412cca3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "quantum.country.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6c082a58495b54dc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "spaced-repetition testing.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7bcec52c62f9c532",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "concrete nouns.md",
+            "file": "fedi client.md",
             "mode": "source"
           }
         }
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gomuks.md",
+                "file": "pleroma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "gomuks.md",
+    "pleroma.md",
+    "fedi client.md",
+    "subway tooter.md",
     "2021-01-11.md",
-    "spaced-repetition testing.md",
+    "gomuks.md",
     "quantum.country.md",
+    "spaced-repetition testing.md",
+    "cli.md",
     "concrete nouns.md",
-    "Maggie Appleton Garden.md",
-    "0data.app.md",
-    "Maggie Appleton.md",
-    "digital garden history.md",
-    "digital-garden.md"
+    "Maggie Appleton Garden.md"
   ]
 }

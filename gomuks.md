@@ -1,3 +1,4 @@
-[[golang]] [[matrix]] client
+[[golang]] [[cli]] [[matrix]] client
 
-[[go]]
+[[go]] https://github.com/tulir/gomuks
+

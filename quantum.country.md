@@ -1,6 +1,6 @@
 [[go]] https://quantum.country
 
-[[project]] [[[Andy Matuschak]]]
+[[project]] [[Andy Matuschak]]
 
 Cool site I discovered while exploring my notes. 
 
