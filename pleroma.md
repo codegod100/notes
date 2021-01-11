@@ -1,2 +1,2 @@
 [[go]] https://pleroma.social/
-[[fedi client]]
+[[fedi server]]

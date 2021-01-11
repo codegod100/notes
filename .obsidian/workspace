@@ -15,35 +15,13 @@
         }
       },
       {
-        "id": "bd74f84765b7afd4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "subway tooter.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "61b1fdb033d1cc25",
+        "id": "87a4ac24b4d5c8bd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pleroma.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3cdc31548412cca3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "fedi client.md",
+            "file": "misskey.md",
             "mode": "source"
           }
         }
@@ -111,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pleroma.md",
+                "file": "misskey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "pleroma.md",
-    "fedi client.md",
-    "subway tooter.md",
+    "misskey.md",
+    "discussion is ephemeral.md",
     "2021-01-11.md",
     "gomuks.md",
-    "quantum.country.md",
-    "spaced-repetition testing.md",
+    "golang.md",
     "cli.md",
-    "concrete nouns.md",
-    "Maggie Appleton Garden.md"
+    "subway tooter.md",
+    "fedi server.md",
+    "pleroma.md",
+    "fedi client.md"
   ]
 }

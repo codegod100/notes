@@ -1,3 +1,5 @@
 [[go]] https://github.com/tateisu/SubwayTooter
 
-full featured [[matrix client]] works with [[pleroma]] and [[misskey]]
+full featured [[fedi client]] works with [[pleroma]] and [[misskey]]
+
+supports multiple tabs open at once
