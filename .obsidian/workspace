@@ -10,18 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-12-31.md",
+            "file": "2021-01-09.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "8a878f23f34a3304",
+        "id": "928f27bd2ea9240a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "refactoring notes.md",
+            "file": "hyperdraft.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-12-31.md",
+                "file": "2021-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-01-09.md",
+    "remoteStorage.md",
+    "hyperdraft.md",
+    "refactoring notes.md",
     "2020-12-31.md",
     "2021-01-11.md",
-    "refactoring notes.md",
     "the expanding circle.md",
     "digital-garden.md",
     "anti-pattern.md",
-    "wetransfer.md",
-    "tending the garden.md",
-    "obsidian.md",
-    "go.md"
+    "wetransfer.md"
   ]
 }
