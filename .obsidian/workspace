@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pay to win.md",
+            "file": "capitalism.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pay to win.md",
+                "file": "capitalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "capitalism.md",
     "pay to win.md",
     "2021-01-10.md",
     "asch experiment.md",
@@ -114,7 +115,6 @@
     "dunbar's number.md",
     "Unfit The Psychology of Donald Trump.md",
     "tending the garden.md",
-    "agora.md",
-    "anagora.md"
+    "agora.md"
   ]
 }
