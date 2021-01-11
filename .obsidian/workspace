@@ -15,9 +15,42 @@
         }
       },
       {
-        "id": "7bcec52c62f9c532",
+        "id": "60f62a90ef04dcbe",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "gomuks.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aee0b34f0ae58109",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "quantum.country.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6c082a58495b54dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "spaced-repetition testing.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7bcec52c62f9c532",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concrete nouns.md",
+                "file": "gomuks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +139,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "concrete nouns.md",
+    "gomuks.md",
     "2021-01-11.md",
+    "spaced-repetition testing.md",
+    "quantum.country.md",
+    "concrete nouns.md",
     "Maggie Appleton Garden.md",
     "0data.app.md",
     "Maggie Appleton.md",
     "digital garden history.md",
-    "digital-garden.md",
-    "Untitled.md",
-    "interesting sites.md",
-    "discussion is ephemeral.md"
+    "digital-garden.md"
   ]
 }
