@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maggie Appleton.md",
+            "file": "interesting sites.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maggie Appleton.md",
+                "file": "interesting sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Maggie Appleton.md",
+    "interesting sites.md",
     "2021-01-11.md",
+    "Untitled.md",
+    "digital garden history.md",
     "digital-garden.md",
+    "Maggie Appleton.md",
     "discussion is ephemeral.md",
     "0data.app.md",
     "2021-01-06.md",
-    "remoteStorage.md",
-    "anti-pattern.md",
-    "2021-01-09.md",
-    "republic services.md"
+    "remoteStorage.md"
   ]
 }
