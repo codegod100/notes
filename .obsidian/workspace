@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "338a842a5283684a",
+        "id": "7a71944aea61000e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "2021-01-11.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "7a71944aea61000e",
+        "id": "aec7bd2986a359c0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "plan file.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f6abf5835ed10f5a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "gemini.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "plan file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
+    "plan file.md",
     "2021-01-11.md",
+    "gemini.md",
+    "smol web.md",
+    "Untitled.md",
     "Andy Matuschak.md",
     "speculative outlines.md",
     "scrying pen.md",
     "quantum.country.md",
-    "oilshell.md",
-    "misskey.md",
-    "discussion is ephemeral.md",
-    "gomuks.md"
+    "oilshell.md"
   ]
 }
