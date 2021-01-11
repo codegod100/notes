@@ -6,22 +6,11 @@
       {
         "id": "338a842a5283684a",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-01-11.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "87a4ac24b4d5c8bd",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misskey.md",
+            "file": "2021-01-11.md",
             "mode": "source"
           }
         }
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misskey.md",
+                "file": "2021-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-01-11.md",
+    "quantum.country.md",
     "misskey.md",
     "discussion is ephemeral.md",
-    "2021-01-11.md",
     "gomuks.md",
     "golang.md",
     "cli.md",
     "subway tooter.md",
     "fedi server.md",
-    "pleroma.md",
-    "fedi client.md"
+    "pleroma.md"
   ]
 }
