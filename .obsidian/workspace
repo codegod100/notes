@@ -6,10 +6,11 @@
       {
         "id": "338a842a5283684a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-11.md",
+            "file": "2020-12-31.md",
             "mode": "source"
           }
         }
@@ -17,22 +18,10 @@
       {
         "id": "8a878f23f34a3304",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "refactoring notes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9771f75f07b55211",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "anti-pattern.md",
             "mode": "source"
           }
         }
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "refactoring notes.md",
+                "file": "2020-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "refactoring notes.md",
+    "2020-12-31.md",
     "2021-01-11.md",
+    "refactoring notes.md",
+    "the expanding circle.md",
+    "digital-garden.md",
     "anti-pattern.md",
     "wetransfer.md",
     "tending the garden.md",
     "obsidian.md",
-    "go.md",
-    "asch experiment.md",
-    "ever expanding project.md",
-    "capitalism.md"
+    "go.md"
   ]
 }
