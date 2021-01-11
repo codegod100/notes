@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-11.md",
+            "file": "obsidian.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "f23d618db607f216",
+        "id": "41eccb9edeb11925",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "capitalism.md",
+            "file": "tending the garden.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "capitalism.md",
+                "file": "tending the garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "tending the garden.md",
+    "obsidian.md",
+    "go.md",
+    "2021-01-11.md",
+    "asch experiment.md",
+    "ever expanding project.md",
     "capitalism.md",
     "pay to win.md",
     "2021-01-10.md",
-    "asch experiment.md",
-    "2021-01-11.md",
-    "the expanding circle.md",
-    "dunbar's number.md",
-    "Unfit The Psychology of Donald Trump.md",
-    "tending the garden.md",
-    "agora.md"
+    "the expanding circle.md"
   ]
 }
