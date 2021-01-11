@@ -1,0 +1,1 @@
+A way of doing something that may be popular but is wrong based on collective research

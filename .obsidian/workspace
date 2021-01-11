@@ -9,19 +9,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "2021-01-11.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "41eccb9edeb11925",
+        "id": "8a878f23f34a3304",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tending the garden.md",
+            "file": "refactoring notes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9771f75f07b55211",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "anti-pattern.md",
             "mode": "source"
           }
         }
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tending the garden.md",
+                "file": "refactoring notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "refactoring notes.md",
+    "2021-01-11.md",
+    "anti-pattern.md",
+    "wetransfer.md",
     "tending the garden.md",
     "obsidian.md",
     "go.md",
-    "2021-01-11.md",
     "asch experiment.md",
     "ever expanding project.md",
-    "capitalism.md",
-    "pay to win.md",
-    "2021-01-10.md",
-    "the expanding circle.md"
+    "capitalism.md"
   ]
 }
