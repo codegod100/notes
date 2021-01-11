@@ -10,18 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "anagora.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8badfb8959285157",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "the expanding circle.md",
+            "file": "2021-01-11.md",
             "mode": "source"
           }
         }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anagora.md",
+                "file": "2021-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "anagora.md",
-    "agora.md",
     "2021-01-11.md",
-    "emotional narrative.md",
     "the expanding circle.md",
-    "gemini.md",
-    "oh-nice.md",
-    "Aaron Parecki.md",
-    "brainstorm.md",
-    "digital-garden.md"
+    "dunbar's number.md",
+    "Unfit The Psychology of Donald Trump.md",
+    "asch experiment.md",
+    "tending the garden.md",
+    "agora.md",
+    "anagora.md",
+    "emotional narrative.md",
+    "gemini.md"
   ]
 }
