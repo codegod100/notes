@@ -6,31 +6,20 @@
       {
         "id": "338a842a5283684a",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-01-11.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "79c9996cd4e79f7b",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "speculative outlines.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "7c59d19ee3f975ef",
+        "id": "7a71944aea61000e",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "speculative outlines.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +103,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "speculative outlines.md",
+    "Untitled.md",
     "2021-01-11.md",
-    "quantum.country.md",
     "Andy Matuschak.md",
+    "speculative outlines.md",
+    "scrying pen.md",
+    "quantum.country.md",
     "oilshell.md",
     "misskey.md",
     "discussion is ephemeral.md",
-    "gomuks.md",
-    "golang.md",
-    "cli.md"
+    "gomuks.md"
   ]
 }
