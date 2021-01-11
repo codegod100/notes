@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "obsidian.md",
+            "file": "index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "obsidian.md",
     "2021-01-11.md",
     "woah.md",
@@ -119,7 +120,6 @@
     "volcano.md",
     "vera.md",
     "underscore protocol.md",
-    "Upcoming dates.md",
-    "Untitled.md"
+    "Upcoming dates.md"
   ]
 }

@@ -1,0 +1,1 @@
+The front page to my [[digital-garden]]. Hi mom!
