@@ -15,13 +15,24 @@
         }
       },
       {
-        "id": "b03faa9e214eb68d",
+        "id": "e8d3f2aa72f8f7c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "moa.party.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2d552f1a7dee8f04",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "moa.party.md",
+            "file": "Mastodon-Twitter Crossposter.md",
             "mode": "source"
           }
         }
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moa.party.md",
+                "file": "Mastodon-Twitter Crossposter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +117,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Mastodon-Twitter Crossposter.md",
     "moa.party.md",
     "2021-01-11.md",
     "Andy Matuschak.md",
@@ -114,7 +126,6 @@
     "gemini.md",
     "smol web.md",
     "Untitled.md",
-    "speculative outlines.md",
-    "scrying pen.md"
+    "speculative outlines.md"
   ]
 }
