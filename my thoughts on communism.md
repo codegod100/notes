@@ -4,7 +4,7 @@ my first attempt at [[speculative outlines]]
 
 [[rojava]]
 
-[[Abdullah Ocalan]]
+[[Abdullah Öcalan]]
 
 [[Murray Bookchin]]
 
