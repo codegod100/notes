@@ -1,6 +1,6 @@
 [[rojava]]
 
-[[Abdullah Ocalan]]
+[[Abdullah calan]]
 
 [[Murray Bookchin]]
 
