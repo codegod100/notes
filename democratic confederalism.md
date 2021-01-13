@@ -1,3 +1,10 @@
 [[rojava]]
 
-[[Abdullah Oca]]
+[[Abdullah Ocalan]]
+
+[[Murray Bookchin]]
+
+[[feminism]]
+
+[[ecology]]
+

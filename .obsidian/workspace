@@ -6,10 +6,11 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "my thoughts on communism.md",
+            "file": "2021-01-12.md",
             "mode": "source"
           }
         }
@@ -17,7 +18,6 @@
       {
         "id": "dd1eefc0e056f5b5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,12 +27,12 @@
         }
       },
       {
-        "id": "641f05dd97204509",
+        "id": "27d66d6167bdf466",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "speculative outlines.md",
+            "file": "Murray Bookchin.md",
             "mode": "source"
           }
         }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "democratic confederalism.md",
+                "file": "2021-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "democratic confederalism.md",
+    "2021-01-12.md",
     "my thoughts on communism.md",
+    "maoism.md",
+    "Murray Bookchin.md",
+    "democratic confederalism.md",
+    "feminism.md",
+    "rojava.md",
     "speculative outlines.md",
     "Untitled 1.md",
-    "2021-01-12.md",
-    "2021-01-11.md",
-    "Mastodon-Twitter Crossposter.md",
-    "moa.party.md",
-    "Andy Matuschak.md",
-    "betterexplained.md"
+    "2021-01-11.md"
   ]
 }
