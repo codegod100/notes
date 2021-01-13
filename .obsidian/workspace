@@ -6,11 +6,33 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "my thoughts on communism.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "dd1eefc0e056f5b5",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-11.md",
+            "file": "democratic confederalism.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "641f05dd97204509",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "speculative outlines.md",
             "mode": "source"
           }
         }
@@ -78,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-11.md",
+                "file": "democratic confederalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "democratic confederalism.md",
+    "my thoughts on communism.md",
+    "speculative outlines.md",
+    "Untitled 1.md",
+    "2021-01-12.md",
     "2021-01-11.md",
     "Mastodon-Twitter Crossposter.md",
     "moa.party.md",
     "Andy Matuschak.md",
-    "betterexplained.md",
-    "plan file.md",
-    "gemini.md",
-    "smol web.md",
-    "Untitled.md",
-    "speculative outlines.md"
+    "betterexplained.md"
   ]
 }
