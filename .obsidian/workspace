@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7a71944aea61000e",
+        "id": "ca38805baaecd625",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-16.md",
+            "file": "2021-01-17.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-16.md",
+                "file": "2021-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-01-17.md",
+    "passive learning.md",
     "2021-01-16.md",
     "opression of women.md",
     "jineologi.md",
     "speculative outline.md",
-    "2021-01-17.md",
     "bookchin quotes.md",
     "Murray Bookchin.md",
     "ATAK.md",
-    "preliterate society.md",
-    "OCR.md"
+    "preliterate society.md"
   ]
 }
