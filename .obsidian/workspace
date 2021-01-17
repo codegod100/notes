@@ -6,6 +6,7 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "cee88079214a7b0d",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prolertarian culture.md",
+                "file": "2021-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "prolertarian culture.md",
     "2021-01-16.md",
+    "2021-01-02.md",
+    "firefox.md",
+    "prolertarian culture.md",
     "jstor.md",
     "prolertarian geometry.md",
     "my thoughts on communism.md",
     "2021-01-15.md",
     "anti-pattern.md",
-    "2021-01-12.md",
-    "democratic confederalism.md",
-    "Abdullah Öcalan.md"
+    "2021-01-12.md"
   ]
 }
