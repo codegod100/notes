@@ -15,3 +15,5 @@ my first attempt at [[speculative outlines]]
 [[maoism]]
 
 [[prolertarian culture]]
+
+[[paris commune]]

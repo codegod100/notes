@@ -18,3 +18,7 @@ Other names:
 
 
 -	[[utopianism]]
+
+
+[[paris commune]]
+-	controlled the capital for 2 months by [[dictatorship of the proletariat]]
