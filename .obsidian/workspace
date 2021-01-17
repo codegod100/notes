@@ -6,11 +6,22 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021-01-16.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ff38c8ed3e9d05f4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ATAK.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-16.md",
+                "file": "ATAK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +106,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "ATAK.md",
     "2021-01-16.md",
     "wetransfer.md",
     "2021-01-12.md",
@@ -103,7 +115,6 @@
     "2021-01-04.md",
     "reviewing notes.md",
     "kanopy.md",
-    "my thoughts on communism.md",
-    "Murray Bookchin.md"
+    "my thoughts on communism.md"
   ]
 }
