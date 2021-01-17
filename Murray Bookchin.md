@@ -10,4 +10,4 @@
 
 [[realm of freedom]]
 
-[[strugle of nature and society]]
+[[struggle of nature and society]]

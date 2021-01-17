@@ -9,3 +9,5 @@ Marx's image of the "savage who wrestles with nature" is not an expression so mu
 [[Abdullah Öcalan]]
 
 [[rojava]]
+
+[[struggle of nature and society]]
