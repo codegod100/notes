@@ -6,22 +6,11 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-01-16.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ff38c8ed3e9d05f4",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ATAK.md",
+            "file": "2021-01-16.md",
             "mode": "source"
           }
         }
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATAK.md",
+                "file": "2021-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "ATAK.md",
     "2021-01-16.md",
+    "ebook resources.md",
+    "jstor.md",
+    "ATAK.md",
     "wetransfer.md",
     "2021-01-12.md",
     "world at war.md",
     "2021-01-11.md",
     "2021-01-04.md",
-    "reviewing notes.md",
-    "kanopy.md",
-    "my thoughts on communism.md"
+    "reviewing notes.md"
   ]
 }
