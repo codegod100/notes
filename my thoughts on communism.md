@@ -13,3 +13,5 @@ my first attempt at [[speculative outlines]]
 [[anarchism]]
 
 [[maoism]]
+
+[[prolertarian geometry]]
