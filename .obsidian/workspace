@@ -6,33 +6,11 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-01-16.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "246ca2a3539ae528",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Murray Bookchin.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "fca43329ca2d6ebd",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bookchin quotes.md",
+            "file": "2021-01-17.md",
             "mode": "source"
           }
         }
@@ -100,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bookchin quotes.md",
+                "file": "2021-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-01-17.md",
+    "2021-01-16.md",
     "bookchin quotes.md",
     "Murray Bookchin.md",
     "ATAK.md",
-    "2021-01-16.md",
     "preliterate society.md",
     "OCR.md",
     "gerontocracy.md",
     "opression of women.md",
-    "struggle of nature and society.md",
-    "dialectical tension.md"
+    "struggle of nature and society.md"
   ]
 }
