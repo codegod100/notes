@@ -6,7 +6,6 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,12 +15,13 @@
         }
       },
       {
-        "id": "f9726b127d7afc2b",
+        "id": "246ca2a3539ae528",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "opression of women.md",
+            "file": "ATAK.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-16.md",
+                "file": "ATAK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "ATAK.md",
     "2021-01-16.md",
+    "preliterate society.md",
     "OCR.md",
     "gerontocracy.md",
     "opression of women.md",
     "struggle of nature and society.md",
     "dialectical tension.md",
     "Murray Bookchin.md",
-    "Abdullah Öcalan.md",
-    "gender caste system.md",
-    "jineologi.md"
+    "Abdullah Öcalan.md"
   ]
 }
