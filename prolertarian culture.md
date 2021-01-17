@@ -22,3 +22,4 @@ Other names:
 
 [[paris commune]]
 -	controlled the capital for 2 months by [[dictatorship of the proletariat]]
+-	so many [[communist]] revolutions are so bloody. I wonder if we can solve that in the modern era.
