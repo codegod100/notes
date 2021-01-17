@@ -14,4 +14,4 @@ my first attempt at [[speculative outlines]]
 
 [[maoism]]
 
-[[prolertarian geometry]]
+[[prolertarian culture]]
