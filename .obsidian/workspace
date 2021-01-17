@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-01-16.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +92,14 @@
   },
   "lastOpenFiles": [
     "2021-01-16.md",
+    "my thoughts on communism.md",
+    "Murray Bookchin.md",
+    "bookchin.md",
+    "private matrix channel.md",
+    "matrix.md",
     "passive learning.md",
     "prolertarian culture.md",
-    "my thoughts on communism.md",
     "2021-01-02.md",
-    "philomena cunk.md",
-    "peertube.md",
-    "maya kate.md",
-    "firefox.md",
-    "jstor.md"
+    "philomena cunk.md"
   ]
 }
