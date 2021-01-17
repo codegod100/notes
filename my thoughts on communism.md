@@ -1,4 +1,4 @@
-my first attempt at [[speculative outlines]]
+my first attempt at [[speculative outline]]
 
 [[democratic confederalism]]
 

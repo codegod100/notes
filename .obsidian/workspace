@@ -6,7 +6,6 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,8 +15,9 @@
         }
       },
       {
-        "id": "d22bc0f15dd2426d",
+        "id": "f9726b127d7afc2b",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-16.md",
+                "file": "Murray Bookchin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2021-01-16.md",
-    "bookchin.md",
     "Murray Bookchin.md",
+    "opression of women.md",
+    "2021-01-16.md",
+    "Abdullah Öcalan.md",
+    "gender caste system.md",
+    "jineologi.md",
+    "speculative outlines.md",
+    "bookchin.md",
     "ebook resources.md",
-    "jstor.md",
-    "ATAK.md",
-    "wetransfer.md",
-    "2021-01-12.md",
-    "world at war.md",
-    "2021-01-11.md"
+    "jstor.md"
   ]
 }
