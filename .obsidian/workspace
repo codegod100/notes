@@ -6,11 +6,10 @@
       {
         "id": "7a71944aea61000e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-16.md",
+            "file": "2021-01-02.md",
             "mode": "source"
           }
         }
@@ -18,13 +17,31 @@
       {
         "id": "cee88079214a7b0d",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "prolertarian culture.md",
-            "mode": "preview"
+            "file": "maya kate.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "eecf2c644d7a8d23"
+      },
+      {
+        "id": "d8f4e4bb2940d052",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "maya kate.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        },
+        "group": "eecf2c644d7a8d23"
       }
     ],
     "direction": "vertical"
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-16.md",
+                "file": "maya kate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2021-01-16.md",
+    "maya kate.md",
     "2021-01-02.md",
-    "firefox.md",
+    "2021-01-16.md",
     "prolertarian culture.md",
+    "firefox.md",
     "jstor.md",
     "prolertarian geometry.md",
     "my thoughts on communism.md",
     "2021-01-15.md",
-    "anti-pattern.md",
-    "2021-01-12.md"
+    "anti-pattern.md"
   ]
 }
