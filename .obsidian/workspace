@@ -17,7 +17,6 @@
       {
         "id": "66e89feac22d2e99",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -29,6 +28,7 @@
       {
         "id": "47f9957b55de0704",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "svelte.md",
+                "file": "simplecss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "simplecss.md",
+    "purecss.md",
     "svelte.md",
     "2021-01-19.md",
-    "simplecss.md",
     "2021-01-04.md",
     "lxqt.md",
     "2021-01-11.md",
     "obsidian.md",
     "note refactoring.md",
-    "2021-01-18.md",
-    "2020-12-31.md"
+    "2021-01-18.md"
   ]
 }
