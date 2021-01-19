@@ -1,3 +1,4 @@
 [[go]] https://svelte.dev/
 
-- [ ] [[todo]] look into this more, seems interesting
+- [x] [[todo]] look into this more, seems interesting
+- might work well with [[sim]]
