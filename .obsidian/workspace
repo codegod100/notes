@@ -15,9 +15,20 @@
         }
       },
       {
-        "id": "22f7ddb45bfeef69",
+        "id": "47f9957b55de0704",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "svelte.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "22f7ddb45bfeef69",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -88,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lxqt.md",
+                "file": "svelte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +116,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "lxqt.md",
+    "svelte.md",
     "2021-01-19.md",
+    "lxqt.md",
     "2021-01-11.md",
     "obsidian.md",
-    "svelte.md",
     "note refactoring.md",
     "2021-01-18.md",
     "2020-12-31.md",
