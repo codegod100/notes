@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "red army killed black army.md",
+            "file": "2021-01-19.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "red army killed black army.md",
+                "file": "2021-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "red army killed black army.md",
     "2021-01-19.md",
+    "red army killed black army.md",
     "simplecss.md",
     "purecss.md",
     "svelte.md",
