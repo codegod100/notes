@@ -1,0 +1,3 @@
+-	besides not being the prettiest, it is very fast and responsive
+-	I've configured it so that it looks presentable
+-	so "single click to activate items" just means enable tap, ugh I hate developers sometimes
