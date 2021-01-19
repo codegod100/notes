@@ -6,44 +6,11 @@
       {
         "id": "6bd50303e517d9b9",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-01-19.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "66e89feac22d2e99",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "svelte.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "47f9957b55de0704",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "simplecss.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "22f7ddb45bfeef69",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "lxqt.md",
+            "file": "2021-01-19.md",
             "mode": "source"
           }
         }
@@ -111,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "simplecss.md",
+                "file": "2021-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +95,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-01-19.md",
     "simplecss.md",
     "purecss.md",
     "svelte.md",
-    "2021-01-19.md",
     "2021-01-04.md",
     "lxqt.md",
     "2021-01-11.md",
