@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-19.md",
+            "file": "red army killed black army.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "css",
+                "query": "black arm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-19.md",
+                "file": "red army killed black army.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "red army killed black army.md",
     "2021-01-19.md",
     "simplecss.md",
     "purecss.md",
@@ -103,7 +104,6 @@
     "lxqt.md",
     "2021-01-11.md",
     "obsidian.md",
-    "note refactoring.md",
-    "2021-01-18.md"
+    "note refactoring.md"
   ]
 }
