@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "speculative outline.md",
+                "file": "bookchin.md",
                 "mode": "source"
               }
             }
@@ -47,7 +47,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "speculative outline.md",
+                "file": "bookchin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "black arm",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "speculative outline.md",
+                "file": "bookchin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "bookchin.md",
     "speculative outline.md",
     "opression of women.md",
     "notes on old books.md",
@@ -147,7 +148,6 @@
     "artwork in old books.md",
     "notes on quantum mechanics.md",
     "2021-01-21.md",
-    "2021-01-11.md",
-    "discussion is ephemeral.md"
+    "2021-01-11.md"
   ]
 }
