@@ -6,6 +6,7 @@
       {
         "id": "79bbb68f9b170af1",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "346be84f2783db07",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quantum decoherence.md",
+                "file": "2021-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "quantum decoherence.md",
     "2021-01-20.md",
+    "quantum decoherence.md",
     "english as she is spoke.md",
     "artwork in old books.md",
     "go.md",
