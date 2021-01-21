@@ -6,11 +6,22 @@
       {
         "id": "8a613df379ae5231",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021-01-21.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e5cf0f8bd7b6f0b8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes on quantum mechanics.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-21.md",
+                "file": "notes on quantum mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,13 +106,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes on quantum mechanics.md",
     "2021-01-21.md",
     "2021-01-11.md",
     "discussion is ephemeral.md",
     "the expanding circle.md",
     "go.md",
     "2021-01-20.md",
-    "notes on quantum mechanics.md",
     "artwork in old books.md",
     "speculative outline.md",
     "english as she is spoke.md"
