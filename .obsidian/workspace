@@ -26,38 +26,16 @@
         }
       },
       {
-        "id": "6e584071d23c1124",
-        "type": "split",
-        "children": [
-          {
-            "id": "01a4a26494e1b90c",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookchin.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "682f602ce8afae03",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "bookchin.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
+        "id": "cc9c63698df401ad",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "self-locating uncertainty.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -122,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bookchin.md",
+                "file": "self-locating uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "self-locating uncertainty.md",
+    "notes on quantum mechanics.md",
+    "2021-01-21.md",
     "bookchin.md",
     "speculative outline.md",
     "opression of women.md",
     "notes on old books.md",
     "my thoughts on communism.md",
     "2021-01-18.md",
-    "artwork in old books.md",
-    "notes on quantum mechanics.md",
-    "2021-01-21.md",
-    "2021-01-11.md"
+    "artwork in old books.md"
   ]
 }
