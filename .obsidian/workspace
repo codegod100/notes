@@ -17,7 +17,6 @@
       {
         "id": "e5cf0f8bd7b6f0b8",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -25,6 +24,40 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "6e584071d23c1124",
+        "type": "split",
+        "children": [
+          {
+            "id": "01a4a26494e1b90c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "speculative outline.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "682f602ce8afae03",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "speculative outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -89,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes on quantum mechanics.md",
+                "file": "speculative outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +139,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "speculative outline.md",
+    "opression of women.md",
+    "notes on old books.md",
+    "my thoughts on communism.md",
+    "2021-01-18.md",
+    "artwork in old books.md",
     "notes on quantum mechanics.md",
     "2021-01-21.md",
     "2021-01-11.md",
-    "discussion is ephemeral.md",
-    "the expanding circle.md",
-    "go.md",
-    "2021-01-20.md",
-    "artwork in old books.md",
-    "speculative outline.md",
-    "english as she is spoke.md"
+    "discussion is ephemeral.md"
   ]
 }
