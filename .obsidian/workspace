@@ -6,11 +6,22 @@
       {
         "id": "79bbb68f9b170af1",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021-01-20.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8a613df379ae5231",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes on quantum mechanics.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-20.md",
+                "file": "notes on quantum mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes on quantum mechanics.md",
+    "hyperdraft.md",
+    "go.md",
     "2021-01-20.md",
+    "copenhagen interpretation of quantum mechanics.md",
     "a-b-o.md",
     "quantum decoherence.md",
     "english as she is spoke.md",
     "artwork in old books.md",
-    "go.md",
-    "DjVu.md",
-    "2021-01-19.md",
-    "red army killed black army.md",
-    "simplecss.md"
+    "DjVu.md"
   ]
 }
