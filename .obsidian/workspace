@@ -6,12 +6,23 @@
       {
         "id": "79bbb68f9b170af1",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-01-20.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "346be84f2783db07",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "english as she is spoke.md",
-            "mode": "preview"
+            "file": "quantum decoherence.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english as she is spoke.md",
+                "file": "quantum decoherence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "quantum decoherence.md",
+    "2021-01-20.md",
     "english as she is spoke.md",
     "artwork in old books.md",
-    "2021-01-20.md",
     "go.md",
     "DjVu.md",
     "2021-01-19.md",
     "red army killed black army.md",
     "simplecss.md",
-    "purecss.md",
-    "svelte.md"
+    "purecss.md"
   ]
 }
