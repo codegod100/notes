@@ -14,6 +14,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "029910b6b7def912",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DjVu.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -96,6 +107,7 @@
   },
   "lastOpenFiles": [
     "2021-01-20.md",
+    "DjVu.md",
     "2021-01-19.md",
     "red army killed black army.md",
     "simplecss.md",
@@ -103,7 +115,6 @@
     "svelte.md",
     "2021-01-04.md",
     "lxqt.md",
-    "2021-01-11.md",
-    "obsidian.md"
+    "2021-01-11.md"
   ]
 }
