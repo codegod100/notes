@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "79bbb68f9b170af1",
+        "id": "8a613df379ae5231",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021-01-21.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "8a613df379ae5231",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -86,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "go.md",
     "2021-01-21.md",
+    "2021-01-11.md",
+    "discussion is ephemeral.md",
+    "the expanding circle.md",
+    "go.md",
     "2021-01-20.md",
     "notes on quantum mechanics.md",
     "artwork in old books.md",
     "speculative outline.md",
-    "english as she is spoke.md",
-    "a-b-o.md",
-    "fanfic.md",
-    "slash.md"
+    "english as she is spoke.md"
   ]
 }

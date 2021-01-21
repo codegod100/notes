@@ -9,3 +9,6 @@ Examples of _reference_ can include: wikis, git repositories, project documentat
 _Discussion_ begins to fade the moment it is published. It can be temporarily revived (bumped) by some kind of activity or update, but this itself is a form of _discussion_ that begins to fade on arrival.
 
 they automatically delete chat messages older than a few weeks to discourage relying on it for long-term archival. In retrospectives, team members often reflect on whether they chose the right medium (email, chat, or forum) for various conversations.
+
+
+convert chats into notes
