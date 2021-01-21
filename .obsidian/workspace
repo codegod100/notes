@@ -32,6 +32,7 @@
           {
             "id": "01a4a26494e1b90c",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -43,7 +44,6 @@
           {
             "id": "682f602ce8afae03",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "backlink",
               "state": {
