@@ -6,3 +6,6 @@ was trying to explain to my friend the other day how [[quantum decoherence]] is 
 	-	In the [[copenhagen interpretation of quantum mechanics]], there is only one observer and the universe "collapses" to show us what's "really happening"
 		-	this is how quantum mechanics is usually explained and I don't like it because it adds extra stuff that doesn't need to be there for the sake of making people "feel better", which I believe to be one of the greatest sins of science
 -	[[side note]] the TV shows [[devs]] is an interesting show that talks about quantum mechanics from a very mathematically sound perspective
+
+
+[[self-locating uncertainty]]

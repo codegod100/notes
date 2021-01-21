@@ -15,9 +15,20 @@
         }
       },
       {
-        "id": "8a613df379ae5231",
+        "id": "58b79e57880ee2bf",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "a-b-o.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8a613df379ae5231",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes on quantum mechanics.md",
+                "file": "a-b-o.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "a-b-o.md",
+    "2021-01-20.md",
+    "create your own content.md",
+    "dogmatist.md",
     "notes on quantum mechanics.md",
     "hyperdraft.md",
     "go.md",
-    "2021-01-20.md",
     "copenhagen interpretation of quantum mechanics.md",
-    "a-b-o.md",
     "quantum decoherence.md",
-    "english as she is spoke.md",
-    "artwork in old books.md",
-    "DjVu.md"
+    "english as she is spoke.md"
   ]
 }
