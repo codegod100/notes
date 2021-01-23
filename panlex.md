@@ -1,0 +1,1 @@
+[[go]] panlex.org

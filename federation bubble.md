@@ -1,0 +1,1 @@
+bubbles that are created because not everything in [[the federation]] is 100% compatible with everything else, so you get pockets of connectivity and pockets of disconnectedness

@@ -6,35 +6,21 @@
       {
         "id": "8a613df379ae5231",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-01-21.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e5cf0f8bd7b6f0b8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes on quantum mechanics.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "cc9c63698df401ad",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "self-locating uncertainty.md",
+            "file": "2021-01-23.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "04cb07ad18a5f59f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -79,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-locating uncertainty.md",
+                "file": "2021-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "self-locating uncertainty.md",
-    "notes on quantum mechanics.md",
-    "2021-01-21.md",
-    "bookchin.md",
-    "speculative outline.md",
-    "opression of women.md",
-    "notes on old books.md",
-    "my thoughts on communism.md",
-    "2021-01-18.md",
-    "artwork in old books.md"
+    "2021-01-23.md",
+    "ebook resources.md",
+    "struggle of nature and society.md",
+    "guppe.md",
+    "the federation.md",
+    "federation bubble.md",
+    "fediverse.md",
+    "spritelyproject.md",
+    "activitypub.md",
+    "panlex.md"
   ]
 }

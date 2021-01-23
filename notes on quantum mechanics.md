@@ -9,3 +9,5 @@ was trying to explain to my friend the other day how [[quantum decoherence]] is 
 
 
 [[self-locating uncertainty]]
+
+[[born-rule]]
