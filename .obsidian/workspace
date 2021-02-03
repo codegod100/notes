@@ -16,6 +16,17 @@
         }
       },
       {
+        "id": "9f7524d5794d4106",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "muggle work.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "a0ad8bb66110f2ac",
         "type": "leaf",
         "state": {
@@ -106,6 +117,7 @@
   },
   "lastOpenFiles": [
     "2021-02-02.md",
+    "muggle work.md",
     "2021-01-23.md",
     "icon duck.md",
     "2020-12-27.md",
@@ -113,7 +125,6 @@
     "visual masturbation.md",
     "ebook resources.md",
     "struggle of nature and society.md",
-    "guppe.md",
-    "the federation.md"
+    "guppe.md"
   ]
 }
