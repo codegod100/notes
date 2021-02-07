@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-02-04.md",
+            "file": "2021-02-06.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "01908f37c2c3ad78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "real talk.md",
             "mode": "source"
           }
         }
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-04.md",
+                "file": "2021-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +105,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-02-06.md",
+    "real talk.md",
     "2021-02-04.md",
     "icon duck.md",
     "go.md",
@@ -101,8 +114,6 @@
     "2021-02-02.md",
     "2021-01-23.md",
     "2020-12-27.md",
-    "panlex.md",
-    "visual masturbation.md",
-    "ebook resources.md"
+    "panlex.md"
   ]
 }
