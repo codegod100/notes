@@ -9,30 +9,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-02-06.md",
+            "file": "2021-02-07.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "35e0a430a825a950",
+        "id": "2a13f5a769a7e30f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "emotional narrative.md",
+            "file": "agorans.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "01908f37c2c3ad78",
+        "id": "fdbcdf0a412fc839",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "real talk.md",
+            "file": "boris mann.md",
             "mode": "source"
           }
         }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emotional narrative.md",
+                "file": "agorans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "emotional narrative.md",
+    "agorans.md",
+    "boris mann.md",
+    "2021-02-07.md",
     "2021-02-06.md",
+    "emotional narrative.md",
     "real talk.md",
     "2021-02-04.md",
     "icon duck.md",
     "go.md",
-    "muggle work.md",
-    "2021-02-02.md",
-    "2021-01-23.md",
-    "2020-12-27.md"
+    "muggle work.md"
   ]
 }
