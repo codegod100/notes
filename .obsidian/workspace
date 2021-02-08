@@ -4,57 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4854df4e9ad225aa",
+        "id": "22930f004bbbfa69",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-02-07.md",
+            "file": "2021-02-08.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "22930f004bbbfa69",
+        "id": "60aae8e67a57f8ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "radical cooperation.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2599a028000431d1",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web palette.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1c8a0bd9c6570363",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "coolors.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2a13f5a769a7e30f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "agorans.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "fdbcdf0a412fc839",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "boris mann.md",
+            "file": "semantic idea.md",
             "mode": "source"
           }
         }
@@ -121,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web palette.md",
+                "file": "semantic idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "semantic idea.md",
+    "radical cooperation.md",
+    "2021-02-08.md",
     "web palette.md",
     "2021-02-07.md",
     "coolors.md",
     "agorans.md",
     "boris mann.md",
     "2021-02-06.md",
-    "emotional narrative.md",
-    "real talk.md",
-    "2021-02-04.md",
-    "icon duck.md"
+    "emotional narrative.md"
   ]
 }
