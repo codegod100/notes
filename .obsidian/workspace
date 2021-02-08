@@ -6,6 +6,7 @@
       {
         "id": "22930f004bbbfa69",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -28,7 +29,6 @@
       {
         "id": "2599a028000431d1",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semantic idea.md",
+                "file": "2021-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-02-08.md",
     "semantic idea.md",
     "radical cooperation.md",
-    "2021-02-08.md",
     "web palette.md",
     "2021-02-07.md",
     "coolors.md",
