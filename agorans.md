@@ -4,3 +4,4 @@ My list of people contributing to the agora development (separate from agora gar
 -	[[aly]] PST
 -	[[flancian]] CET
 -	[[vera]] PST
+-	[[karlicoss]] GMT

@@ -6,11 +6,22 @@
       {
         "id": "22930f004bbbfa69",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021-02-07.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0cfa5d1ce45809a5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agorans.md",
             "mode": "source"
           }
         }
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-07.md",
+                "file": "agorans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +127,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "agorans.md",
+    "karlicoss.md",
     "2021-02-07.md",
     "2021-02-08.md",
     "semantic idea.md",
     "radical cooperation.md",
     "web palette.md",
     "coolors.md",
-    "agorans.md",
     "boris mann.md",
-    "2021-02-06.md",
-    "emotional narrative.md"
+    "2021-02-06.md"
   ]
 }
