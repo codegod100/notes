@@ -5,3 +5,4 @@ My list of people contributing to the agora development (separate from agora gar
 -	[[flancian]] CET
 -	[[vera]] PST
 -	[[karlicoss]] GMT
+-	[[olofl]] CET
