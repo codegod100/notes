@@ -6,11 +6,22 @@
       {
         "id": "22930f004bbbfa69",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-02-14.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "560dd2079f3d8e58",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-02-11.md",
+            "file": "public key.md",
             "mode": "source"
           }
         }
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-11.md",
+                "file": "public key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +105,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "public key.md",
+    "2021-02-14.md",
     "2021-02-11.md",
     "integration of the agora.md",
     "2021-02-09.md",
@@ -101,8 +114,6 @@
     "session.md",
     "obsidian.md",
     "2021-02-07.md",
-    "karlicoss.md",
-    "2021-02-08.md",
-    "semantic idea.md"
+    "karlicoss.md"
   ]
 }
