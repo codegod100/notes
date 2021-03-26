@@ -1,1 +1,1 @@
-[[pull]] tending the garden
+[[pull]] [[tending the garden]]
