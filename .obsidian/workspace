@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "red army killed black army.md",
+            "file": "2021-03-26.md",
             "mode": "source"
           }
         }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "black ar",
+                "query": "tend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "red army killed black army.md",
+                "file": "2021-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-03-26.md",
     "red army killed black army.md",
     "2021-03-25.md",
     "2021-03-10.md",
@@ -113,7 +115,6 @@
     "2021-02-11.md",
     "integration of the agora.md",
     "2021-02-09.md",
-    "agorans.md",
-    "session.md"
+    "agorans.md"
   ]
 }
