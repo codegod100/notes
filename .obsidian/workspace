@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-03-26.md",
+            "file": "tend the garden.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-03-26.md",
+                "file": "tend the garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "tending the garden.md",
     "2021-03-26.md",
     "red army killed black army.md",
     "2021-03-25.md",
@@ -113,8 +115,6 @@
     "2021-02-14.md",
     "public key.md",
     "2021-02-11.md",
-    "integration of the agora.md",
-    "2021-02-09.md",
-    "agorans.md"
+    "integration of the agora.md"
   ]
 }
