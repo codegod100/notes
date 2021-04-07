@@ -10,29 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-04-06.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "57f575cbfd7aa152",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily meditation.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "648c3ae7d212c4e1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "public key.md",
+            "file": "2021-04-07.md",
             "mode": "source"
           }
         }
@@ -99,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-04-06.md",
+                "file": "2021-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-04-07.md",
+    "public key.md",
+    "primary focus of the day.md",
     "2021-04-06.md",
     "2021-04-05.md",
     "Untitled 1.md",
     "2021-03-25.md",
     "2021-03-10.md",
     "2021-03-26.md",
-    "2021-04-04.md",
-    "daily meditation.md",
-    "tending the garden.md",
-    "red army killed black army.md"
+    "2021-04-04.md"
   ]
 }
