@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-04-07.md",
+            "file": "2021-04-08.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-04-07.md",
+                "file": "2021-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +94,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-04-08.md",
     "2021-04-07.md",
     "public key.md",
     "primary focus of the day.md",
@@ -102,7 +103,6 @@
     "Untitled 1.md",
     "2021-03-25.md",
     "2021-03-10.md",
-    "2021-03-26.md",
-    "2021-04-04.md"
+    "2021-03-26.md"
   ]
 }
