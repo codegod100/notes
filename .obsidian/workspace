@@ -13,6 +13,50 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "53cad81a417c1859",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "communal house.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ce28b733625b5393",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "commune.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0f5bcce338b00fde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "intentional living.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "372c6af1298a698b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "social justice.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-04-10.md",
+                "file": "social justice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22930f004bbbfa69",
+  "active": "372c6af1298a698b",
   "lastOpenFiles": [
+    "social justice.md",
+    "intentional living.md",
+    "commune.md",
+    "communal house.md",
     "2021-04-10.md",
     "2021-04-09.md",
     "2021-04-08.md",
     "aether.md",
     "2021-04-07.md",
-    "public key.md",
-    "primary focus of the day.md",
-    "2021-04-06.md",
-    "2021-04-05.md",
-    "Untitled 1.md"
+    "public key.md"
   ]
 }
