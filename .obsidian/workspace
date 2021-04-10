@@ -6,7 +6,6 @@
       {
         "id": "22930f004bbbfa69",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,6 +80,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,6 +94,7 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "22930f004bbbfa69",
   "lastOpenFiles": [
     "2021-04-10.md",
     "2021-04-09.md",
