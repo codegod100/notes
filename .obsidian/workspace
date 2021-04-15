@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ctzn.md",
+            "file": "vera.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tend",
+                "query": "vera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctzn.md",
+                "file": "vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +130,7 @@
   },
   "active": "d7bf248a9bd71dde",
   "lastOpenFiles": [
+    "vera.md",
     "ctzn.md",
     "2021-04-14.md",
     "otter.md",
@@ -137,7 +139,6 @@
     "2021-04-12.md",
     "social justice.md",
     "intentional living.md",
-    "commune.md",
-    "communal house.md"
+    "commune.md"
   ]
 }
