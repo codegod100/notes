@@ -4,45 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "372c6af1298a698b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-04-14.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "d7bf248a9bd71dde",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vera.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c806f47a87f8faf6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "otter.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "91932e253372d0f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notion.md",
+            "file": "2021-04-15.md",
             "mode": "source"
           }
         }
@@ -110,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "2021-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +97,7 @@
   },
   "active": "d7bf248a9bd71dde",
   "lastOpenFiles": [
+    "2021-04-15.md",
     "vera.md",
     "ctzn.md",
     "2021-04-14.md",
@@ -138,7 +106,6 @@
     "2021-04-13.md",
     "2021-04-12.md",
     "social justice.md",
-    "intentional living.md",
-    "commune.md"
+    "intentional living.md"
   ]
 }
