@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "otter.md",
+                "file": "2021-04-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +116,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c806f47a87f8faf6",
+  "active": "372c6af1298a698b",
   "lastOpenFiles": [
-    "otter.md",
     "2021-04-14.md",
+    "otter.md",
     "notion.md",
     "2021-04-13.md",
     "2021-04-12.md",
