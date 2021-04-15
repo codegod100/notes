@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "d7bf248a9bd71dde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ctzn.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "c806f47a87f8faf6",
         "type": "leaf",
         "state": {
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-04-14.md",
+                "file": "ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +127,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "372c6af1298a698b",
+  "active": "d7bf248a9bd71dde",
   "lastOpenFiles": [
+    "ctzn.md",
     "2021-04-14.md",
     "otter.md",
     "notion.md",
@@ -126,7 +138,6 @@
     "social justice.md",
     "intentional living.md",
     "commune.md",
-    "communal house.md",
-    "2021-04-10.md"
+    "communal house.md"
   ]
 }
