@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vera",
+                "query": "ctzn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,10 +109,10 @@
   "active": "d7bf248a9bd71dde",
   "lastOpenFiles": [
     "2021-04-16.md",
+    "ctzn.md",
     "2021-04-15.md",
     "ppv.md",
     "vera.md",
-    "ctzn.md",
     "2021-04-14.md",
     "otter.md",
     "notion.md",
