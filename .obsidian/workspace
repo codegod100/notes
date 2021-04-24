@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-04-21.md",
+            "file": "the federation.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6d06ec9118d8752a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "fediverse.md",
             "mode": "source"
           }
         }
@@ -50,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ctzn",
+                "query": "federa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d0b481c5b720cbfd",
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-04-21.md",
+                "file": "fediverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7bf248a9bd71dde",
+  "active": "6d06ec9118d8752a",
   "lastOpenFiles": [
+    "fediverse.md",
+    "the federation.md",
     "2021-04-21.md",
     "2021-04-22.md",
     "2021-04-24.md",
@@ -116,8 +128,6 @@
     "2021-04-18.md",
     "2021-04-16.md",
     "ctzn.md",
-    "2021-04-15.md",
-    "ppv.md",
-    "vera.md"
+    "2021-04-15.md"
   ]
 }
