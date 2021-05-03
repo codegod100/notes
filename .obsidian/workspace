@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d7bf248a9bd71dde",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "the federation.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "6d06ec9118d8752a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fediverse.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "937e1bfb4e424caa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ppv.md",
+            "file": "2021-05-03.md",
             "mode": "source"
           }
         }
@@ -99,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fediverse.md",
+                "file": "2021-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +97,7 @@
   },
   "active": "6d06ec9118d8752a",
   "lastOpenFiles": [
+    "2021-05-03.md",
     "fediverse.md",
     "the federation.md",
     "2021-04-21.md",
@@ -127,7 +106,6 @@
     "2021-04-19.md",
     "2021-04-18.md",
     "2021-04-16.md",
-    "ctzn.md",
-    "2021-04-15.md"
+    "ctzn.md"
   ]
 }
