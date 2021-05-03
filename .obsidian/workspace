@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "482b3ff570f9babc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zulip.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-03.md",
+                "file": "zulip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +106,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d06ec9118d8752a",
+  "active": "482b3ff570f9babc",
   "lastOpenFiles": [
+    "zulip.md",
     "2021-05-03.md",
     "fediverse.md",
     "the federation.md",
@@ -105,7 +117,6 @@
     "2021-04-24.md",
     "2021-04-19.md",
     "2021-04-18.md",
-    "2021-04-16.md",
-    "ctzn.md"
+    "2021-04-16.md"
   ]
 }
