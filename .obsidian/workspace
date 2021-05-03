@@ -15,6 +15,28 @@
         }
       },
       {
+        "id": "a7e1cf30f2b96666",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zenbook.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4da66629b9c7c480",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "manjaro.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "482b3ff570f9babc",
         "type": "leaf",
         "state": {
@@ -88,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zulip.md",
+                "file": "zenbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "482b3ff570f9babc",
+  "active": "a7e1cf30f2b96666",
   "lastOpenFiles": [
-    "zulip.md",
+    "zenbook.md",
     "2021-05-03.md",
+    "manjaro.md",
+    "zulip.md",
     "fediverse.md",
     "the federation.md",
     "2021-04-21.md",
     "2021-04-22.md",
     "2021-04-24.md",
-    "2021-04-19.md",
-    "2021-04-18.md",
-    "2021-04-16.md"
+    "2021-04-19.md"
   ]
 }
