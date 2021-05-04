@@ -1,6 +1,6 @@
 - Rational discussion and decision 
 -	Enact meaningful social change without the violence of revolution
--	eutopia is not necessarility a good thing
+-	utopia is not necessarility a good thing
 - https://aeon.co/ideas/utopia-is-a-dangerous-ideal-we-should-aim-for-protopia
 	- The belief that humans are perfectible leads, inevitably, to mistakes when ‘a perfect society’ is designed for an imperfect species. There is no best way to live because there is so much variation in how people want to live. **Therefore, there is no best society, only multiple variations on a handful of themes as dictated by our nature.**
 	- **When you have to murder people by the tens of millions to achieve your utopian dream, you have instantiated only a dystopian nightmare.**
