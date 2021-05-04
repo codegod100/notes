@@ -9,62 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-03.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "faf79e596f3aca6c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "webaverse.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3be5d1c18763ed37",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ethical source.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a7e1cf30f2b96666",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "zenbook.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4da66629b9c7c480",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "manjaro.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "482b3ff570f9babc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "zulip.md",
+            "file": "flancia goals.md",
             "mode": "source"
           }
         }
@@ -132,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webaverse.md",
+                "file": "flancia goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +95,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "faf79e596f3aca6c",
+  "active": "6d06ec9118d8752a",
   "lastOpenFiles": [
-    "webaverse.md",
-    "2021-05-03.md",
-    "ethical source.md",
     "Untitled 1.md",
+    "2021-05-03.md",
+    "manjaro.md",
+    "webaverse.md",
+    "ethical source.md",
     "rational disscusion and decision making.md",
     "zenbook.md",
-    "manjaro.md",
     "zulip.md",
     "fediverse.md",
     "the federation.md"
