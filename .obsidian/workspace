@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "26140c406b0c62de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-05-04.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d06ec9118d8752a",
+  "active": "26140c406b0c62de",
   "lastOpenFiles": [
     "2021-05-04.md",
     "Untitled 1.md",
