@@ -6,7 +6,7 @@
       {
         "id": "6d06ec9118d8752a",
         "type": "leaf",
-        "dimension": 36.217948717948715,
+        "dimension": 18.269230769230766,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +16,21 @@
         }
       },
       {
+        "id": "974966520322cbac",
+        "type": "leaf",
+        "dimension": 31.987179487179485,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hypha call.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "26140c406b0c62de",
         "type": "leaf",
-        "dimension": 63.78205128205128,
+        "dimension": 49.743589743589745,
         "state": {
           "type": "markdown",
           "state": {
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-04.md",
+                "file": "hypha call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +120,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d06ec9118d8752a",
+  "active": "974966520322cbac",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "2021-05-04.md",
     "flancia goals.md",
     "rational disscusion and decision making.md",
-    "Untitled 1.md",
     "2021-05-03.md",
     "manjaro.md",
     "webaverse.md",
