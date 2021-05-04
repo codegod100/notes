@@ -6,6 +6,7 @@
       {
         "id": "6d06ec9118d8752a",
         "type": "leaf",
+        "dimension": 36.217948717948715,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,10 +18,11 @@
       {
         "id": "26140c406b0c62de",
         "type": "leaf",
+        "dimension": 63.78205128205128,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-04.md",
+            "file": "flancia goals.md",
             "mode": "source"
           }
         }
@@ -50,12 +52,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "federa",
+                "query": "rational",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -106,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26140c406b0c62de",
+  "active": "6d06ec9118d8752a",
   "lastOpenFiles": [
     "2021-05-04.md",
+    "flancia goals.md",
+    "rational disscusion and decision making.md",
     "Untitled 1.md",
     "2021-05-03.md",
     "manjaro.md",
     "webaverse.md",
     "ethical source.md",
-    "rational disscusion and decision making.md",
     "zenbook.md",
-    "zulip.md",
-    "fediverse.md"
+    "zulip.md"
   ]
 }
