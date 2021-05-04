@@ -6,7 +6,7 @@
       {
         "id": "6d06ec9118d8752a",
         "type": "leaf",
-        "dimension": 18.269230769230766,
+        "dimension": 28.397435897435898,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "974966520322cbac",
         "type": "leaf",
-        "dimension": 31.987179487179485,
+        "dimension": 22.115384615384613,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,7 +30,7 @@
       {
         "id": "26140c406b0c62de",
         "type": "leaf",
-        "dimension": 49.743589743589745,
+        "dimension": 49.48717948717949,
         "state": {
           "type": "markdown",
           "state": {
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rational",
+                "query": "seed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypha call.md",
+                "file": "2021-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "974966520322cbac",
+  "active": "6d06ec9118d8752a",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "2021-05-04.md",
+    "hypha call.md",
+    "Untitled 1.md",
     "flancia goals.md",
     "rational disscusion and decision making.md",
     "2021-05-03.md",
     "manjaro.md",
     "webaverse.md",
     "ethical source.md",
-    "zenbook.md",
-    "zulip.md"
+    "zenbook.md"
   ]
 }

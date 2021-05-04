@@ -5,6 +5,4 @@ have people pitch your pitch to test communication
 
 [[leaderful organizations]]
 
-Who is in charge of 
-
-facttic
+[[facttic]]
