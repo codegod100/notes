@@ -1,0 +1,3 @@
+[[friend]]
+
+[[neighbor]]

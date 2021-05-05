@@ -6,23 +6,35 @@
       {
         "id": "6d06ec9118d8752a",
         "type": "leaf",
-        "dimension": 48.46153846153846,
+        "dimension": 25,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-04.md",
+            "file": "2021-05-05.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "cf5fda1d39dbdece",
+        "id": "86b6a69ff3f70b26",
         "type": "leaf",
-        "dimension": 51.53846153846153,
+        "dimension": 25,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "portis wallet.md",
+            "file": "aphid.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a3edef4c20df9d62",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notion.md",
             "mode": "source"
           }
         }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-04.md",
+                "file": "aphid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d06ec9118d8752a",
+  "active": "86b6a69ff3f70b26",
   "lastOpenFiles": [
+    "aphid.md",
+    "2021-05-05.md",
+    "notion.md",
+    "mycroft.md",
     "2021-05-04.md",
     "portis wallet.md",
     "metamask.md",
     "circles.md",
     "sablier.finance.md",
-    "flancia goals.md",
-    "agora.md",
-    "hypha call.md",
-    "Untitled 1.md",
-    "rational disscusion and decision making.md"
+    "flancia goals.md"
   ]
 }
