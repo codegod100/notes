@@ -4,48 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6d06ec9118d8752a",
+        "id": "7c79c10ec3e3c66f",
         "type": "leaf",
-        "dimension": 39.93174061433447,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-05.md",
+            "file": "2021-01-04.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "ff1bd92dd73c27b2",
-        "type": "leaf",
-        "dimension": 43.00341296928328,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "rational disscusion and decision making.md",
-            "mode": "source"
-          }
-        },
-        "group": "218a0b704a510c21"
-      },
-      {
-        "id": "ef8724571e02c259",
-        "type": "leaf",
-        "dimension": 17.064846416382256,
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "rational disscusion and decision making.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        },
-        "group": "218a0b704a510c21"
       }
     ],
     "direction": "vertical"
@@ -110,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rational disscusion and decision making.md",
+                "file": "2021-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff1bd92dd73c27b2",
+  "active": "7c79c10ec3e3c66f",
   "lastOpenFiles": [
-    "rational disscusion and decision making.md",
+    "2021-01-04.md",
+    "do.md",
     "2021-05-05.md",
+    "rational disscusion and decision making.md",
     "2021-05-03.md",
     "zulip.md",
     "Untitled 2.md",
     "aphid.md",
     "notion.md",
-    "mycroft.md",
-    "2021-05-04.md",
-    "portis wallet.md"
+    "mycroft.md"
   ]
 }
