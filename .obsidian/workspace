@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aphid.md",
+            "file": "vera requests.md",
             "mode": "source"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aphid.md",
+                "file": "vera requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
   },
   "active": "86b6a69ff3f70b26",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "aphid.md",
     "2021-05-05.md",
     "notion.md",
@@ -130,7 +131,6 @@
     "portis wallet.md",
     "metamask.md",
     "circles.md",
-    "sablier.finance.md",
-    "flancia goals.md"
+    "sablier.finance.md"
   ]
 }
