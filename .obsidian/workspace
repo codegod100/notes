@@ -6,7 +6,7 @@
       {
         "id": "6d06ec9118d8752a",
         "type": "leaf",
-        "dimension": 25,
+        "dimension": 39.93174061433447,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,28 +16,36 @@
         }
       },
       {
-        "id": "86b6a69ff3f70b26",
+        "id": "ff1bd92dd73c27b2",
         "type": "leaf",
-        "dimension": 25,
+        "dimension": 43.00341296928328,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-03.md",
+            "file": "rational disscusion and decision making.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "218a0b704a510c21"
       },
       {
-        "id": "a3edef4c20df9d62",
+        "id": "ef8724571e02c259",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 17.064846416382256,
         "state": {
-          "type": "markdown",
+          "type": "backlink",
           "state": {
-            "file": "notion.md",
-            "mode": "source"
+            "file": "rational disscusion and decision making.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        }
+        },
+        "group": "218a0b704a510c21"
       }
     ],
     "direction": "vertical"
@@ -102,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-03.md",
+                "file": "2021-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86b6a69ff3f70b26",
+  "active": "6d06ec9118d8752a",
   "lastOpenFiles": [
+    "2021-05-05.md",
     "2021-05-03.md",
+    "rational disscusion and decision making.md",
+    "zulip.md",
     "Untitled 2.md",
     "aphid.md",
-    "2021-05-05.md",
     "notion.md",
     "mycroft.md",
     "2021-05-04.md",
-    "portis wallet.md",
-    "metamask.md",
-    "circles.md"
+    "portis wallet.md"
   ]
 }
