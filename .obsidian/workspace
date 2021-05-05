@@ -6,7 +6,7 @@
       {
         "id": "6d06ec9118d8752a",
         "type": "leaf",
-        "dimension": 28.397435897435898,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,25 +16,13 @@
         }
       },
       {
-        "id": "974966520322cbac",
+        "id": "c8073efdc75125eb",
         "type": "leaf",
-        "dimension": 22.115384615384613,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "26140c406b0c62de",
-        "type": "leaf",
-        "dimension": 49.48717948717949,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "flancia goals.md",
+            "file": "sablier.finance.md",
             "mode": "source"
           }
         }
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-04.md",
+                "file": "sablier.finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +108,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d06ec9118d8752a",
+  "active": "c8073efdc75125eb",
   "lastOpenFiles": [
+    "sablier.finance.md",
     "2021-05-04.md",
     "flancia goals.md",
     "agora.md",
@@ -130,7 +119,6 @@
     "rational disscusion and decision making.md",
     "2021-05-03.md",
     "manjaro.md",
-    "webaverse.md",
-    "ethical source.md"
+    "webaverse.md"
   ]
 }
