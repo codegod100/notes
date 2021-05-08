@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "node.md",
+            "file": "vera.md",
             "mode": "source"
           }
         }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node.md",
+                "file": "vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +119,10 @@
   },
   "active": "bb4969c8f5a3b424",
   "lastOpenFiles": [
+    "vera.md",
     "node.md",
     "2021-05-08.md",
     "sidebery.md",
-    "vera.md",
     "2021-05-06.md",
     "2021-05-04.md",
     "2021-01-04.md",
