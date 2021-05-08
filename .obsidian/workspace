@@ -13,6 +13,28 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "bb4969c8f5a3b424",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "node.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "976bb0e3985e9c93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sidebery.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-08.md",
+                "file": "node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c79c10ec3e3c66f",
+  "active": "bb4969c8f5a3b424",
   "lastOpenFiles": [
+    "node.md",
     "2021-05-08.md",
+    "sidebery.md",
     "vera.md",
     "2021-05-06.md",
     "2021-05-04.md",
     "2021-01-04.md",
     "do.md",
     "2021-05-05.md",
-    "rational disscusion and decision making.md",
-    "2021-05-03.md",
-    "zulip.md"
+    "rational disscusion and decision making.md"
   ]
 }
