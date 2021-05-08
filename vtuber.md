@@ -1,0 +1,1 @@
+A general term for people who broadcast using an animated avatar, usually [[vrm]] I learned about it from [[jin]]
