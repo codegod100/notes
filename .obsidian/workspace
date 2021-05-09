@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vera.md",
+            "file": "ctzn bot.md",
             "mode": "source"
           }
         }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "ctzn bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "bb4969c8f5a3b424",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "vera.md",
     "node.md",
     "2021-05-08.md",
@@ -128,7 +129,6 @@
     "2021-05-04.md",
     "2021-01-04.md",
     "do.md",
-    "2021-05-05.md",
-    "rational disscusion and decision making.md"
+    "2021-05-05.md"
   ]
 }
