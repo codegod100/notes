@@ -1,1 +1,1 @@
-technology that powers
+technology that powers the [[cosmos network]]
