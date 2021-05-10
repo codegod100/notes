@@ -37,6 +37,17 @@
         }
       },
       {
+        "id": "1933f076ffa6ec08",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "stake.fish.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "11775f35be1714ec",
         "type": "leaf",
         "state": {
@@ -153,6 +164,7 @@
   "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
     "blockchain research.md",
+    "stake.fish.md",
     "2021-05-10.md",
     "cosmos network.md",
     "proof of stake.md",
@@ -160,7 +172,6 @@
     "tendermint.md",
     "regen.network.md",
     "distributed interest orgs.md",
-    "flancia projects.md",
-    "Untitled 2.md"
+    "flancia projects.md"
   ]
 }

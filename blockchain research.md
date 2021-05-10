@@ -1,13 +1,22 @@
+Cosmos
 [[Cosmos ATOM]]
-[[walletconnect]]
 [[cosmostation]]
-[[trust wallet]]
 [[interchain foundation]]
 [[tendermint]]
+[[stake.fish]]
+
+Exchanges
 [[okex]]
 	-	not in US
+	
+Validators
+
+	
+Coins
 [[regen.network]]
 
-wallets
+Wallets
 [[keplr]]
 [[eos.io]]
+[[walletconnect]]
+[[trust wallet]]
