@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "distributed interest orgs.md",
+            "file": "cosmos network.md",
             "mode": "source"
           }
         }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia projects.md",
+                "file": "cosmos network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51ab2f42183438e7",
+  "active": "9e491b67ba24b3dd",
   "lastOpenFiles": [
-    "flancia projects.md",
-    "blockchain research.md",
-    "Untitled 2.md",
+    "cosmos network.md",
     "distributed interest orgs.md",
+    "blockchain research.md",
+    "flancia projects.md",
+    "Untitled 2.md",
     "2021-05-10.md",
     "Cosmos ATOM.md",
     "private.md",
     "scratch.md",
-    "2021-05-09.md",
-    "vera.md"
+    "2021-05-09.md"
   ]
 }

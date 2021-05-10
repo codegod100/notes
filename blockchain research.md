@@ -3,3 +3,4 @@
 [[cosmostation]]
 [[trust wallet]]
 [[interchain foundation]]
+[[tendermint]]
