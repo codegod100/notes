@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "ce1e07ac8ad25318",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cosmos ATOM.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -60,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d0b481c5b720cbfd",
@@ -97,6 +109,7 @@
   "active": "9e491b67ba24b3dd",
   "lastOpenFiles": [
     "2021-05-10.md",
+    "Cosmos ATOM.md",
     "private.md",
     "scratch.md",
     "2021-05-09.md",
@@ -104,7 +117,6 @@
     "vera.md",
     "radicle.md",
     "DAO.md",
-    "node.md",
-    "2021-05-08.md"
+    "node.md"
   ]
 }
