@@ -7,4 +7,7 @@
 [[okex]]
 	-	not in US
 [[regen.network]]
+
+wallets
 [[keplr]]
+[[eos.io]]
