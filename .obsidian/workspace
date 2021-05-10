@@ -26,6 +26,28 @@
         }
       },
       {
+        "id": "11775f35be1714ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tendermint.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7de68cdf887f4757",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "regen.network.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "51ab2f42183438e7",
         "type": "leaf",
         "state": {
@@ -99,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain research.md",
+                "file": "tendermint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce1e07ac8ad25318",
+  "active": "11775f35be1714ec",
   "lastOpenFiles": [
+    "tendermint.md",
     "blockchain research.md",
+    "regen.network.md",
     "cosmos network.md",
     "distributed interest orgs.md",
     "flancia projects.md",
     "Untitled 2.md",
     "2021-05-10.md",
     "Cosmos ATOM.md",
-    "private.md",
-    "scratch.md",
-    "2021-05-09.md"
+    "private.md"
   ]
 }
