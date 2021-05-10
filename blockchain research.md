@@ -4,3 +4,6 @@
 [[trust wallet]]
 [[interchain foundation]]
 [[tendermint]]
+[[okex]]
+	-	not in US
+	
