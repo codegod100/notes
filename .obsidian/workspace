@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBC protocol.md",
+            "file": "proof of stake.md",
             "mode": "source"
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBC protocol.md",
+                "file": "proof of stake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +152,7 @@
   },
   "active": "085f2f43b0c781fe",
   "lastOpenFiles": [
+    "proof of stake.md",
     "IBC protocol.md",
     "cosmos network.md",
     "tendermint.md",
@@ -160,7 +161,6 @@
     "distributed interest orgs.md",
     "flancia projects.md",
     "Untitled 2.md",
-    "2021-05-10.md",
-    "Cosmos ATOM.md"
+    "2021-05-10.md"
   ]
 }

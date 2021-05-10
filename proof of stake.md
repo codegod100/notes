@@ -1,0 +1,1 @@
+[[blockchain]] security algorithm, alternative to the more mainstream [[proof of wor]]
