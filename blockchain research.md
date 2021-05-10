@@ -14,6 +14,7 @@ Validators
 	
 Coins
 [[regen.network]]
+[[polkadot.network]]
 
 Wallets
 [[keplr]]
