@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "1ccafd84e2169d5b",
+        "id": "9e491b67ba24b3dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAO.md",
+            "file": "radicle.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAO.md",
+                "file": "radicle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ccafd84e2169d5b",
+  "active": "9e491b67ba24b3dd",
   "lastOpenFiles": [
-    "DAO.md",
+    "radicle.md",
     "2021-05-09.md",
+    "DAO.md",
     "Untitled 2.md",
     "vera.md",
     "node.md",
     "2021-05-08.md",
     "sidebery.md",
     "2021-05-06.md",
-    "2021-05-04.md",
-    "2021-01-04.md"
+    "2021-05-04.md"
   ]
 }
