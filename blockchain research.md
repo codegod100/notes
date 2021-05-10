@@ -12,9 +12,10 @@ Exchanges
 Validators
 
 	
-Coins
+Networks
 [[regen.network]]
 [[polkadot.network]]
+[[eos.io]]
 
 Wallets
 [[keplr]]
