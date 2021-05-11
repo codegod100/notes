@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-10.md",
+            "file": "distributed interest orgs.md",
             "mode": "source"
           }
         }
@@ -109,14 +109,14 @@
   "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
     "blockchain research.md",
-    "Cosmos ATOM.md",
+    "distributed interest orgs.md",
     "2021-05-10.md",
+    "Cosmos ATOM.md",
     "private.md",
     "scratch.md",
     "2021-05-09.md",
     "Untitled 2.md",
     "vera.md",
-    "radicle.md",
-    "DAO.md"
+    "radicle.md"
   ]
 }

@@ -1,2 +1,2 @@
 [[Cosmos ATOM]]
-[[wa]]
+[walletconnect]]
