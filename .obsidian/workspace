@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blockchain research.md",
+            "file": "cosmos network.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "band protocol.md",
+                "file": "cosmos network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc7b88b5cebc1fb",
+  "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
+    "cosmos network.md",
+    "blockchain research.md",
     "band protocol.md",
     "flancia projects.md",
     "cosmos hub.md",
     "defi.md",
     "staking.md",
     "polkadot.md",
-    "blockchain research.md",
     "ethermint.md",
-    "gravity dex.md",
-    "Cosmos ATOM.md"
+    "gravity dex.md"
   ]
 }
