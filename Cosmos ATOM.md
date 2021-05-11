@@ -1,3 +1,3 @@
-[[go]] https://cosmos.network/
+[[go]] https://cosmoso.network/
 
 built on top of a [[Byzantine Fault Tolerant]] consensus engine.

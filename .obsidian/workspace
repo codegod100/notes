@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cosmos ATOM.md",
+            "file": "blockchain research.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmos ATOM.md",
+                "file": "blockchain research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
+    "blockchain research.md",
     "Cosmos ATOM.md",
     "2021-05-10.md",
     "private.md",
@@ -116,7 +117,6 @@
     "Untitled 2.md",
     "vera.md",
     "radicle.md",
-    "DAO.md",
-    "node.md"
+    "DAO.md"
   ]
 }
