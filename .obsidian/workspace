@@ -6,7 +6,7 @@
       {
         "id": "9e491b67ba24b3dd",
         "type": "leaf",
-        "dimension": 24.181818181818183,
+        "dimension": 24.18181818181818,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +18,23 @@
       {
         "id": "f7b881d5b9c16fee",
         "type": "leaf",
-        "dimension": 24.181818181818183,
+        "dimension": 12.09090909090909,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "gravity dex.md",
+            "file": "cosmos hub.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "efc7b88b5cebc1fb",
+        "type": "leaf",
+        "dimension": 12.09090909090909,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ethermint.md",
             "mode": "source"
           }
         }
@@ -30,7 +42,7 @@
       {
         "id": "085f2f43b0c781fe",
         "type": "leaf",
-        "dimension": 24.272727272727284,
+        "dimension": 24.27272727272728,
         "state": {
           "type": "markdown",
           "state": {
@@ -42,7 +54,7 @@
       {
         "id": "ce1e07ac8ad25318",
         "type": "leaf",
-        "dimension": 27.363636363636363,
+        "dimension": 27.36363636363636,
         "state": {
           "type": "markdown",
           "state": {
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gravity dex.md",
+                "file": "ethermint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7b881d5b9c16fee",
+  "active": "efc7b88b5cebc1fb",
   "lastOpenFiles": [
-    "gravity dex.md",
+    "ethermint.md",
     "cosmos hub.md",
+    "gravity dex.md",
     "Cosmos ATOM.md",
     "2021-05-11.md",
     "2021-05-10.md",
     "blockchain research.md",
     "cosmos network.md",
     "gravity bridge.md",
-    "staking.md",
-    "how to find a validator.md"
+    "staking.md"
   ]
 }
