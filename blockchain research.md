@@ -1,2 +1,4 @@
 [[Cosmos ATOM]]
-[walletconnect]]
+[[walletconnect]]
+[[cosmostation]]
+[[trust wallet]]
