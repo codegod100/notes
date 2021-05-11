@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how to find a validator.md",
+                "file": "blockchain research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,12 +132,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "085f2f43b0c781fe",
+  "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
+    "blockchain research.md",
     "how to find a validator.md",
     "staking.md",
     "proof of stake.md",
-    "blockchain research.md",
     "2021-05-10.md",
     "stake.fish.md",
     "cosmos network.md",
