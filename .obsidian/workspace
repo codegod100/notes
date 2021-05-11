@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "9e491b67ba24b3dd",
-        "type": "leaf",
-        "dimension": 24.18181818181818,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-05-11.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "f7b881d5b9c16fee",
         "type": "leaf",
-        "dimension": 12.09090909090909,
+        "dimension": 23.456790123456788,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,23 +18,11 @@
       {
         "id": "efc7b88b5cebc1fb",
         "type": "leaf",
-        "dimension": 12.09090909090909,
+        "dimension": 23.456790123456788,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ethermint.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "085f2f43b0c781fe",
-        "type": "leaf",
-        "dimension": 24.27272727272728,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cosmos network.md",
+            "file": "polkadot.md",
             "mode": "source"
           }
         }
@@ -54,7 +30,7 @@
       {
         "id": "ce1e07ac8ad25318",
         "type": "leaf",
-        "dimension": 27.36363636363636,
+        "dimension": 53.08641975308642,
         "state": {
           "type": "markdown",
           "state": {
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethermint.md",
+                "file": "polkadot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +122,7 @@
   },
   "active": "efc7b88b5cebc1fb",
   "lastOpenFiles": [
+    "polkadot.md",
     "ethermint.md",
     "cosmos hub.md",
     "gravity dex.md",
@@ -154,7 +131,6 @@
     "2021-05-10.md",
     "blockchain research.md",
     "cosmos network.md",
-    "gravity bridge.md",
-    "staking.md"
+    "gravity bridge.md"
   ]
 }
