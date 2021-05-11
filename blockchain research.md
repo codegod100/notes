@@ -2,3 +2,4 @@
 [[walletconnect]]
 [[cosmostation]]
 [[trust wallet]]
+[[interchain foundation]]

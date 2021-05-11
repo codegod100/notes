@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "51ab2f42183438e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "flancia projects.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -109,13 +120,13 @@
   "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
     "blockchain research.md",
+    "Untitled 2.md",
     "distributed interest orgs.md",
     "2021-05-10.md",
     "Cosmos ATOM.md",
     "private.md",
     "scratch.md",
     "2021-05-09.md",
-    "Untitled 2.md",
     "vera.md",
     "radicle.md"
   ]
