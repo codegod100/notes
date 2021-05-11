@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain research.md",
+                "file": "flancia projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce1e07ac8ad25318",
+  "active": "51ab2f42183438e7",
   "lastOpenFiles": [
+    "flancia projects.md",
     "blockchain research.md",
     "Untitled 2.md",
     "distributed interest orgs.md",
@@ -127,7 +128,6 @@
     "private.md",
     "scratch.md",
     "2021-05-09.md",
-    "vera.md",
-    "radicle.md"
+    "vera.md"
   ]
 }
