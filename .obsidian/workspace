@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cosmos network.md",
+            "file": "polkadot.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cosmos network.md",
+                "file": "polkadot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
+    "polkadot.md",
     "cosmos network.md",
     "blockchain research.md",
     "band protocol.md",
@@ -117,7 +118,6 @@
     "cosmos hub.md",
     "defi.md",
     "staking.md",
-    "polkadot.md",
     "ethermint.md",
     "gravity dex.md"
   ]
