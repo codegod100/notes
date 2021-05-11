@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "flancia projects.md",
+            "file": "band protocol.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia projects.md",
+                "file": "band protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "efc7b88b5cebc1fb",
   "lastOpenFiles": [
+    "band protocol.md",
     "flancia projects.md",
     "cosmos hub.md",
     "defi.md",
@@ -118,7 +119,6 @@
     "blockchain research.md",
     "ethermint.md",
     "gravity dex.md",
-    "Cosmos ATOM.md",
-    "2021-05-11.md"
+    "Cosmos ATOM.md"
   ]
 }
