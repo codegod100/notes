@@ -1,6 +1,6 @@
 Cosmos
 [[Cosmos ATOM]]
-[[cosmostation]]
+[[cosmostation]] -- network
 [[interchain foundation]]
 [[tendermint]]
 [[stake.fish]]
@@ -12,7 +12,7 @@ Exchanges
 Validators
 
 	
-Networks
+Network validators
 [[regen.network]]
 [[polkadot.network]]
 [[eos.io]]
