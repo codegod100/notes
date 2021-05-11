@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "how to find a validator.md",
+            "file": "cosmos network.md",
             "mode": "source"
           }
         }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain research.md",
+                "file": "cosmos network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce1e07ac8ad25318",
+  "active": "085f2f43b0c781fe",
   "lastOpenFiles": [
-    "blockchain research.md",
+    "cosmos network.md",
     "how to find a validator.md",
+    "blockchain research.md",
     "staking.md",
     "proof of stake.md",
     "2021-05-10.md",
     "stake.fish.md",
-    "cosmos network.md",
     "IBC protocol.md",
     "tendermint.md",
     "regen.network.md"
