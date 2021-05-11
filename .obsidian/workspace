@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proof of stake.md",
-            "mode": "source"
+            "file": "staking.md",
+            "mode": "preview"
           }
         }
       },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain research.md",
+                "file": "staking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce1e07ac8ad25318",
+  "active": "085f2f43b0c781fe",
   "lastOpenFiles": [
+    "staking.md",
+    "proof of stake.md",
     "blockchain research.md",
     "2021-05-10.md",
     "stake.fish.md",
     "cosmos network.md",
-    "proof of stake.md",
     "IBC protocol.md",
     "tendermint.md",
     "regen.network.md",
-    "distributed interest orgs.md",
-    "flancia projects.md"
+    "distributed interest orgs.md"
   ]
 }

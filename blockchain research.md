@@ -16,6 +16,7 @@ Network validators
 [[regen.network]]
 [[polkadot.network]]
 [[eos.io]]
+[[paradigm]]
 
 Wallets
 [[keplr]]
