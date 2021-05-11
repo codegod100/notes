@@ -6,7 +6,7 @@
       {
         "id": "9e491b67ba24b3dd",
         "type": "leaf",
-        "dimension": 24.270072992700726,
+        "dimension": 31.89448441247002,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,35 +18,43 @@
       {
         "id": "085f2f43b0c781fe",
         "type": "leaf",
-        "dimension": 24.361313868613138,
+        "dimension": 16.007194244604317,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cosmos hub.md",
+            "file": "cosmos network.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "a608f9ca886e577b"
+      },
+      {
+        "id": "f41657f0e46be0c1",
+        "type": "leaf",
+        "dimension": 16.007194244604317,
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "cosmos network.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        },
+        "group": "a608f9ca886e577b"
       },
       {
         "id": "ce1e07ac8ad25318",
         "type": "leaf",
-        "dimension": 27.463503649635037,
+        "dimension": 36.091127098321344,
         "state": {
           "type": "markdown",
           "state": {
             "file": "blockchain research.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "51ab2f42183438e7",
-        "type": "leaf",
-        "dimension": 23.905109489051092,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "flancia projects.md",
             "mode": "source"
           }
         }
@@ -114,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cosmos hub.md",
+                "file": "cosmos network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +142,15 @@
   },
   "active": "085f2f43b0c781fe",
   "lastOpenFiles": [
-    "cosmos hub.md",
     "cosmos network.md",
+    "gravity bridge.md",
+    "staking.md",
+    "gravity dex.md",
+    "cosmos hub.md",
     "how to find a validator.md",
     "blockchain research.md",
-    "staking.md",
     "proof of stake.md",
     "2021-05-10.md",
-    "stake.fish.md",
-    "IBC protocol.md",
-    "tendermint.md"
+    "stake.fish.md"
   ]
 }
