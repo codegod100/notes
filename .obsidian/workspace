@@ -6,11 +6,23 @@
       {
         "id": "9e491b67ba24b3dd",
         "type": "leaf",
-        "dimension": 31.89448441247002,
+        "dimension": 24.181818181818183,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-10.md",
+            "file": "2021-05-11.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f7b881d5b9c16fee",
+        "type": "leaf",
+        "dimension": 24.181818181818183,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cosmos ATOM.md",
             "mode": "source"
           }
         }
@@ -18,39 +30,19 @@
       {
         "id": "085f2f43b0c781fe",
         "type": "leaf",
-        "dimension": 16.007194244604317,
+        "dimension": 24.272727272727284,
         "state": {
           "type": "markdown",
           "state": {
             "file": "cosmos network.md",
             "mode": "source"
           }
-        },
-        "group": "a608f9ca886e577b"
-      },
-      {
-        "id": "f41657f0e46be0c1",
-        "type": "leaf",
-        "dimension": 16.007194244604317,
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "cosmos network.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
-          }
-        },
-        "group": "a608f9ca886e577b"
+        }
       },
       {
         "id": "ce1e07ac8ad25318",
         "type": "leaf",
-        "dimension": 36.091127098321344,
+        "dimension": 27.363636363636363,
         "state": {
           "type": "markdown",
           "state": {
@@ -122,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cosmos network.md",
+                "file": "2021-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "085f2f43b0c781fe",
+  "active": "9e491b67ba24b3dd",
   "lastOpenFiles": [
+    "2021-05-11.md",
+    "2021-05-10.md",
+    "Cosmos ATOM.md",
+    "blockchain research.md",
     "cosmos network.md",
     "gravity bridge.md",
     "staking.md",
     "gravity dex.md",
     "cosmos hub.md",
-    "how to find a validator.md",
-    "blockchain research.md",
-    "proof of stake.md",
-    "2021-05-10.md",
-    "stake.fish.md"
+    "how to find a validator.md"
   ]
 }
