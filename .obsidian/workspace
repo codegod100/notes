@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "band protocol.md",
+            "file": "blockchain research.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain governance.md",
+                "file": "blockchain research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,13 +108,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce1e07ac8ad25318",
+  "active": "efc7b88b5cebc1fb",
   "lastOpenFiles": [
+    "blockchain research.md",
+    "band protocol.md",
     "blockchain governance.md",
     "polkadot.md",
     "cosmos network.md",
-    "blockchain research.md",
-    "band protocol.md",
     "flancia projects.md",
     "cosmos hub.md",
     "defi.md",

@@ -12,10 +12,12 @@ Exchanges
 Validators
 
 	
-Network validators
+Networks
 [[regen.network]]
 [[polkadot.network]]
 [[eos.io]]
+
+Validators
 [[paradigm]]
 
 Wallets
@@ -23,3 +25,6 @@ Wallets
 [[eos.io]]
 [[walletconnect]]
 [[trust wallet]]
+
+Coins
+[[crypto.com]]
