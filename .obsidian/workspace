@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cosmos ATOM.md",
+            "file": "gravity dex.md",
             "mode": "source"
           }
         }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-11.md",
+                "file": "gravity dex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e491b67ba24b3dd",
+  "active": "f7b881d5b9c16fee",
   "lastOpenFiles": [
+    "gravity dex.md",
+    "cosmos hub.md",
+    "Cosmos ATOM.md",
     "2021-05-11.md",
     "2021-05-10.md",
-    "Cosmos ATOM.md",
     "blockchain research.md",
     "cosmos network.md",
     "gravity bridge.md",
     "staking.md",
-    "gravity dex.md",
-    "cosmos hub.md",
     "how to find a validator.md"
   ]
 }
