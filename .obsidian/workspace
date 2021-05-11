@@ -6,7 +6,7 @@
       {
         "id": "f7b881d5b9c16fee",
         "type": "leaf",
-        "dimension": 23.456790123456788,
+        "dimension": 23.548387096774192,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +18,23 @@
       {
         "id": "efc7b88b5cebc1fb",
         "type": "leaf",
-        "dimension": 23.456790123456788,
+        "dimension": 20.913978494623656,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "polkadot.md",
+            "file": "flancia projects.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2f33ed1f6ecf6369",
+        "type": "leaf",
+        "dimension": 34.30107526881721,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "staking.md",
             "mode": "source"
           }
         }
@@ -30,7 +42,7 @@
       {
         "id": "ce1e07ac8ad25318",
         "type": "leaf",
-        "dimension": 53.08641975308642,
+        "dimension": 21.236559139784948,
         "state": {
           "type": "markdown",
           "state": {
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polkadot.md",
+                "file": "flancia projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +134,15 @@
   },
   "active": "efc7b88b5cebc1fb",
   "lastOpenFiles": [
+    "flancia projects.md",
+    "staking.md",
     "polkadot.md",
+    "blockchain research.md",
     "ethermint.md",
     "cosmos hub.md",
     "gravity dex.md",
     "Cosmos ATOM.md",
     "2021-05-11.md",
-    "2021-05-10.md",
-    "blockchain research.md",
-    "cosmos network.md",
-    "gravity bridge.md"
+    "2021-05-10.md"
   ]
 }
