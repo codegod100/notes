@@ -6,11 +6,23 @@
       {
         "id": "efc7b88b5cebc1fb",
         "type": "leaf",
-        "dimension": 41.254125412541256,
+        "dimension": 20.627062706270625,
         "state": {
           "type": "markdown",
           "state": {
             "file": "blockchain research.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e110a1c4a242db3b",
+        "type": "leaf",
+        "dimension": 20.627062706270625,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "starport.md",
             "mode": "source"
           }
         }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain research.md",
+                "file": "starport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc7b88b5cebc1fb",
+  "active": "e110a1c4a242db3b",
   "lastOpenFiles": [
+    "starport.md",
     "blockchain research.md",
     "band protocol.md",
     "blockchain governance.md",
@@ -118,7 +131,6 @@
     "flancia projects.md",
     "cosmos hub.md",
     "defi.md",
-    "staking.md",
-    "ethermint.md"
+    "staking.md"
   ]
 }
