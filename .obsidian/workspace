@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "polkadot.md",
+            "file": "blockchain governance.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polkadot.md",
+                "file": "blockchain governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "ce1e07ac8ad25318",
   "lastOpenFiles": [
+    "blockchain governance.md",
     "polkadot.md",
     "cosmos network.md",
     "blockchain research.md",
@@ -118,7 +119,6 @@
     "cosmos hub.md",
     "defi.md",
     "staking.md",
-    "ethermint.md",
-    "gravity dex.md"
+    "ethermint.md"
   ]
 }
