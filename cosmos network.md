@@ -1,6 +1,8 @@
 A chain that hosts many chains on it. [[cross chain]]
 [[IBC protocol]]
 
+https://www.wenmainnet.com/
+
 [[ethereum]] is one block chain; think empire
 
 rome fell because it was too large. competing interests.
