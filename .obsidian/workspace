@@ -6,7 +6,7 @@
       {
         "id": "efc7b88b5cebc1fb",
         "type": "leaf",
-        "dimension": 25.987525987525984,
+        "dimension": 41.25412541254125,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,13 +16,25 @@
         }
       },
       {
-        "id": "ce1e07ac8ad25318",
+        "id": "a7f2623cf96ea068",
         "type": "leaf",
-        "dimension": 74.01247401247402,
+        "dimension": 29.37293729372938,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "do.md",
+            "file": "agora ext.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ce0f2c54ea3f4411",
+        "type": "leaf",
+        "dimension": 29.37293729372938,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agora ext feature ideas.md",
             "mode": "source"
           }
         }
@@ -90,14 +102,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "agora ext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -105,20 +117,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ce1e07ac8ad25318",
+  "active": "a7f2623cf96ea068",
   "lastOpenFiles": [
+    "agora ext.md",
+    "2021-01-02.md",
     "do.md",
+    "agora ext feature ideas.md",
     "audio timeline.md",
     "integration of the agora.md",
     "blockchain governance.md",
     "2021-05-12.md",
     "cosmos network.md",
-    "stake.fish.md",
-    "blockchain research.md",
-    "starport.md",
-    "band protocol.md"
+    "stake.fish.md"
   ]
 }
