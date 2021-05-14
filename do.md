@@ -1,3 +1,3 @@
-- check out sections on ctznry
-- get grinder
+- [ ] check out sections on ctznry
+- [x] get grinder
 - 
