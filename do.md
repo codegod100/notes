@@ -1,0 +1,3 @@
+- check out sections on ctznry
+- get grinder
+- 

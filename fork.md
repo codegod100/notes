@@ -1,0 +1,2 @@
+- [[jargon]] in [[software development]] that means to make a copy of someone's code to make changes
+- [[pull]] [[github]]

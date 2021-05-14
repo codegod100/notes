@@ -1,0 +1,3 @@
+- member of [[hypha coop]]
+- [[finance]]
+- 
