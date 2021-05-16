@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn docs.md",
+                "file": "private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +157,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "517e99080129cc4c",
+  "active": "ce0f2c54ea3f4411",
   "lastOpenFiles": [
-    "agora ctzn docs.md",
     "private.md",
+    "agora ctzn docs.md",
     "2021-05-16.md",
     "discord.md",
     "brig.md",
