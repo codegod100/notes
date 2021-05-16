@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-16.md",
+            "file": "agora ctzn.md",
             "mode": "source"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "defi.md",
+            "file": "agora ctzn todo.md",
             "mode": "source"
           }
         }
@@ -34,7 +34,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "defi.md",
+            "file": "agora ctzn.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "defi.md",
+                "file": "agora ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "517e99080129cc4c",
+  "active": "6d3f18fb537a9987",
   "lastOpenFiles": [
+    "agora ctzn.md",
+    "2021-05-16.md",
+    "agora ctzn todo.md",
     "defi.md",
     "finance.md",
     "flancia projects.md",
     "blockchain.md",
     "band protocol.md",
     "docs.md",
-    "2021-05-16.md",
-    "2021-05-03.md",
-    "rational disscusion and decision making.md",
-    "agora ext.md"
+    "2021-05-03.md"
   ]
 }
