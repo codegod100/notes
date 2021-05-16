@@ -2,7 +2,3 @@
 - [x] get grinder
 - [x] 15 to tanya
 - [ ] update [[agora ctzn]]
-	- [ ] add https functionality
-		- [ ] put paths to certs in config file in prod
-			- [ ] /etc/letsencrypt/live/anagora.org/cert.pem
-			- [ ] /etc/letsencrypt/live/anagora.org/privkey.pem
