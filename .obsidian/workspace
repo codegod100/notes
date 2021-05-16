@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "firefox.md",
+            "file": "2021-01-02.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "firefox.md",
+            "file": "2021-01-02.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 0.8192600876921956,
               "close": false
             }
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "firefox",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,12 +95,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d0b481c5b720cbfd",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "firefox.md",
+                "file": "2021-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ce0f2c54ea3f4411",
+  "active": "550fce0c8856518d",
   "lastOpenFiles": [
-    "firefox.md",
-    "agora issues.md",
-    "How to/Import data.md",
-    "notion.md",
-    "2021-04-14.md",
-    "ctzn.md",
-    "agora ctzn integration.md",
-    "2021-04-18.md",
-    "2021-04-19.md",
-    "flancian.md"
+    "2021-01-02.md",
+    "folkpunk.md",
+    "agora.md",
+    "2021-05-12.md",
+    "Start here.md",
+    "obsidian.md",
+    "roam-like.md",
+    "2021-01-11.md",
+    "plan file.md",
+    "plan.md"
   ]
 }

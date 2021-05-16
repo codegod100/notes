@@ -15,7 +15,7 @@ If an ATOM token holder chooses not to delegate to a Validator, they will neithe
 ### **4.What are the rewards for delegating ATOM?**
 
 -   Block rewards: about 7%~20% annual yield of the total ATOM supply
--   Transaction fees: transactions on the COSMOS Network are subject to transaction fees similar to other existing blockchains. Unlike current blockchains, the [[COSMOS Network]] plans to accept a multitude of tokens for the purpose of payment of transaction fees.
+-   Transaction fees: transactions on the [[cosmos network]] are subject to transaction fees similar to other existing blockchains. Unlike current blockchains, the [[COSMOS Network]] plans to accept a multitude of tokens for the purpose of payment of transaction fees.
 
 ### **5.When is the delegation taking effect? And how long does it take to start earning rewards after delegating?**
 
