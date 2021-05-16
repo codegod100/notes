@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "private.md",
             "mode": "source"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "a7f2623cf96ea068",
   "lastOpenFiles": [
+    "private.md",
     "agora ctzn.md",
     "agora containers.md",
     "agora.md",
@@ -129,7 +130,6 @@
     "Untitled 2.md",
     "ansi art.md",
     "do.md",
-    "2021-01-02.md",
-    "audio timeline.md"
+    "2021-01-02.md"
   ]
 }
