@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "band protocol.md",
+            "file": "defi.md",
             "mode": "source"
           }
         }
@@ -34,7 +34,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "band protocol.md",
+            "file": "defi.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "band protocol.md",
+                "file": "defi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "517e99080129cc4c",
   "lastOpenFiles": [
+    "defi.md",
+    "finance.md",
+    "flancia projects.md",
+    "blockchain.md",
     "band protocol.md",
     "docs.md",
     "2021-05-16.md",
     "2021-05-03.md",
     "rational disscusion and decision making.md",
-    "agora ext.md",
-    "2021-05-14.md",
-    "agora ext feature ideas.md",
-    "agora ctzn docs.md",
-    "agora server.md"
+    "agora ext.md"
   ]
 }
