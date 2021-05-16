@@ -11,4 +11,4 @@ this would create a note in [[test]] with the text "testing" from user vera@twit
 
 Remaining problems:
 -	how do we store data?
--	if we push data to the agora more than once for same user for same wikilink does it override the note?
+-	if we push data to the [[agora]] more than once for same user for same wikilink does it override the note?

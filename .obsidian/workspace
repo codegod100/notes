@@ -4,40 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f2623cf96ea068",
-        "type": "leaf",
-        "dimension": 36.217948717948715,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "agora issues.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "ce0f2c54ea3f4411",
         "type": "leaf",
-        "dimension": 39.55128205128205,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "ctzn.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "b9fc003f342c4c46"
       },
       {
-        "id": "cf0a75b409655b41",
+        "id": "550fce0c8856518d",
         "type": "leaf",
-        "dimension": 24.23076923076923,
+        "dimension": 50,
         "state": {
-          "type": "markdown",
+          "type": "localgraph",
           "state": {
-            "file": "agora ext feature ideas.md",
-            "mode": "source"
+            "file": "ctzn.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
           }
-        }
+        },
+        "group": "b9fc003f342c4c46"
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +135,15 @@
   },
   "active": "ce0f2c54ea3f4411",
   "lastOpenFiles": [
+    "ctzn.md",
+    "2021-04-18.md",
+    "2021-04-19.md",
+    "flancian.md",
+    "agora.md",
+    "Plugins/Graph view.md",
+    "2021-01-02.md",
     "agora ctzn.md",
     "agora issues.md",
-    "phrase express.md",
-    "do.md",
-    "private.md",
-    "agora ext feature ideas.md",
-    "agora.md",
-    "agora containers.md",
-    "agora ext.md",
-    "Untitled 2.md"
+    "phrase express.md"
   ]
 }

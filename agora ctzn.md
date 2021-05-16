@@ -6,5 +6,5 @@
 		- [x] /etc/letsencrypt/live/anagora.org/cert.pem
 		- [x] /etc/letsencrypt/live/anagora.org/privkey.pem
 	- [ ] date issue because pages don't support the first character being a number
-		- [ ] use [[agora prefix]] in meantime for now `agora-prefix`
+		- [ ] use [[agora prefix]] in meantime for now `[[agora]]-prefix`
 		- [ ] alternatively use a well defined prefix like `iso8601-`

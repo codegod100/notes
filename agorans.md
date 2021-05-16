@@ -1,4 +1,4 @@
-My list of people contributing to the agora development (separate from agora garden members)
+My list of people contributing to the [[agora]] development (separate from [[agora]] garden members)
 
 -	[[boris mann]] PST
 -	[[aly]] PST

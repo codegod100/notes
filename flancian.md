@@ -1,7 +1,5 @@
-# Flancian
+- Pretty cool person
 
-Pretty cool person
+- [[twitter]] https://twitter.com/flancian
 
-https://twitter.com/flancian
-
-https://social.coop/@flancian
+- [[mastodon]] https://social.coop/@flancian
