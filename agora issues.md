@@ -1,0 +1,1 @@
+- [ ] agora sometimes crashes firefox on my machine

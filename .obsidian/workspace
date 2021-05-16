@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "do.md",
+            "file": "agora issues.md",
             "mode": "source"
           }
         }
@@ -122,6 +122,7 @@
   "active": "ce0f2c54ea3f4411",
   "lastOpenFiles": [
     "agora ctzn.md",
+    "agora issues.md",
     "do.md",
     "private.md",
     "agora ext feature ideas.md",
@@ -129,7 +130,6 @@
     "agora containers.md",
     "agora ext.md",
     "Untitled 2.md",
-    "ansi art.md",
-    "2021-01-02.md"
+    "ansi art.md"
   ]
 }

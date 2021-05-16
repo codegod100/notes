@@ -2,8 +2,9 @@
 
 
 - [ ] add https functionality
-	- [ ] put paths to certs in config file in prod
-		- [ ] /etc/letsencrypt/live/anagora.org/cert.pem
-		- [ ] /etc/letsencrypt/live/anagora.org/privkey.pem
+	- [x] put paths to certs in config file in prod
+		- [x] /etc/letsencrypt/live/anagora.org/cert.pem
+		- [x] /etc/letsencrypt/live/anagora.org/privkey.pem
 	- [ ] date issue because pages don't support the first character being a number
 		- [ ] use [[agora prefix]] in meantime for now `agora-prefix`
+		- [ ] alternatively use a well defined mime type prefix
