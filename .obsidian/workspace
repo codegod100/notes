@@ -6,11 +6,11 @@
       {
         "id": "6d3f18fb537a9987",
         "type": "leaf",
-        "dimension": 37.201365187713314,
+        "dimension": 22.851153039832287,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "brig.md",
+            "file": "2021-05-16.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
       {
         "id": "517e99080129cc4c",
         "type": "leaf",
-        "dimension": 45.73378839590443,
+        "dimension": 56.18448637316561,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora ctzn docs.md",
+            "file": "band protocol.md",
             "mode": "source"
           }
         }
@@ -30,11 +30,11 @@
       {
         "id": "550fce0c8856518d",
         "type": "leaf",
-        "dimension": 17.064846416382252,
+        "dimension": 20.964360587002098,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "brig.md",
+            "file": "band protocol.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brig.md",
+                "file": "band protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6d3f18fb537a9987",
+  "active": "517e99080129cc4c",
   "lastOpenFiles": [
-    "brig.md",
-    "agora ctzn docs.md",
-    "agora ctzn.md",
+    "band protocol.md",
     "docs.md",
-    "private.md",
     "2021-05-16.md",
-    "discord.md",
-    "Untitled 3.md",
-    "bookmarks.md",
-    "interesting sites.md"
+    "2021-05-03.md",
+    "rational disscusion and decision making.md",
+    "agora ext.md",
+    "2021-05-14.md",
+    "agora ext feature ideas.md",
+    "agora ctzn docs.md",
+    "agora server.md"
   ]
 }
