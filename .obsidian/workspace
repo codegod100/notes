@@ -6,35 +6,24 @@
       {
         "id": "6d3f18fb537a9987",
         "type": "leaf",
-        "dimension": 22.851153039832287,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "pinafore.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "341349dceee4908e"
       },
       {
-        "id": "517e99080129cc4c",
+        "id": "7f1c9b87dd8f1942",
         "type": "leaf",
-        "dimension": 56.18448637316561,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "agora ctzn todo.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "550fce0c8856518d",
-        "type": "leaf",
-        "dimension": 20.964360587002098,
+        "dimension": 50,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "pinafore.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -57,11 +46,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.8192600876921956,
+              "scale": 1,
               "close": false
             }
           }
-        }
+        },
+        "group": "341349dceee4908e"
       }
     ],
     "direction": "vertical"
@@ -126,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "pinafore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +135,15 @@
   },
   "active": "6d3f18fb537a9987",
   "lastOpenFiles": [
-    "agora ctzn.md",
+    "pinafore.md",
+    "2021-02-09.md",
+    "matrix.md",
+    "brig.md",
     "2021-05-16.md",
+    "agora ctzn.md",
     "agora ctzn todo.md",
     "defi.md",
     "finance.md",
-    "flancia projects.md",
-    "blockchain.md",
-    "band protocol.md",
-    "docs.md",
-    "2021-05-03.md"
+    "flancia projects.md"
   ]
 }
