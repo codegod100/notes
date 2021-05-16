@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "do.md",
+            "file": "ansi art.md",
             "mode": "source"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "ansi art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "a7f2623cf96ea068",
   "lastOpenFiles": [
+    "ansi art.md",
     "do.md",
     "agora ext.md",
     "2021-01-02.md",
@@ -129,7 +130,6 @@
     "integration of the agora.md",
     "blockchain governance.md",
     "2021-05-12.md",
-    "cosmos network.md",
-    "stake.fish.md"
+    "cosmos network.md"
   ]
 }
