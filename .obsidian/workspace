@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "agora server build docs.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "agora server build docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "ab2e9b2b189e235a",
   "lastOpenFiles": [
+    "agora server build docs.md",
+    "agora ctzn docs.md",
     "2021-05-16.md",
     "agora ctzn.md",
     "issue tracker.md",
@@ -123,8 +125,6 @@
     "agora server.md",
     "brig.md",
     "obsidian mobile.md",
-    "obsidian sync.md",
-    "2021-05-04.md",
-    "hypercore.md"
+    "obsidian sync.md"
   ]
 }
