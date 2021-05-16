@@ -6,7 +6,7 @@
       {
         "id": "ce0f2c54ea3f4411",
         "type": "leaf",
-        "dimension": 24.935897435897438,
+        "dimension": 24.96798975672215,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "6d3f18fb537a9987",
         "type": "leaf",
-        "dimension": 12.82051282051282,
+        "dimension": 27.91293213828425,
         "state": {
           "type": "markdown",
           "state": {
@@ -31,7 +31,7 @@
       {
         "id": "517e99080129cc4c",
         "type": "leaf",
-        "dimension": 49.42307692307693,
+        "dimension": 34.31498079385403,
         "state": {
           "type": "markdown",
           "state": {
@@ -43,7 +43,7 @@
       {
         "id": "550fce0c8856518d",
         "type": "leaf",
-        "dimension": 12.82051282051282,
+        "dimension": 12.804097311139564,
         "state": {
           "type": "localgraph",
           "state": {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord.md",
+                "file": "brig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,11 +157,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "517e99080129cc4c",
+  "active": "6d3f18fb537a9987",
   "lastOpenFiles": [
+    "brig.md",
     "discord.md",
     "Untitled 3.md",
-    "brig.md",
     "2021-05-16.md",
     "bookmarks.md",
     "interesting sites.md",

@@ -1,0 +1,5 @@
+- file sync on top of [[ipfs]]
+- [[go]] https://github.com/sahib/brig
+- like [[git]] but for files
+- [[matrix]] #brig:matrix.org
+- 
