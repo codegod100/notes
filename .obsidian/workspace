@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-04-14.md",
+            "file": "issue tracker.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-04-14.md",
+            "file": "issue tracker.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "firefox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-04-14.md",
+                "file": "issue tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7f1c9b87dd8f1942",
+  "active": "6d3f18fb537a9987",
   "lastOpenFiles": [
+    "issue tracker.md",
+    "agora issues.md",
+    "agora ctzn todo.md",
+    "agora server.md",
     "2021-04-14.md",
     "do.md",
     "agora containers.md",
     "vrm.md",
     "2021-05-06.md",
-    "2021-05-08.md",
-    "2021-05-10.md",
-    "2021-05-11.md",
-    "2021-05-12.md",
-    "2021-05-14.md"
+    "2021-05-08.md"
   ]
 }
