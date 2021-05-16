@@ -1,3 +1,3 @@
 - [ ] check out sections on ctznry
 - [x] get grinder
-- 
+- [ ] 15 to tanya
