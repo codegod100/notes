@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora server.md",
+            "file": "spike.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora server.md",
+            "file": "spike.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora server.md",
+                "file": "spike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
   },
   "active": "6d3f18fb537a9987",
   "lastOpenFiles": [
+    "spike.md",
     "agora server.md",
     "issue tracker.md",
     "brig.md",
@@ -143,7 +144,6 @@
     "2021-05-04.md",
     "hypercore.md",
     "hyperdrive.md",
-    "agora issues.md",
-    "agora ctzn todo.md"
+    "agora issues.md"
   ]
 }
