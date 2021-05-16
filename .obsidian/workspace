@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "issue tracker.md",
+            "file": "agora server.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "issue tracker.md",
+            "file": "agora server.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "issue tracker.md",
+                "file": "agora server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "6d3f18fb537a9987",
   "lastOpenFiles": [
-    "issue tracker.md",
-    "agora issues.md",
-    "agora ctzn todo.md",
     "agora server.md",
-    "2021-04-14.md",
-    "do.md",
-    "agora containers.md",
-    "vrm.md",
-    "2021-05-06.md",
-    "2021-05-08.md"
+    "issue tracker.md",
+    "brig.md",
+    "obsidian mobile.md",
+    "obsidian sync.md",
+    "2021-05-04.md",
+    "hypercore.md",
+    "hyperdrive.md",
+    "agora issues.md",
+    "agora ctzn todo.md"
   ]
 }

@@ -1,1 +1,1 @@
-Testing out app. Looks good. Can't wait for next release. I setup [[obsidian sync]]
+- Testing out app. Looks good. Can't wait for next release. I setup [[obsidian sync]]
