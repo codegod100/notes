@@ -4,54 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3f18fb537a9987",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "issue tracker.md",
-            "mode": "source"
-          }
-        },
-        "group": "341349dceee4908e"
-      },
-      {
-        "id": "7f1c9b87dd8f1942",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "issue tracker.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": true,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.7478272121605987,
-              "close": true
+        "id": "05c9ef802fd20ede",
+        "type": "split",
+        "children": [
+          {
+            "id": "d7ff73372e33a9e8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-16.md",
+                "mode": "source"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ab2e9b2b189e235a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-16.md",
+                "mode": "source"
+              }
             }
           }
-        },
-        "group": "341349dceee4908e"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -116,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "issue tracker.md",
+                "file": "2021-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +114,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6d3f18fb537a9987",
+  "active": "ab2e9b2b189e235a",
   "lastOpenFiles": [
+    "2021-05-16.md",
+    "agora ctzn.md",
     "issue tracker.md",
     "spike.md",
     "agora server.md",
@@ -142,8 +125,6 @@
     "obsidian mobile.md",
     "obsidian sync.md",
     "2021-05-04.md",
-    "hypercore.md",
-    "hyperdrive.md",
-    "agora issues.md"
+    "hypercore.md"
   ]
 }
