@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private.md",
+            "file": "agora ctzn docs.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private.md",
+                "file": "agora ctzn docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "517e99080129cc4c",
   "lastOpenFiles": [
+    "agora ctzn docs.md",
     "private.md",
     "discord.md",
     "brig.md",
@@ -167,7 +168,6 @@
     "bookmarks.md",
     "interesting sites.md",
     "digital-garden.md",
-    "2021-01-19.md",
-    "note refactoring.md"
+    "2021-01-19.md"
   ]
 }
