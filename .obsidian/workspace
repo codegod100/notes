@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "discord.md",
+            "file": "private.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brig.md",
+                "file": "private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6d3f18fb537a9987",
+  "active": "517e99080129cc4c",
   "lastOpenFiles": [
-    "brig.md",
+    "private.md",
     "discord.md",
+    "brig.md",
     "Untitled 3.md",
     "2021-05-16.md",
     "bookmarks.md",
     "interesting sites.md",
     "digital-garden.md",
     "2021-01-19.md",
-    "note refactoring.md",
-    "svelte.md"
+    "note refactoring.md"
   ]
 }

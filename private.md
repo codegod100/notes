@@ -1,3 +1,7 @@
+- [ ] clip nails
+- [ ] 
+
+
 Veronika Winters is inviting you to a scheduled Zoom meeting.
 
 Topic: Veronika Winters's Personal Meeting Room
