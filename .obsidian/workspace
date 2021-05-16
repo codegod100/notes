@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ctzn.md",
+            "file": "firefox.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "ctzn.md",
+            "file": "firefox.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2021-",
+                "query": "firefox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,12 +95,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d0b481c5b720cbfd",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctzn.md",
+                "file": "firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "ce0f2c54ea3f4411",
   "lastOpenFiles": [
+    "firefox.md",
+    "agora issues.md",
+    "How to/Import data.md",
+    "notion.md",
+    "2021-04-14.md",
     "ctzn.md",
+    "agora ctzn integration.md",
     "2021-04-18.md",
     "2021-04-19.md",
-    "flancian.md",
-    "agora.md",
-    "Plugins/Graph view.md",
-    "2021-01-02.md",
-    "agora ctzn.md",
-    "agora issues.md",
-    "phrase express.md"
+    "flancian.md"
   ]
 }
