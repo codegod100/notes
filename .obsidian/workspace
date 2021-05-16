@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "efc7b88b5cebc1fb",
-        "type": "leaf",
-        "dimension": 41.25412541254125,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-05-12.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "a7f2623cf96ea068",
         "type": "leaf",
-        "dimension": 29.372937293729375,
+        "dimension": 72.43589743589743,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,7 +18,7 @@
       {
         "id": "ce0f2c54ea3f4411",
         "type": "leaf",
-        "dimension": 29.372937293729375,
+        "dimension": 27.564102564102566,
         "state": {
           "type": "markdown",
           "state": {
