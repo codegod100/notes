@@ -6,7 +6,7 @@
       {
         "id": "a7f2623cf96ea068",
         "type": "leaf",
-        "dimension": 72.43589743589743,
+        "dimension": 51.34615384615384,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,19 @@
       {
         "id": "ce0f2c54ea3f4411",
         "type": "leaf",
-        "dimension": 27.564102564102566,
+        "dimension": 24.326923076923077,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agora.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "cf0a75b409655b41",
+        "type": "leaf",
+        "dimension": 24.326923076923077,
         "state": {
           "type": "markdown",
           "state": {
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora containers.md",
+                "file": "agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +119,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7f2623cf96ea068",
+  "active": "ce0f2c54ea3f4411",
   "lastOpenFiles": [
+    "agora.md",
+    "agora ext.md",
+    "agora ext feature ideas.md",
+    "Untitled 2.md",
     "agora containers.md",
     "ansi art.md",
     "do.md",
-    "agora ext.md",
     "2021-01-02.md",
-    "agora ext feature ideas.md",
     "audio timeline.md",
-    "integration of the agora.md",
-    "blockchain governance.md",
-    "2021-05-12.md"
+    "integration of the agora.md"
   ]
 }
