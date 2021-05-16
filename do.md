@@ -1,4 +1,4 @@
 - [ ] check out sections on ctznry
 - [x] get grinder
 - [x] 15 to tanya
-- [ ] update [[agora ctzn]]
+- [x] update [[agora ctzn]]
