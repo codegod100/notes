@@ -1,4 +1,5 @@
 - Need to keep track of users we follow because currently the bridge only downloads the pages of people whom the user follows that is logged into the bridge
+- [[docs]] at [[agora ctzn docs]]
 
 
 - [ ] add https functionality

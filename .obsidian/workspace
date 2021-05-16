@@ -4,22 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "ce0f2c54ea3f4411",
-        "type": "leaf",
-        "dimension": 24.96798975672215,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "private.md",
-            "mode": "source"
-          }
-        },
-        "group": "b9fc003f342c4c46"
-      },
-      {
         "id": "6d3f18fb537a9987",
         "type": "leaf",
-        "dimension": 27.91293213828425,
+        "dimension": 37.201365187713314,
         "state": {
           "type": "markdown",
           "state": {
@@ -31,7 +18,7 @@
       {
         "id": "517e99080129cc4c",
         "type": "leaf",
-        "dimension": 34.31498079385403,
+        "dimension": 45.73378839590443,
         "state": {
           "type": "markdown",
           "state": {
@@ -43,11 +30,11 @@
       {
         "id": "550fce0c8856518d",
         "type": "leaf",
-        "dimension": 12.804097311139564,
+        "dimension": 17.064846416382252,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "private.md",
+            "file": "brig.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -74,8 +61,7 @@
               "close": false
             }
           }
-        },
-        "group": "b9fc003f342c4c46"
+        }
       }
     ],
     "direction": "vertical"
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private.md",
+                "file": "brig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ce0f2c54ea3f4411",
+  "active": "6d3f18fb537a9987",
   "lastOpenFiles": [
-    "private.md",
+    "brig.md",
     "agora ctzn docs.md",
+    "agora ctzn.md",
+    "docs.md",
+    "private.md",
     "2021-05-16.md",
     "discord.md",
-    "brig.md",
     "Untitled 3.md",
     "bookmarks.md",
-    "interesting sites.md",
-    "digital-garden.md",
-    "2021-01-19.md"
+    "interesting sites.md"
   ]
 }
