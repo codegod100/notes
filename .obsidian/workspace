@@ -6,24 +6,48 @@
       {
         "id": "ce0f2c54ea3f4411",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 24.935897435897438,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-02.md",
+            "file": "2021-05-16.md",
             "mode": "source"
           }
         },
         "group": "b9fc003f342c4c46"
       },
       {
+        "id": "6d3f18fb537a9987",
+        "type": "leaf",
+        "dimension": 12.82051282051282,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "brig.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "517e99080129cc4c",
+        "type": "leaf",
+        "dimension": 49.42307692307693,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "discord.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "550fce0c8856518d",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 12.82051282051282,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-01-02.md",
+            "file": "2021-05-16.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-02.md",
+                "file": "discord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "550fce0c8856518d",
+  "active": "517e99080129cc4c",
   "lastOpenFiles": [
-    "2021-01-02.md",
-    "folkpunk.md",
-    "agora.md",
-    "2021-05-12.md",
-    "Start here.md",
-    "obsidian.md",
-    "roam-like.md",
-    "2021-01-11.md",
-    "plan file.md",
-    "plan.md"
+    "discord.md",
+    "Untitled 3.md",
+    "brig.md",
+    "2021-05-16.md",
+    "bookmarks.md",
+    "interesting sites.md",
+    "digital-garden.md",
+    "2021-01-19.md",
+    "note refactoring.md",
+    "svelte.md"
   ]
 }
