@@ -2,6 +2,37 @@
 - [ ] 
 
 
+ "ctzn": {
+
+ "uri": "vera2@ctzn.one",
+
+ "user": "vera2",
+
+ "pass": "qwerty42",
+
+ "server": "wss://ctzn.one",
+
+ "delay": 2000,
+
+ "debug": true,
+
+ "garden": "/home/vera/agora/garden",
+
+ "key": "./key",
+
+ "cert": "./cert",
+
+ "port": "3000",
+
+ "http": true
+
+  
+
+ }
+
+}
+
+
 Veronika Winters is inviting you to a scheduled Zoom meeting.
 
 Topic: Veronika Winters's Personal Meeting Room

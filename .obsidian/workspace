@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-16.md",
+            "file": "private.md",
             "mode": "source"
           }
         },
@@ -47,7 +47,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-16.md",
+            "file": "private.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -161,10 +161,10 @@
   "lastOpenFiles": [
     "agora ctzn docs.md",
     "private.md",
+    "2021-05-16.md",
     "discord.md",
     "brig.md",
     "Untitled 3.md",
-    "2021-05-16.md",
     "bookmarks.md",
     "interesting sites.md",
     "digital-garden.md",
