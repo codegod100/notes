@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "android.md",
+            "file": "foam.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "android.md",
+            "file": "foam.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -37,7 +37,7 @@
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
-              "showArrow": false,
+              "showArrow": true,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.7787721107504073,
+              "scale": 1.027399659063789,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android.md",
+                "file": "foam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "foam.md",
+    "git.md",
+    "2021-01-04.md",
+    "gemini protocol.md",
+    "finger protocol.md",
+    "smol web.md",
+    "gemini.md",
+    "conversations.md",
     "android.md",
-    "launchy.md",
-    "mentalnodes.md",
-    "2021-01-02.md",
-    "node categories.md",
-    "journal nodes.md",
-    "agora feature requests.md",
-    "agora.md",
-    "agora actions.md",
-    "communal housing.md"
+    "launchy.md"
   ]
 }

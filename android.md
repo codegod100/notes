@@ -1,1 +1,1 @@
--[[ mobile phone]] platform from [[google]]
+- [[mobile phone]] platform from [[google]]
