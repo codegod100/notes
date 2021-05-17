@@ -6,4 +6,7 @@
 - I'm tempted to create a different action format because:
 	- action links (most notably [[go]] links) mess with my graph view in obsidian
 	- they aren't [[wikilinks]] they are categorcially different things
-	- 
+- proposed alternatives
+	- action:go
+- benefits
+			- 
