@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "the weed tube.md",
+            "file": "ctzn.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "the weed tube.md",
+            "file": "ctzn.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.9635146031265938,
+              "scale": 0.9899145747551831,
               "close": false
             }
           }
@@ -78,12 +78,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[ ] ",
+                "query": "\"[ ] \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the weed tube.md",
+                "file": "ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "the weed tube.md",
+    "ctzn.md",
+    "agora ctzn integration.md",
+    "agora ctzn.md",
     "todo.md",
-    "vera requests.md",
-    "web palette.md",
-    "wetransfer.md",
-    "world at war.md",
-    "reviewing notes.md",
-    "rational disscusion and decision making.md",
-    "2021-01-16.md",
-    "taizen.md"
+    "2021-01-11.md",
+    "agora ctzn todo.md",
+    "agora containers.md",
+    "2020-12-30.md",
+    "the weed tube.md",
+    "vera requests.md"
   ]
 }
