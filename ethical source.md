@@ -1,1 +1,1 @@
-https://ethicalsource.dev/
+- [[go]] https://ethicalsource.dev/

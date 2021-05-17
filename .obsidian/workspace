@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-04.md",
+            "file": "do.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-04.md",
+            "file": "do.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -81,7 +81,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-04.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef90b7be71ce4f9e",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "do.md",
     "2021-05-04.md",
-    "hypercore.md",
-    "webaverse.md",
-    "2021-05-03.md",
-    "metaverse.md",
-    "gather town.md",
-    "mozilla hubs.md",
-    "immers space.md",
-    "immer protocol.md",
-    "2021-05-16.md"
+    "2021-05-05.md",
+    "obsidian mobile.md",
+    "ctzn bot.md",
+    "ctzn.md",
+    "portis wallet.md",
+    "metamask.md",
+    "ethical source.md",
+    "2021-05-03.md"
   ]
 }

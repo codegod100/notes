@@ -1,4 +1,10 @@
 - [ ] check out sections on ctznry
+- [ ] install [[mycroft]]
+- [ ] dinner with [[aphid]]
+- [ ] show actual journal entries in /journal route
+- [ ] create chrome browser extension based on [[firefox]]
+	- can I use same codebase?
 - [x] get grinder
 - [x] 15 to tanya
 - [x] update [[agora ctzn]]
+- [x] 	lunch with [[jana]]
