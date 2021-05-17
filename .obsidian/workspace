@@ -23,7 +23,7 @@
           "state": {
             "file": "our networks.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
@@ -131,7 +131,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef90b7be71ce4f9e",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
     "our networks.md",
     "althea.md",
