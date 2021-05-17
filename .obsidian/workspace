@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2021-0",
+                "query": "2021-05",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
