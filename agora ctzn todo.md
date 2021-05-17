@@ -1,2 +1,2 @@
-- have [[rich text editor]] show preview mode on save
-- 
+- [ ] have [[rich text editor]] show preview mode on save
+- [ ] 

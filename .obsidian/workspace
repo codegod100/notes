@@ -26,7 +26,29 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "issue tracker.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "dbaa8a0837305376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "agora issues.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "53c177ab70ec6d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora ctzn todo.md",
                 "mode": "source"
               }
             }
@@ -97,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora issues.md",
+                "file": "agora ctzn todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab2e9b2b189e235a",
+  "active": "53c177ab70ec6d65",
   "lastOpenFiles": [
+    "agora ctzn todo.md",
     "agora issues.md",
-    "agora server.md",
+    "issue tracker.md",
     "2021-05-16.md",
+    "agora server.md",
     "agora server build docs.md",
     "agora ctzn docs.md",
     "agora ctzn.md",
-    "issue tracker.md",
     "spike.md",
-    "brig.md",
-    "obsidian mobile.md"
+    "brig.md"
   ]
 }
