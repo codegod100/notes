@@ -4,22 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "968ab1b6f8d6e2f7",
+        "id": "007748de5fda4979",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agora server.md",
+            "mode": "source"
+          }
+        },
+        "group": "9502b7e1313fa92c"
+      },
+      {
+        "id": "ef90b7be71ce4f9e",
         "type": "leaf",
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-02-04.md",
+            "file": "agora server.md",
             "options": {
               "collapse-filter": true,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": true,
+              "localInterlinks": false,
               "showTags": false,
               "showAttachments": false,
-              "hideUnresolved": true,
+              "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
@@ -32,11 +44,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.6942531626616073,
+              "scale": 1,
               "close": false
             }
           }
-        }
+        },
+        "group": "9502b7e1313fa92c"
       }
     ],
     "direction": "vertical"
@@ -80,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-04.md",
+                "file": "agora server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +130,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "968ab1b6f8d6e2f7",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "2021-02-04.md",
     "agora server.md",
+    "2021-02-11.md",
+    "agora as documentation.md",
+    "agora.md",
+    "2021-02-04.md",
     "agora ctzn.md",
     "agora ctzn todo.md",
     "issue tracker.md",
     "2021-05-14.md",
-    "agora ext feature ideas.md",
-    "rich text editor.md",
-    "2021-05-16.md",
-    "agora.md"
+    "agora ext feature ideas.md"
   ]
 }
