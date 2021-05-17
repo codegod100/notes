@@ -4,3 +4,6 @@
 - internet is paid for with crypto smart contract
 - video from [[our networks]]
 	- https://2019.ournetworks.ca/video/?ipfs=QmeDdoqpScv1Pm4zDWMeiAxkhmKnCUevDL7LjbZm2LvttD
+
+- [[cosmos network]]
+- [[hypha coop]]

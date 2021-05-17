@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital-garden.md",
+            "file": "althea.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "digital-garden.md",
+            "file": "althea.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.48244808837834463,
+              "scale": 0.678673251887139,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital-garden.md",
+                "file": "althea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "althea.md",
     "digital-garden.md",
     "2021-05-17.md",
     "launchy.md",
@@ -143,7 +144,6 @@
     "ctzn.md",
     "agora ctzn integration.md",
     "agora ctzn.md",
-    "todo.md",
-    "2021-01-11.md"
+    "todo.md"
   ]
 }
