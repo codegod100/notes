@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sutty.md",
+            "file": "todo.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "sutty.md",
+            "file": "todo.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sutty.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +155,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef90b7be71ce4f9e",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "todo.md",
+    "do.md",
     "sutty.md",
     "husky.md",
     "mastodon.md",
@@ -164,8 +166,6 @@
     "twitter.md",
     "matrix spaces.md",
     "hypha coop.md",
-    "dcwalker.md",
-    "benhylau.md",
-    "matrix.md"
+    "dcwalker.md"
   ]
 }
