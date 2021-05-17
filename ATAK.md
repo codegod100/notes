@@ -1,3 +1,3 @@
-Android Team Awareness Kit
+[[android]] Team Awareness Kit
 
-Android app to map out terrain and mark resources like medics and vehicles
+[[android]] app to map out terrain and mark resources like medics and vehicles

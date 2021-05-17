@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "node categories.md",
+            "file": "android.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "node categories.md",
+            "file": "android.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -37,16 +37,16 @@
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
-              "showArrow": true,
+              "showArrow": false,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1.12017895299145,
+              "lineSizeMultiplier": 1,
               "collapse-forces": true,
-              "centerStrength": 0,
-              "repelStrength": 0,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
               "linkStrength": 1,
-              "linkDistance": 500,
-              "scale": 0.49399503051153815,
+              "linkDistance": 250,
+              "scale": 0.7787721107504073,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node categories.md",
+                "file": "android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "node categories.md",
-    "2021-01-02.md",
-    "agora.md",
-    "mentalnodes.md",
-    "agora actions.md",
+    "android.md",
     "launchy.md",
-    "communal housing.md",
-    "daily meditation.md",
-    "2021-04-10.md",
-    "communal house.md"
+    "mentalnodes.md",
+    "2021-01-02.md",
+    "node categories.md",
+    "journal nodes.md",
+    "agora feature requests.md",
+    "agora.md",
+    "agora actions.md",
+    "communal housing.md"
   ]
 }

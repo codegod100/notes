@@ -1,0 +1,1 @@
+- [ ] automatically pull nodes mentioned in the current node

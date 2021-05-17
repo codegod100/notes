@@ -1,1 +1,1 @@
-android [[xmpp]] client
+[[android]] [[xmpp]] client
