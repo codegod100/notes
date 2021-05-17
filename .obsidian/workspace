@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Paul Frazee.md",
+            "file": "2021-05-17.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Paul Frazee.md",
+            "file": "2021-05-17.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paul Frazee.md",
+                "file": "2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "2021-05-17.md",
     "Paul Frazee.md",
     "ctznry.md",
     "ctzn.md",
@@ -143,7 +144,6 @@
     "todo.md",
     "2021-01-11.md",
     "agora ctzn todo.md",
-    "agora containers.md",
-    "2020-12-30.md"
+    "agora containers.md"
   ]
 }
