@@ -4,26 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "53c177ab70ec6d65",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "agora ctzn todo.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "170187e69ef75c24",
+        "id": "968ab1b6f8d6e2f7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "localgraph",
           "state": {
-            "file": "rich text editor.md",
-            "mode": "source"
+            "file": "2021-02-04.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": true,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.6942531626616073,
+              "close": false
+            }
           }
         }
       }
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rich text editor.md",
+                "file": "2021-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +118,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "170187e69ef75c24",
+  "active": "968ab1b6f8d6e2f7",
   "lastOpenFiles": [
-    "rich text editor.md",
-    "agora ctzn todo.md",
-    "agora issues.md",
-    "issue tracker.md",
-    "2021-05-16.md",
+    "2021-02-04.md",
     "agora server.md",
-    "agora server build docs.md",
-    "agora ctzn docs.md",
     "agora ctzn.md",
-    "spike.md"
+    "agora ctzn todo.md",
+    "issue tracker.md",
+    "2021-05-14.md",
+    "agora ext feature ideas.md",
+    "rich text editor.md",
+    "2021-05-16.md",
+    "agora.md"
   ]
 }

@@ -1,1 +1,1 @@
-what each note in the agora is called
+what each note in the [[agora]] is called
