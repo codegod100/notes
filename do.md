@@ -7,4 +7,4 @@
 - [x] get grinder
 - [x] 15 to tanya
 - [x] update [[agora ctzn]]
-- [x] 	lunch with [[jana]]
+- [x] lunch with [[jana]]
