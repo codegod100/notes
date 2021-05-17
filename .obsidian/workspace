@@ -6,36 +6,24 @@
       {
         "id": "007748de5fda4979",
         "type": "leaf",
-        "dimension": 17.023809523809526,
+        "dimension": 70.25641025641025,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathematics.md",
+            "file": "misskey.md",
             "mode": "source"
           }
         },
         "group": "9502b7e1313fa92c"
       },
       {
-        "id": "6ec145ba11e6222c",
-        "type": "leaf",
-        "dimension": 17.023809523809526,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "math.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "ef90b7be71ce4f9e",
         "type": "leaf",
-        "dimension": 65.95238095238095,
+        "dimension": 29.743589743589745,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "mathematics.md",
+            "file": "misskey.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -90,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[go]]",
+                "query": "[[github]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathematics.md",
+                "file": "misskey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "mathematics.md",
-    "math.md",
-    "eternal truths of mathematics and science.md",
-    "betterexplained.md",
-    "concrete nouns.md",
-    "interesting sites.md",
-    "2021-01-11.md",
-    "subway tooter.md",
     "misskey.md",
-    "fedi server.md"
+    "fork.md",
+    "2021-01-01.md",
+    "yoga.md",
+    "daily meditation.md",
+    "2021-04-05.md",
+    "2021-04-04.md",
+    "commune.md",
+    "2021-04-10.md",
+    "communal house.md"
   ]
 }

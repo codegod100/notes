@@ -1,3 +1,3 @@
-action:pull [[fediverse]]
+ [[fediverse]]
 
 [[federation bubble]]

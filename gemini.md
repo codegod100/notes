@@ -2,4 +2,4 @@ A cool project somewhere between gopher and the modern web. I've mostly seen it 
 
 action:go https://gemini.circumlunar.space/
 
-action:pull [[gemini protocol]]
+ [[gemini protocol]]

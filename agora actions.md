@@ -1,7 +1,7 @@
 - in the [[agora]] we actions that trigger certain internal actions
 - list of common actions
 	- action:go
-	- action:pull
+	- 
 	- action:push
 - I'm tempted to create a different action format because:
 	- action links (most notably action:go links) mess with my graph view in obsidian

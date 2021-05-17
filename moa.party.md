@@ -1,3 +1,3 @@
-action:pull [[Mastodon-Twitter Crossposter]]
+ [[Mastodon-Twitter Crossposter]]
 
 twitter-mastodon integration

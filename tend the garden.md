@@ -1,1 +1,1 @@
-action:pull [[tending the garden]]
+ [[tending the garden]]

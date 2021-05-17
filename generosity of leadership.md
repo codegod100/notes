@@ -1,3 +1,3 @@
 Lots of leaders. Flat hierarchy
 
-action:pull[[leaderful organizations]]
+[[leaderful organizations]]

@@ -1,1 +1,1 @@
-- [[mathaction
+- [[math]]

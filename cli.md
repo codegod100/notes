@@ -1,1 +1,1 @@
-action:pull [[command-line]]
+ [[command-line]]
