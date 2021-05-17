@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "communal house.md",
+            "file": "agora actions.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "communal house.md",
+            "file": "agora actions.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "communal house.md",
+                "file": "agora actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "ef90b7be71ce4f9e",
   "lastOpenFiles": [
+    "agora actions.md",
+    "launchy.md",
+    "communal housing.md",
+    "daily meditation.md",
+    "2021-04-10.md",
     "communal house.md",
     "intentional living.md",
     "Murray Bookchin.md",
     "prolertarian culture.md",
-    "2021-01-16.md",
-    "fediverse.md",
-    "rational disscusion and decision making.md",
-    "integration of the agora.md",
-    "agora containers.md",
-    "agora.md"
+    "2021-01-16.md"
   ]
 }
