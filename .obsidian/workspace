@@ -6,10 +6,11 @@
       {
         "id": "007748de5fda4979",
         "type": "leaf",
+        "dimension": 34.04761904761905,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hypha coop.md",
+            "file": "obsidian.md",
             "mode": "source"
           }
         },
@@ -18,17 +19,18 @@
       {
         "id": "ef90b7be71ce4f9e",
         "type": "leaf",
+        "dimension": 65.95238095238095,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "hypha coop.md",
+            "file": "obsidian.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
-              "localJumps": 2,
+              "localJumps": 3,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": false,
+              "localInterlinks": true,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
@@ -44,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.6510835920471568,
+              "scale": 0.6231035101227178,
               "close": false
             }
           }
@@ -76,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2021-05",
+                "query": "[[go]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypha coop.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef90b7be71ce4f9e",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "hypha coop.md",
+    "obsidian.md",
+    "2021-05-10.md",
+    "benhylau.md",
+    "althea.md",
     "our networks.md",
+    "hypha coop.md",
     "go.md",
     "patcon.md",
     "agora containers.md",
-    "do.md",
-    "2021-04-19.md",
-    "2021-04-15.md",
-    "2021-04-14.md",
-    "2021-04-09.md"
+    "do.md"
   ]
 }
