@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nft art.md",
+            "file": "the weed tube.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "nft art.md",
+            "file": "the weed tube.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nft art.md",
+                "file": "the weed tube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "nft art.md",
-    "2021-05-09.md",
-    "nft.md",
-    "blockchain.md",
-    "launchy.md",
-    "2021-05-17.md",
-    "2021-02-07.md",
-    "coolors.md",
-    "ctzn bot.md",
-    "DjVu.md"
+    "the weed tube.md",
+    "2021-01-16.md",
+    "taizen.md",
+    "cli.md",
+    "command-line.md",
+    "gomuks.md",
+    "golang.md",
+    "IBC protocol.md",
+    "cosmos hub.md",
+    "agora actions.md"
   ]
 }
