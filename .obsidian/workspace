@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora server.md",
+            "file": "2021-05-16.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora server.md",
+            "file": "2021-05-16.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora server.md",
+                "file": "2021-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "2021-05-16.md",
+    "2020-12-27.md",
     "agora server.md",
     "2021-02-11.md",
+    "agora-server.md",
     "agora as documentation.md",
     "agora.md",
     "2021-02-04.md",
     "agora ctzn.md",
-    "agora ctzn todo.md",
-    "issue tracker.md",
-    "2021-05-14.md",
-    "agora ext feature ideas.md"
+    "agora ctzn todo.md"
   ]
 }
