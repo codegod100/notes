@@ -1,3 +1,5 @@
 - [[go]] https://althea.net/
 - Fast, affordable, locally run internet
+- people broadcast signal to neighbors and get paid
+- internet is paid for with crypto smart contract
 - 
