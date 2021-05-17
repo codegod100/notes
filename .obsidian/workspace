@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "althea.md",
+            "file": "benhylau.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "althea.md",
+            "file": "benhylau.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"[ ] \"",
+                "query": "2021-0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "althea.md",
+                "file": "benhylau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "benhylau.md",
+    "circles.md",
+    "universal basic income.md",
+    "ubi.md",
+    "proof of humanity.md",
+    "2021-04-07.md",
+    "patcon.md",
     "althea.md",
     "digital-garden.md",
-    "2021-05-17.md",
-    "launchy.md",
-    "Paul Frazee.md",
-    "ctznry.md",
-    "ctzn.md",
-    "agora ctzn integration.md",
-    "agora ctzn.md",
-    "todo.md"
+    "2021-05-17.md"
   ]
 }

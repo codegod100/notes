@@ -1,3 +1,2 @@
-[[ubi]] experiment
-
-circles.garden
+- action:go https://circles.garden
+- [[ubi]] experiment
