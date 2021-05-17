@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pull.md",
+            "file": "communal house.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pull.md",
+            "file": "communal house.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.7840526816831458,
+              "scale": 0.7974112902070079,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pull.md",
+                "file": "communal house.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "ef90b7be71ce4f9e",
   "lastOpenFiles": [
-    "pull.md",
-    "agora.md",
-    "flancia collective.md",
-    "cosmos network.md",
-    "emotional narrative.md",
-    "gomuks.md",
-    "flancian.md",
-    "xfce.md",
-    "lxqt.md",
-    "svelte.md"
+    "communal house.md",
+    "intentional living.md",
+    "Murray Bookchin.md",
+    "prolertarian culture.md",
+    "2021-01-16.md",
+    "fediverse.md",
+    "rational disscusion and decision making.md",
+    "integration of the agora.md",
+    "agora containers.md",
+    "agora.md"
   ]
 }

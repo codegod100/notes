@@ -1,1 +1,1 @@
-[[pull]] [[Murray Bookchin]]
+action:pull [[Murray Bookchin]]

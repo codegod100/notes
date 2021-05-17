@@ -4,4 +4,4 @@ A type of animalistic [[fanfic]]
 
 action:go https://fanlore.org/wiki/Alpha/Beta/Omega
 
-[[pull]] [[slash]]
+action:pull [[slash]]

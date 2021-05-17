@@ -1,1 +1,1 @@
-[[pull]] [[fediverse]]
+action:pull [[fediverse]]

@@ -1,1 +1,1 @@
-[[pull]] [[commune]]
+action:pull [[commune]]

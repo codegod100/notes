@@ -1,2 +1,2 @@
-- [[pull]] [[gather]]
+- action:pull [[gather]]
 - virtual meeting space

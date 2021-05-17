@@ -1,1 +1,1 @@
-[[pull]][[agora ext feature ideas]]
+action:pull[[agora ext feature ideas]]
