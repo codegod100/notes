@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "flancian.md",
+            "file": "pull.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "flancian.md",
+            "file": "pull.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.8028182466482808,
+              "scale": 0.7840526816831458,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancian.md",
+                "file": "pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "ef90b7be71ce4f9e",
   "lastOpenFiles": [
+    "pull.md",
+    "agora.md",
+    "flancia collective.md",
+    "cosmos network.md",
+    "emotional narrative.md",
+    "gomuks.md",
     "flancian.md",
     "xfce.md",
     "lxqt.md",
-    "svelte.md",
-    "todo.md",
-    "2021-01-19.md",
-    "2021-05-10.md",
-    "go.md",
-    "obsidian.md",
-    "benhylau.md"
+    "svelte.md"
   ]
 }
