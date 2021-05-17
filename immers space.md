@@ -1,3 +1,6 @@
 - https://medium.com/immers-space/lets-save-the-metaverse-b37cb5de9ff4
 - [[metaverse]] environment
+- >We’re not building a platform; Immers Space is breaking down the walls between platforms.
+- [[immer protocol]]
+- integration of [[mozilla hubs]]
 - 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "immers space.md",
+            "file": "2021-05-04.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "immers space.md",
+            "file": "2021-05-04.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "firefox",
+                "query": "2021-05",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immers space.md",
+                "file": "2021-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "007748de5fda4979",
+  "active": "ef90b7be71ce4f9e",
   "lastOpenFiles": [
-    "immers space.md",
+    "2021-05-04.md",
+    "hypercore.md",
+    "webaverse.md",
+    "2021-05-03.md",
     "metaverse.md",
-    "2021-05-16.md",
-    "2020-12-27.md",
-    "agora server.md",
-    "2021-02-11.md",
-    "agora-server.md",
-    "agora as documentation.md",
-    "agora.md",
-    "2021-02-04.md"
+    "gather town.md",
+    "mozilla hubs.md",
+    "immers space.md",
+    "immer protocol.md",
+    "2021-05-16.md"
   ]
 }
