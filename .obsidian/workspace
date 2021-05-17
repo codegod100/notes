@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "eye bleach.md",
-            "mode": "source"
+            "file": "wikilinks.md",
+            "mode": "preview"
           }
         },
         "group": "9502b7e1313fa92c"
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "eye bleach.md",
+            "file": "wikilinks.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eye bleach.md",
+                "file": "wikilinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "wikilinks.md",
+    "2021-05-17.md",
     "eye bleach.md",
     "althea.md",
     "promnesia.md",
-    "2021-05-17.md",
     "2021-05-16.md",
     "2021-05-14.md",
     "2021-05-12.md",
     "2021-05-11.md",
-    "2021-05-10.md",
-    "2021-05-09.md"
+    "2021-05-10.md"
   ]
 }
