@@ -1,3 +1,3 @@
  [[Mastodon-Twitter Crossposter]]
 
-twitter-mastodon integration
+[[twitter]]-[[mastodon]] integration

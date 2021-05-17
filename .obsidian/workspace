@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mastodon.md",
+            "file": "husky.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "mastodon.md",
+            "file": "husky.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -34,7 +34,7 @@
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": false,
+              "collapse-color-groups": true,
               "colorGroups": [
                 {
                   "query": "agora",
@@ -49,6 +49,13 @@
                     "a": 1,
                     "rgb": 6054102
                   }
+                },
+                {
+                  "query": "flancia",
+                  "color": {
+                    "a": 1,
+                    "rgb": 6084225
+                  }
                 }
               ],
               "collapse-display": true,
@@ -61,7 +68,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.9229891682967323,
+              "scale": 0.6972686676045158,
               "close": false
             }
           }
@@ -131,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mastodon.md",
+                "file": "husky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +157,15 @@
   },
   "active": "ef90b7be71ce4f9e",
   "lastOpenFiles": [
+    "husky.md",
     "mastodon.md",
-    "flancian.md",
-    "dcwalker.md",
+    "masto.md",
+    "twitter.md",
+    "matrix spaces.md",
     "hypha coop.md",
-    "dag.md",
-    "matrix.md",
-    "sutty.md",
+    "dcwalker.md",
     "benhylau.md",
-    "circles.md",
-    "universal basic income.md"
+    "matrix.md",
+    "flancian.md"
   ]
 }

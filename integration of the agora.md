@@ -1,6 +1,6 @@
-Here's an outline for possible twitter/mastodon integration
+Here's an outline for possible [[twitter]]/[[mastodon]] integration
 
-twitter user e.g. vera@twitter.com posts something like 
+[[twitter]] user e.g. vera@twitter.com posts something like 
 
 
 action:push [[test]]
