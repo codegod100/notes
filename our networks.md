@@ -1,3 +1,3 @@
-- [[go | https://ournetworks.ca/]] 
+-  action:go https://ournetworks.ca/ 
 - Most members of [[hypha coop]] are involved in organizing
 - 

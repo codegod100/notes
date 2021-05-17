@@ -4,6 +4,7 @@
 - [ ] show actual journal entries in /journal route
 - [ ] create chrome browser extension based on [[firefox]]
 	- can I use same codebase?
+- [ ] build [[notion]] integration
 - [x] get grinder
 - [x] 15 to tanya
 - [x] update [[agora ctzn]]
