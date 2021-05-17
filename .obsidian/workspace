@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chemo therapy.md",
+            "file": "covid vaccination.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "chemo therapy.md",
+            "file": "covid vaccination.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[github]]",
+                "query": "2021-04",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chemo therapy.md",
+                "file": "covid vaccination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "chemo therapy.md",
-    "chemo.md",
-    "2021-01-06.md",
-    "socialism.md",
-    "capitalism.md",
-    "2021-01-16.md",
-    "gatekeeping.md",
-    "private matrix channel.md",
-    "matrix.md",
-    "gomuks.md"
+    "covid vaccination.md",
+    "2021-04-07.md",
+    "2021-04-06.md",
+    "2021-04-05.md",
+    "2021-04-04.md",
+    "reviewing old notes.md",
+    "2021-05-17.md",
+    "reviewing notes.md",
+    "deep linking.md",
+    "multiple sclerosis.md"
   ]
 }
