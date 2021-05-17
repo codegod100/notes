@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "do.md",
+            "file": "nft art.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "do.md",
+            "file": "nft art.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.7503583012156935,
+              "scale": 0.9635146031265938,
               "close": false
             }
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "action:go",
+                "query": "hypha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "nft art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef90b7be71ce4f9e",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "do.md",
-    "jana.md",
-    "mycroft.md",
-    "2021-05-05.md",
-    "2021-05-04.md",
-    "2021-05-03.md",
-    "firefox app store.md",
-    "sidebery.md",
-    "2021-05-08.md",
-    "2021-05-07.md"
+    "nft art.md",
+    "2021-05-09.md",
+    "nft.md",
+    "blockchain.md",
+    "launchy.md",
+    "2021-05-17.md",
+    "2021-02-07.md",
+    "coolors.md",
+    "ctzn bot.md",
+    "DjVu.md"
   ]
 }

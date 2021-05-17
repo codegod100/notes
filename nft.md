@@ -1,0 +1,2 @@
+- [[nft art]]
+- [[blockchain]] based [[digital art]]
