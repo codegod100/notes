@@ -1,0 +1,2 @@
+[[corona vaccine]]
+[[fully vaccinated]]

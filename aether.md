@@ -1,1 +1,1 @@
-https://getaether.net/
+- action:go https://getaether.net/

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "covid vaccination.md",
+            "file": "aether.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "covid vaccination.md",
+            "file": "aether.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.06991319393375,
+              "scale": 0.7503583012156935,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "covid vaccination.md",
+                "file": "aether.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "covid vaccination.md",
-    "2021-04-07.md",
-    "2021-04-06.md",
-    "2021-04-05.md",
-    "2021-04-04.md",
-    "reviewing old notes.md",
-    "2021-05-17.md",
-    "reviewing notes.md",
-    "deep linking.md",
-    "multiple sclerosis.md"
+    "aether.md",
+    "2021-04-08.md",
+    "single dose vaccine.md",
+    "2021-04-13.md",
+    "2021-04-12.md",
+    "2021-04-10.md",
+    "2021-04-15.md",
+    "yoga.md",
+    "daily meditation.md",
+    "daily routine.md"
   ]
 }

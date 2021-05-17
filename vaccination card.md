@@ -1,0 +1,2 @@
+- A card that you get that tells how vaccinated you are
+- [[covid vaccination]]
