@@ -6,11 +6,11 @@
       {
         "id": "007748de5fda4979",
         "type": "leaf",
-        "dimension": 53.01587301587302,
+        "dimension": 32.857142857142854,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dag.md",
+            "file": "mastodon.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "ef90b7be71ce4f9e",
         "type": "leaf",
-        "dimension": 46.98412698412698,
+        "dimension": 67.14285714285714,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "dag.md",
+            "file": "mastodon.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -34,8 +34,23 @@
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
+              "collapse-color-groups": false,
+              "colorGroups": [
+                {
+                  "query": "agora",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14048348
+                  }
+                },
+                {
+                  "query": "hypha",
+                  "color": {
+                    "a": 1,
+                    "rgb": 6054102
+                  }
+                }
+              ],
               "collapse-display": true,
               "showArrow": true,
               "textFadeMultiplier": 0,
@@ -46,7 +61,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.678673251887139,
+              "scale": 0.9229891682967323,
               "close": false
             }
           }
@@ -116,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dag.md",
+                "file": "mastodon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +148,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "007748de5fda4979",
+  "active": "ef90b7be71ce4f9e",
   "lastOpenFiles": [
+    "mastodon.md",
+    "flancian.md",
+    "dcwalker.md",
+    "hypha coop.md",
     "dag.md",
+    "matrix.md",
+    "sutty.md",
     "benhylau.md",
     "circles.md",
-    "universal basic income.md",
-    "ubi.md",
-    "proof of humanity.md",
-    "2021-04-07.md",
-    "patcon.md",
-    "althea.md",
-    "digital-garden.md"
+    "universal basic income.md"
   ]
 }
