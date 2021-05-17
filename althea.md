@@ -1,0 +1,3 @@
+- [[go]] https://althea.net/
+- Fast, affordable, locally run internet
+- 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "promnesia.md",
+            "file": "althea.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "promnesia.md",
+            "file": "althea.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "promnesia.md",
+                "file": "althea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "althea.md",
     "promnesia.md",
     "2021-05-17.md",
     "2021-05-16.md",
@@ -141,7 +142,6 @@
     "2021-05-11.md",
     "2021-05-10.md",
     "2021-05-09.md",
-    "2021-05-08.md",
-    "2021-05-07.md"
+    "2021-05-08.md"
   ]
 }
