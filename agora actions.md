@@ -10,6 +10,6 @@
 		- requires restructuring current code
 		- people are already using the current fomat
 - proposed alternatives
-
-	- action:go
+	- action:{{action name}}
+		- I've changed all the actions in my own [[digital-garden]] to this format using find and replace
 	- 

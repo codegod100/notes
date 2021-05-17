@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora actions.md",
+            "file": "node categories.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora actions.md",
+            "file": "node categories.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -37,16 +37,16 @@
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
-              "showArrow": false,
+              "showArrow": true,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
+              "lineSizeMultiplier": 1.12017895299145,
               "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
+              "centerStrength": 0,
+              "repelStrength": 0,
               "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.7974112902070079,
+              "linkDistance": 500,
+              "scale": 0.49399503051153815,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora actions.md",
+                "file": "node categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef90b7be71ce4f9e",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "node categories.md",
+    "2021-01-02.md",
+    "agora.md",
+    "mentalnodes.md",
     "agora actions.md",
     "launchy.md",
     "communal housing.md",
     "daily meditation.md",
     "2021-04-10.md",
-    "communal house.md",
-    "intentional living.md",
-    "Murray Bookchin.md",
-    "prolertarian culture.md",
-    "2021-01-16.md"
+    "communal house.md"
   ]
 }
