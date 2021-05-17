@@ -1,1 +1,1 @@
-- [[flancian]] used to use
+- [[flancian]] used to use this, now uses [[obsidian]]

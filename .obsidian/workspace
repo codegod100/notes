@@ -6,15 +6,27 @@
       {
         "id": "007748de5fda4979",
         "type": "leaf",
-        "dimension": 34.04761904761905,
+        "dimension": 17.023809523809526,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "foam.md",
+            "file": "mathematics.md",
             "mode": "source"
           }
         },
         "group": "9502b7e1313fa92c"
+      },
+      {
+        "id": "6ec145ba11e6222c",
+        "type": "leaf",
+        "dimension": 17.023809523809526,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "math.md",
+            "mode": "source"
+          }
+        }
       },
       {
         "id": "ef90b7be71ce4f9e",
@@ -23,7 +35,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "foam.md",
+            "file": "mathematics.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +58,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.027399659063789,
+              "scale": 0.8137423959522715,
               "close": false
             }
           }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "foam.md",
+                "file": "mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +147,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "foam.md",
-    "git.md",
-    "2021-01-04.md",
-    "gemini protocol.md",
-    "finger protocol.md",
-    "smol web.md",
-    "gemini.md",
-    "conversations.md",
-    "android.md",
-    "launchy.md"
+    "mathematics.md",
+    "math.md",
+    "eternal truths of mathematics and science.md",
+    "betterexplained.md",
+    "concrete nouns.md",
+    "interesting sites.md",
+    "2021-01-11.md",
+    "subway tooter.md",
+    "misskey.md",
+    "fedi server.md"
   ]
 }

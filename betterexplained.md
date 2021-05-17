@@ -1,3 +1,3 @@
 action:go https://betterexplained.com/
 
-site that helps you learn mathematics
+site that helps you learn [[mathematics]]
