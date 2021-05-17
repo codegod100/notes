@@ -1,1 +1,1 @@
-[[go]] https://maggieappleton.com/garden-history
+action:go https://maggieappleton.com/garden-history

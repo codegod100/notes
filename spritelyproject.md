@@ -1,4 +1,4 @@
-[[go]] https://spritelyproject.org/
+action:go https://spritelyproject.org/
 
 uses distributed programming language
 

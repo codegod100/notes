@@ -1,3 +1,3 @@
-[[go]] http://www.uprtcl.io/
+action:go http://www.uprtcl.io/
 
 Like Git,  but for ideas

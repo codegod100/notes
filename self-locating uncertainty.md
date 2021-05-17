@@ -1,4 +1,4 @@
-[[go]] https://academic.oup.com/bjps/article/69/1/25/2669754
+action:go https://academic.oup.com/bjps/article/69/1/25/2669754
 
 [[born-rule]]
 

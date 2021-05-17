@@ -1,1 +1,1 @@
-[[go]] https://github.com/LibrePhotos/librephotos
+action:go https://github.com/LibrePhotos/librephotos

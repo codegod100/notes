@@ -1,1 +1,1 @@
-- [[go]] https://ethicalsource.dev/
+- action:go https://ethicalsource.dev/

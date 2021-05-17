@@ -1,3 +1,3 @@
-[[go]] iconduck.com
+action:go iconduck.com
 
 free open source icons

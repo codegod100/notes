@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "flancian.md",
             "mode": "source"
           }
         },
@@ -23,11 +23,11 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "obsidian.md",
+            "file": "flancian.md",
             "options": {
               "collapse-filter": true,
               "search": "",
-              "localJumps": 3,
+              "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": true,
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.6231035101227178,
+              "scale": 0.8028182466482808,
               "close": false
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "flancian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "007748de5fda4979",
+  "active": "ef90b7be71ce4f9e",
   "lastOpenFiles": [
-    "obsidian.md",
+    "flancian.md",
+    "xfce.md",
+    "lxqt.md",
+    "svelte.md",
+    "todo.md",
+    "2021-01-19.md",
     "2021-05-10.md",
-    "benhylau.md",
-    "althea.md",
-    "our networks.md",
-    "hypha coop.md",
     "go.md",
-    "patcon.md",
-    "agora containers.md",
-    "do.md"
+    "obsidian.md",
+    "benhylau.md"
   ]
 }

@@ -1,4 +1,4 @@
-[[go]] https://maggieappleton.com/
+action:go https://maggieappleton.com/
 
 [[digital-garden]] [[Maggie Appleton Garden]]
 

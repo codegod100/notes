@@ -2,6 +2,6 @@ alpha/beta/omega
 
 A type of animalistic [[fanfic]]
 
-[[go]] https://fanlore.org/wiki/Alpha/Beta/Omega
+action:go https://fanlore.org/wiki/Alpha/Beta/Omega
 
 [[pull]] [[slash]]

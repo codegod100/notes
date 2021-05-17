@@ -1,2 +1,2 @@
-- [[go]] https://github.com/lmangani/ctzn-bot
+- action:go https://github.com/lmangani/ctzn-bot
 - the basis of [[agora ctzn]]

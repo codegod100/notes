@@ -1,3 +1,3 @@
-[[go]] https://www.phraseexpress.com
+action:go https://www.phraseexpress.com
 
 - windows only

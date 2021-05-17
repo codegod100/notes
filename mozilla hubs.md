@@ -1,2 +1,2 @@
-- [[go]] https://hubs.mozilla.com/
+- action:go https://hubs.mozilla.com/
 - 

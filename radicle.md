@@ -1,1 +1,1 @@
-[[go]] https://radicle.xyz/
+action:go https://radicle.xyz/

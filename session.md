@@ -1,4 +1,4 @@
-[[go]] https://getsession.org/
+action:go https://getsession.org/
 
 encrypted [[p2p messaging]]
 

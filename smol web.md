@@ -1,1 +1,1 @@
-[[go]] https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
+action:go https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet

@@ -1,4 +1,4 @@
-[[go]] https://misskey.io/
+action:go https://misskey.io/
 
 [[github]] https://github.com/syuilo/misskey
 

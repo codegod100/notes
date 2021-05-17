@@ -1,3 +1,3 @@
-[[go]] panlex.org
+action:go panlex.org
 
 translates words into as many languages as possible

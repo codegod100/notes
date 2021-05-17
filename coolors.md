@@ -1,1 +1,1 @@
-[[go]] https://coolors.co/
+action:go https://coolors.co/

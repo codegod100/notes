@@ -1,1 +1,1 @@
-[[go]] https://lainsafe.delegao.moe/?
+action:go https://lainsafe.delegao.moe/?

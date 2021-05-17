@@ -1,2 +1,2 @@
-[[go]] https://en.wikipedia.org/wiki/Jineology
+action:go https://en.wikipedia.org/wiki/Jineology
 

@@ -1,4 +1,4 @@
 [[golang]] [[cli]] [[matrix]] client
 
-[[go]] https://github.com/tulir/gomuks
+action:go https://github.com/tulir/gomuks
 
