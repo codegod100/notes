@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-16.md",
+            "file": "immers space.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-16.md",
+            "file": "immers space.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "immers space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "immers space.md",
+    "metaverse.md",
     "2021-05-16.md",
     "2020-12-27.md",
     "agora server.md",
@@ -139,8 +141,6 @@
     "agora-server.md",
     "agora as documentation.md",
     "agora.md",
-    "2021-02-04.md",
-    "agora ctzn.md",
-    "agora ctzn todo.md"
+    "2021-02-04.md"
   ]
 }
