@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "benhylau.md",
+            "file": "dag.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "benhylau.md",
+            "file": "dag.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "benhylau.md",
+                "file": "dag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "dag.md",
     "benhylau.md",
     "circles.md",
     "universal basic income.md",
@@ -143,7 +144,6 @@
     "2021-04-07.md",
     "patcon.md",
     "althea.md",
-    "digital-garden.md",
-    "2021-05-17.md"
+    "digital-garden.md"
   ]
 }
