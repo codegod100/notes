@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "our networks.md",
+            "file": "agora actions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "our networks.md",
+            "file": "agora actions.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "our networks.md",
+                "file": "agora actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "agora actions.md",
     "our networks.md",
     "althea.md",
     "go.md",
@@ -141,7 +142,6 @@
     "rocket dock.md",
     "wikilinks.md",
     "flancia projects.md",
-    "agora ext.md",
-    "agora ext feature ideas.md"
+    "agora ext.md"
   ]
 }
