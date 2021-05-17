@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypha",
+                "query": "[ ] ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,14 +136,14 @@
   "active": "007748de5fda4979",
   "lastOpenFiles": [
     "the weed tube.md",
+    "todo.md",
+    "vera requests.md",
+    "web palette.md",
+    "wetransfer.md",
+    "world at war.md",
+    "reviewing notes.md",
+    "rational disscusion and decision making.md",
     "2021-01-16.md",
-    "taizen.md",
-    "cli.md",
-    "command-line.md",
-    "gomuks.md",
-    "golang.md",
-    "IBC protocol.md",
-    "cosmos hub.md",
-    "agora actions.md"
+    "taizen.md"
   ]
 }
