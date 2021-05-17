@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ctzn.md",
+            "file": "Paul Frazee.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "ctzn.md",
+            "file": "Paul Frazee.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctzn.md",
+                "file": "Paul Frazee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "Paul Frazee.md",
+    "ctznry.md",
     "ctzn.md",
     "agora ctzn integration.md",
     "agora ctzn.md",
@@ -142,8 +144,6 @@
     "2021-01-11.md",
     "agora ctzn todo.md",
     "agora containers.md",
-    "2020-12-30.md",
-    "the weed tube.md",
-    "vera requests.md"
+    "2020-12-30.md"
   ]
 }
