@@ -1,4 +1,5 @@
 - [[nft art]]
 - [[blockchain]] based [[digital art]]
 - [NFTs, explained: what they are, and why they’re suddenly worth millions - The Verge](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
+- [NFT Art Boom Is the Same Concept as the Photography Market - Bloomberg](https://www.bloomberg.com/news/articles/2021-03-02/nft-art-boom-is-the-same-concept-as-the-photography-market?sref=M8H6LjUF)
 - 
