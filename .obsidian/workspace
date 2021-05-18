@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "mozilla hubs.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "todo.md",
+            "file": "mozilla hubs.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "mozilla hubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "mozilla hubs.md",
     "todo.md",
     "do.md",
     "sutty.md",
@@ -165,7 +166,6 @@
     "masto.md",
     "twitter.md",
     "matrix spaces.md",
-    "hypha coop.md",
-    "dcwalker.md"
+    "hypha coop.md"
   ]
 }
