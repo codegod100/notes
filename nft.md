@@ -1,2 +1,4 @@
 - [[nft art]]
 - [[blockchain]] based [[digital art]]
+- [NFTs, explained: what they are, and why they’re suddenly worth millions - The Verge](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
+- 
