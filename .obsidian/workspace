@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "interesting net art.md",
+            "file": "2021-05-17.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "interesting net art.md",
+            "file": "2021-05-17.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interesting net art.md",
+                "file": "2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "interesting net art.md",
+    "2021-05-17.md",
     "interesting hubs.md",
+    "interesting net art.md",
     "logical tea party.md",
     "immers space.md",
     "immer protocol.md",
     "metaverse.md",
     "webaverse.md",
     "agora actions.md",
-    "mozilla hubs.md",
-    "todo.md"
+    "mozilla hubs.md"
   ]
 }

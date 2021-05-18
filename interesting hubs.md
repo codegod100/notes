@@ -2,3 +2,6 @@
 
 - [Bluebells At Narrow Water, May 2021 | Hubs by Mozilla](https://hubs.mozilla.com/9Qj9w2M/bluebells-at-narrow-water-may-2021)
 
+- [Metaship | Hubs by Mozilla](https://hubs.mozilla.com/oyxfSEX/)
+	- cool art exhibit very nice
+
