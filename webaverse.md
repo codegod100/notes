@@ -1,2 +1,2 @@
 - action:go https://webaverse.com/
-- 
+- [[metaverse]]

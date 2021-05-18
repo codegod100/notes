@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "webaverse.md",
+            "file": "immers space.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "webaverse.md",
+            "file": "immers space.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webaverse.md",
+                "file": "immers space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "immers space.md",
+    "immer protocol.md",
+    "metaverse.md",
     "webaverse.md",
+    "agora actions.md",
     "mozilla hubs.md",
     "todo.md",
     "do.md",
     "sutty.md",
-    "husky.md",
-    "mastodon.md",
-    "masto.md",
-    "twitter.md",
-    "matrix spaces.md"
+    "husky.md"
   ]
 }

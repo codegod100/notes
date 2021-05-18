@@ -1,7 +1,7 @@
 - in the [[agora]] we actions that trigger certain internal actions
 - list of common actions
 	- action:go
-	- 
+	- action:pulll
 	- action:push
 - I'm tempted to create a different action format because:
 	- action links (most notably action:go links) mess with my graph view in obsidian
@@ -12,4 +12,5 @@
 - proposed alternatives
 	- action:{{action name}}
 		- I've changed all the actions in my own [[digital-garden]] to this format using find and replace
-	- 
+	- tag format e.g. #go #push 
+		- I'm actually starting to like this version better
