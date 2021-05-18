@@ -1,0 +1,4 @@
+- resolves names to some value on a [[blockchain]]
+- [[name coin]]
+- [[ens]]
+- [[handshake]]

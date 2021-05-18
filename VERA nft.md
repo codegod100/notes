@@ -1,0 +1,1 @@
+- [[nft]] I'm thinking about building on [[cosmos network]] using [[cosmos sdk]]

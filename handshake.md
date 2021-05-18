@@ -1,4 +1,4 @@
 - [Handshake](https://handshake.org/)
 - >**Email became Gmail, usenet became reddit, blog replies became facebook and Medium, pingbacks became twitter, squid became Cloudflare, even gnutella became The Pirate Bay**.
-- name service like [[name coin]]
+- name service like [[name coin]] or [[ens]]
 - [[blockchain]]
