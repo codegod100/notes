@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "VERA nft.md",
+            "file": "replicated deterministic state machine.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "VERA nft.md",
+            "file": "replicated deterministic state machine.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VERA nft.md",
+                "file": "replicated deterministic state machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "replicated deterministic state machine.md",
+    "blockchain.md",
     "VERA nft.md",
     "2021-05-18.md",
     "nameservice.md",
@@ -164,8 +166,6 @@
     "cosmos sdk.md",
     "nft.md",
     "metaverse.md",
-    "opensea.md",
-    "arweave.md",
-    "near.md"
+    "opensea.md"
   ]
 }
