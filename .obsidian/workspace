@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "interesting hubs.md",
+            "file": "pinata.cloud.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "interesting hubs.md",
+            "file": "pinata.cloud.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interesting hubs.md",
+                "file": "pinata.cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "pinata.cloud.md",
     "interesting hubs.md",
     "2021-05-17.md",
     "interesting net art.md",
@@ -165,7 +166,6 @@
     "immer protocol.md",
     "metaverse.md",
     "webaverse.md",
-    "agora actions.md",
-    "mozilla hubs.md"
+    "agora actions.md"
   ]
 }
