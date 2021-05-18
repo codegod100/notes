@@ -1,1 +1,4 @@
-- action:go [Pinata | Effortless IPFS File Management](https://pinata.cloud/)
+- action:go https://pinata.cloud
+- [[ipfs gateway]]
+- [[ipfs]]
+- [[nft minter]]
