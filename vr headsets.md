@@ -1,3 +1,5 @@
 - [[windows mixed reality]]
 	- [[HP Reverb G2]]
-		- 
+		- $599 USD
+-	[[oculus quest 2]]
+	-	$399 (265gb)
