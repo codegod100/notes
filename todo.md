@@ -1,5 +1,6 @@
 Inbox
-- 
+- [ ] 
+
 Back burner
 - [ ] create chrome browser extension based on [[firefox]]
 - [ ] check out sections on ctznry
