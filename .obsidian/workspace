@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cosmos sdk.md",
+            "file": "handshake.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "cosmos sdk.md",
+            "file": "handshake.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cosmos sdk.md",
+                "file": "handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "handshake.md",
     "cosmos sdk.md",
     "nft.md",
     "metaverse.md",
@@ -165,7 +166,6 @@
     "near.md",
     "blockchain research.md",
     "pinata.cloud.md",
-    "nfts.md",
-    "nft minter.md"
+    "nfts.md"
   ]
 }
