@@ -1,1 +1,2 @@
-https://webaverse.com/
+- action:go https://webaverse.com/
+- 

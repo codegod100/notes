@@ -1,2 +1,2 @@
 - action:go https://hubs.mozilla.com/
-- 
+- [[virtual space]]

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mozilla hubs.md",
+            "file": "webaverse.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "mozilla hubs.md",
+            "file": "webaverse.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mozilla hubs.md",
+                "file": "webaverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "webaverse.md",
     "mozilla hubs.md",
     "todo.md",
     "do.md",
@@ -165,7 +166,6 @@
     "mastodon.md",
     "masto.md",
     "twitter.md",
-    "matrix spaces.md",
-    "hypha coop.md"
+    "matrix spaces.md"
   ]
 }
