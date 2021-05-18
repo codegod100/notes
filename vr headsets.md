@@ -5,6 +5,9 @@
 			- needs pc
 - [[oculus]]
 	-	[[oculus quest 2]]
-		-	$399 (265gb)
+		-	$399 USD (265gb)
 		-	pros
 			-	no pc needed
+-	[[vibe htc]]
+	-	[[cosmos]]
+		-	$699 USD
