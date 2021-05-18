@@ -11,5 +11,8 @@
 	- [[oculus rift s]]
 		- $389 USD
 -	[[vibe htc]]
-	-	[[cosmos]]
+	-	[[vibe cosmos]]
 		-	$699 USD
+-	[[valve]]
+	-	[[value index]]
+		-	$999 USD (why?)
