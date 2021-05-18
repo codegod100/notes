@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meetings.md",
+            "file": "vr headsets.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "meetings.md",
+            "file": "vr headsets.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetings.md",
+                "file": "vr headsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "vr headsets.md",
     "meetings.md",
     "logical tea party.md",
     "blockchain.md",
@@ -165,7 +166,6 @@
     "2021-05-18.md",
     "nameservice.md",
     "handshake.md",
-    "cosmos sdk.md",
-    "nft.md"
+    "cosmos sdk.md"
   ]
 }
