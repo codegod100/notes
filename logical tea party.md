@@ -1,2 +1,3 @@
 - a [[mozilla hubs]] experiment
 - action:go https://hubs.sciencevr.com/SNc4fuh/lewis-carrolls-logical-tea-party/
+- play date 2pm wednesday
