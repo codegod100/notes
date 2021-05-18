@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logical tea party.md",
+            "file": "interesting hubs.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "logical tea party.md",
+            "file": "interesting hubs.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logical tea party.md",
+                "file": "interesting hubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "interesting hubs.md",
     "logical tea party.md",
     "immers space.md",
     "immer protocol.md",
@@ -165,7 +166,6 @@
     "agora actions.md",
     "mozilla hubs.md",
     "todo.md",
-    "do.md",
-    "sutty.md"
+    "do.md"
   ]
 }
