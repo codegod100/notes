@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blockchain.md",
+            "file": "logical tea party.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "blockchain.md",
+            "file": "logical tea party.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain.md",
+                "file": "logical tea party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "logical tea party.md",
+    "meetings.md",
     "blockchain.md",
     "replicated deterministic state machine.md",
     "VERA nft.md",
@@ -164,8 +166,6 @@
     "nameservice.md",
     "handshake.md",
     "cosmos sdk.md",
-    "nft.md",
-    "metaverse.md",
-    "opensea.md"
+    "nft.md"
   ]
 }
