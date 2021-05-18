@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arweave.md",
+            "file": "opensea.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "arweave.md",
+            "file": "opensea.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arweave.md",
+                "file": "opensea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "opensea.md",
     "arweave.md",
     "near.md",
     "blockchain research.md",
@@ -165,7 +166,6 @@
     "nft minter.md",
     "webaverse.md",
     "althea.md",
-    "ipfs.md",
-    "interesting hubs.md"
+    "ipfs.md"
   ]
 }
