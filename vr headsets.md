@@ -8,6 +8,8 @@
 		-	$399 USD (265gb)
 		-	pros
 			-	no pc needed
+	- [[oculus rift s]]
+		- $389 USD
 -	[[vibe htc]]
 	-	[[cosmos]]
 		-	$699 USD
