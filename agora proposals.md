@@ -1,3 +1,4 @@
+Potential proposals
 - What requires money
 	- what coops/collectives do we want to sponsor
 - [[agora actions]] and how to handle them

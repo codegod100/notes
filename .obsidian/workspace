@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logical tea party.md",
+            "file": "agora proposals.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "logical tea party.md",
+            "file": "agora proposals.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logical tea party.md",
+                "file": "agora proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,10 +133,10 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "agora proposals.md",
     "logical tea party.md",
     "metaverse.md",
     "vrchat.md",
-    "agora proposals.md",
     "nft minter.md",
     "vr chats.md",
     "agora actions.md",
