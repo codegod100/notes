@@ -9,10 +9,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora proposal platform.md",
+            "file": "Distributed Press.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d76d6af056475706"
+      },
+      {
+        "id": "54c1a4c4c68c1dcd",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Distributed Press.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 2,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "d76d6af056475706"
       }
     ],
     "direction": "vertical"
@@ -77,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora proposal platform.md",
+                "file": "Distributed Press.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "Distributed Press.md",
+    "meetings 2021-05-19.md",
+    "agora conventions.md",
+    "agora actions.md",
     "agora proposal platform.md",
+    "closing wikilinks.md",
     "todo.md",
     "loom.io.md",
     "reputation system.md",
-    "global democratic moderation.md",
-    "distributed press 2021-05-19.md",
-    "fatal ambiguity.md",
-    "flancia collective.md",
-    "hyperbee.md",
-    "minimum viable exchange format.md"
+    "global democratic moderation.md"
   ]
 }
