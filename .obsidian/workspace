@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meetings 2021-05-19.md",
+            "file": "flancia matrix space.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "meetings 2021-05-19.md",
+            "file": "flancia matrix space.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "call",
+                "query": "tag:#go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetings 2021-05-19.md",
+                "file": "flancia matrix space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +155,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef90b7be71ce4f9e",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "flancia matrix space.md",
     "meetings 2021-05-19.md",
     "ctzn.md",
     "todo.md",
@@ -165,7 +166,6 @@
     "meetings.md",
     "meetings 2021-05-21.md",
     "indieweb.md",
-    "tantek.md",
-    "Aaron Parecki.md"
+    "tantek.md"
   ]
 }
