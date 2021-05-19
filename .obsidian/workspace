@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora actions.md",
+            "file": "agora proposals.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora actions.md",
+            "file": "agora proposals.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora actions.md",
+                "file": "agora proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +133,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "agora actions.md",
     "agora proposals.md",
+    "agora actions.md",
     "2021-05-19.md",
     "liquid democracy.md",
     "fauno.md",

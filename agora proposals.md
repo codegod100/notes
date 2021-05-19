@@ -1,3 +1,5 @@
+- What requires money
+	- what coops/collectives do we want to sponsor
 - [[agora actions]] and how to handle them
 - pull in all linked [[wikilinks]] without having to use #pull action
 - flancia collective or flancia coop
