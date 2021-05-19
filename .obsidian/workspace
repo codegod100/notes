@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meetings 2021-05-19.md",
+            "file": "todo.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "meetings 2021-05-19.md",
+            "file": "todo.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetings 2021-05-19.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "todo.md",
     "meetings 2021-05-19.md",
     "2021-05-19.md",
     "Distributed Press.md",
@@ -165,7 +166,6 @@
     "indieweb.md",
     "tantek.md",
     "Aaron Parecki.md",
-    "social api.md",
-    "unwalled.garden.md"
+    "social api.md"
   ]
 }

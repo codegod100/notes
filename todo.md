@@ -1,4 +1,6 @@
 Inbox
+- [ ] add hypothesis integration into [[agora-server]] on a deeper level
+- [ ] autogen journal entry if non existent for nodes created on that day
 - [ ] 
 
 Back burner
