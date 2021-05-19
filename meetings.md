@@ -7,3 +7,6 @@
 
 - [[hypha coop]] call with [[Paul Frazee]]
 	- 8am [[2021-05-19]]
+	- https://link.hypha.coop/compost-calls
+	- [Call series about Distributed Press and related topics · Issue #39 · hyphacoop/distributed-press-organizing · GitHub](https://github.com/hyphacoop/distributed-press-organizing/issues/39)
+
