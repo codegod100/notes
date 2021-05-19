@@ -6,74 +6,13 @@
       {
         "id": "007748de5fda4979",
         "type": "leaf",
-        "dimension": 30.873015873015873,
         "state": {
           "type": "markdown",
           "state": {
             "file": "distributed press 2021-05-19.md",
             "mode": "source"
           }
-        },
-        "group": "9502b7e1313fa92c"
-      },
-      {
-        "id": "ef90b7be71ce4f9e",
-        "type": "leaf",
-        "dimension": 69.12698412698413,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "distributed press 2021-05-19.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 2,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [
-                {
-                  "query": "agora",
-                  "color": {
-                    "a": 1,
-                    "rgb": 14048348
-                  }
-                },
-                {
-                  "query": "hypha",
-                  "color": {
-                    "a": 1,
-                    "rgb": 6054102
-                  }
-                },
-                {
-                  "query": "flancia",
-                  "color": {
-                    "a": 1,
-                    "rgb": 6084225
-                  }
-                }
-              ],
-              "collapse-display": true,
-              "showArrow": true,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.7019965932809069,
-              "close": false
-            }
-          }
-        },
-        "group": "9502b7e1313fa92c"
+        }
       }
     ],
     "direction": "vertical"
