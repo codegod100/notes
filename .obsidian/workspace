@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "global democratic moderation.md",
+            "file": "agora proposal platform.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global democratic moderation.md",
+                "file": "agora proposal platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "agora proposal platform.md",
+    "todo.md",
+    "loom.io.md",
+    "reputation system.md",
     "global democratic moderation.md",
     "distributed press 2021-05-19.md",
     "fatal ambiguity.md",
-    "todo.md",
     "flancia collective.md",
     "hyperbee.md",
-    "minimum viable exchange format.md",
-    "underlay.md",
-    "Paul Frazee.md",
-    "flancia matrix space.md"
+    "minimum viable exchange format.md"
   ]
 }

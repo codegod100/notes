@@ -1,0 +1,2 @@
+- A platform for deciding the outcome of proposals
+- similar to [[loom.io]]
