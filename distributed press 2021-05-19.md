@@ -63,4 +63,10 @@ Attendees
 	- [[guo]]
 		- if we can determine ownership we can help with governance issue
 		- if it's my data, there is no governance issue
-		- 
+
+
+[[commons mesh]]
+- how do you end up in a situation where governance is required
+- what are defaults
+- sign up for first time, what's being suggested
+- 
