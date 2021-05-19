@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "agora proposal platform.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "todo.md",
+            "file": "agora proposal platform.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "agora proposal platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "agora proposal platform.md",
+    "agora action.md",
+    "agora actions.md",
     "todo.md",
     "distributed press 2021-05-19.md",
     "2021-05-19.md",
     "distributed press.md",
     "meetings 2021-05-19.md",
     "agora conventions.md",
-    "Distributed Press.md",
-    "agora actions.md",
-    "agora proposal platform.md",
-    "closing wikilinks.md"
+    "Distributed Press.md"
   ]
 }
