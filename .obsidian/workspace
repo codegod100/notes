@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "metaverse.md",
+            "file": "logical tea party.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "metaverse.md",
+            "file": "logical tea party.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metaverse.md",
+                "file": "logical tea party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "54c1a4c4c68c1dcd",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "logical tea party.md",
     "metaverse.md",
     "vrchat.md",
     "agora proposals.md",
@@ -141,7 +142,6 @@
     "agora actions.md",
     "fauno.md",
     "2021-05-19.md",
-    "liquid democracy.md",
-    "struggle of nature and society.md"
+    "liquid democracy.md"
   ]
 }
