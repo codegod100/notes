@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "global democratic moderation.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "global democratic moderation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "todo.md",
-    "fatal ambiguity.md",
+    "global democratic moderation.md",
     "distributed press 2021-05-19.md",
+    "fatal ambiguity.md",
+    "todo.md",
+    "flancia collective.md",
     "hyperbee.md",
     "minimum viable exchange format.md",
     "underlay.md",
     "Paul Frazee.md",
-    "flancia matrix space.md",
-    "meetings 2021-05-19.md",
-    "ctzn.md"
+    "flancia matrix space.md"
   ]
 }
