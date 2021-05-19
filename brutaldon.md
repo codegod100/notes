@@ -1,3 +1,3 @@
 lightweight fedi client like [[pinafore]]
 
-action:go https://brutaldon.online
+#go https://brutaldon.online

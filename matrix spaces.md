@@ -1,3 +1,3 @@
-- action:go https://element.io/blog/spaces-the-next-frontier
+- #go https://element.io/blog/spaces-the-next-frontier
 - Using Spaces and Subspaces to build [[hierarchies]] effectively turns [[matrix]] into a global decentralised [[filesystem]] for conversations and other real-time data!
 - 

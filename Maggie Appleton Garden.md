@@ -1,6 +1,6 @@
 [[Maggie Appleton]]
 
-action:go https://maggieappleton.com/garden
+#go https://maggieappleton.com/garden
 
 -	An open collection of notes, resources, sketches, and explorations I'm currently cultivating. Some notes are Seedlings, some are budding, and some are fully grown Evergreen.
 -	[[digital garden history]]

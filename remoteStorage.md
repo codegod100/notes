@@ -1,4 +1,4 @@
-action:go https://remotestorage.io/
+#go https://remotestorage.io/
 
 Storage engine used in [[hyperdraft]]
 

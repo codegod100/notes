@@ -1,2 +1,2 @@
-action:go https://pleroma.social/
+#go https://pleroma.social/
 [[fedi server]]

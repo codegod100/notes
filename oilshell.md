@@ -1,4 +1,4 @@
-action:go https://github.com/oilshell/oil
+#go https://github.com/oilshell/oil
 
 New shell for unix that is supposed to replace bash
 

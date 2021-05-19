@@ -1,1 +1,1 @@
-- action:go https://getaether.net/
+- #go https://getaether.net/

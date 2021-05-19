@@ -1,3 +1,3 @@
-- action:go https://webaverse.com/
+- #go https://webaverse.com/
 - [[metaverse]]
 - [[nft minter]]

@@ -1,1 +1,1 @@
-action:go anagora.org
+#go anagora.org

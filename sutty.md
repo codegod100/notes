@@ -1,2 +1,2 @@
-- action:go https://sutty.nl/
+- #go https://sutty.nl/
 - [[hypha coop]]

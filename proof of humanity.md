@@ -1,2 +1,2 @@
-- action:go https://www.proofofhumanity.id
+- #go https://www.proofofhumanity.id
 - [[ubi]]
