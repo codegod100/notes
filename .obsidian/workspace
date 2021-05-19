@@ -6,11 +6,11 @@
       {
         "id": "007748de5fda4979",
         "type": "leaf",
-        "dimension": 32.857142857142854,
+        "dimension": 60,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vr headsets.md",
+            "file": "avatar.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "ef90b7be71ce4f9e",
         "type": "leaf",
-        "dimension": 67.14285714285714,
+        "dimension": 40,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "vr headsets.md",
+            "file": "avatar.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vr headsets.md",
+                "file": "avatar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "avatar.md",
+    "vroid.md",
+    "vr.md",
+    "virtual reality.md",
+    "vrm.md",
+    "vr chats.md",
     "vr headsets.md",
     "meetings.md",
     "logical tea party.md",
-    "blockchain.md",
-    "replicated deterministic state machine.md",
-    "VERA nft.md",
-    "2021-05-18.md",
-    "nameservice.md",
-    "handshake.md",
-    "cosmos sdk.md"
+    "blockchain.md"
   ]
 }
