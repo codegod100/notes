@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-19.md",
+            "file": "liquid democracy.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-19.md",
+            "file": "liquid democracy.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-19.md",
+                "file": "liquid democracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "liquid democracy.md",
     "2021-05-19.md",
     "fauno.md",
     "struggle of nature and society.md",
@@ -141,7 +142,6 @@
     "agora action.md",
     "agora actions.md",
     "todo.md",
-    "distributed press 2021-05-19.md",
-    "distributed press.md"
+    "distributed press 2021-05-19.md"
   ]
 }
