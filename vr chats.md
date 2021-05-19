@@ -1,3 +1,0 @@
-- [[vrchat]]
-- [[altvrspace]]
-- [[rec room]]
