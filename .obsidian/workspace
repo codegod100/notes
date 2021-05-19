@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "avatar.md",
+            "file": "meetings.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "avatar.md",
+            "file": "meetings.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "avatar.md",
+                "file": "meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "meetings.md",
+    "todo.md",
+    "do.md",
     "avatar.md",
     "vroid.md",
     "vr.md",
     "virtual reality.md",
     "vrm.md",
     "vr chats.md",
-    "vr headsets.md",
-    "meetings.md",
-    "logical tea party.md",
-    "blockchain.md"
+    "vr headsets.md"
   ]
 }
