@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "flancia matrix space.md",
+            "file": "distributed press 2021-05-19.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "flancia matrix space.md",
+            "file": "distributed press 2021-05-19.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia matrix space.md",
+                "file": "distributed press 2021-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "distributed press 2021-05-19.md",
+    "Paul Frazee.md",
     "flancia matrix space.md",
     "meetings 2021-05-19.md",
     "ctzn.md",
@@ -164,8 +166,6 @@
     "2021-05-19.md",
     "Distributed Press.md",
     "meetings.md",
-    "meetings 2021-05-21.md",
-    "indieweb.md",
-    "tantek.md"
+    "meetings 2021-05-21.md"
   ]
 }
