@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "distributed press 2021-05-19.md",
+            "file": "todo.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "distributed press 2021-05-19.md",
+            "file": "todo.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.8735804647363,
+              "scale": 0.725428176205907,
               "close": false
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press 2021-05-19.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "54c1a4c4c68c1dcd",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "todo.md",
     "distributed press 2021-05-19.md",
     "2021-05-19.md",
     "distributed press.md",
@@ -141,7 +142,6 @@
     "Distributed Press.md",
     "agora actions.md",
     "agora proposal platform.md",
-    "closing wikilinks.md",
-    "todo.md"
+    "closing wikilinks.md"
   ]
 }
