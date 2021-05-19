@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora proposals.md",
+            "file": "distributed press.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora proposals.md",
+            "file": "distributed press.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora proposals.md",
+                "file": "distributed press.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "distributed press.md",
     "agora proposals.md",
     "logical tea party.md",
     "metaverse.md",
@@ -141,7 +142,6 @@
     "vr chats.md",
     "agora actions.md",
     "fauno.md",
-    "2021-05-19.md",
-    "liquid democracy.md"
+    "2021-05-19.md"
   ]
 }
