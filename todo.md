@@ -2,6 +2,7 @@ Inbox
 - [ ] add hypothesis integration into [[agora-server]] on a deeper level
 - [ ] autogen journal entry if non existent for nodes created on that day
 - [ ] "snapshot" feature to "freeze" a node at a specific time and archive
+- [ ] [[hyperbee]] to store agora data, we could possibly run into scaling issues running flat files, may be easier to dispatch [[agora actions]]
 
 Back burner
 - [ ] create chrome browser extension based on [[firefox]]
