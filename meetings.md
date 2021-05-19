@@ -10,4 +10,9 @@
 	- 8am [[2021-05-19]]
 	- https://link.hypha.coop/compost-calls
 	- https://github.com/hyphacoop/distributed-press-organizing/issues/39
+	- Call topics:
+		- [[unwalled.garden]]
+			- questions
+				- how is this similar to/different than [[ctzn]]
 
+		- [[social api]]
