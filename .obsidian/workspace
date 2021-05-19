@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dag",
+                "query": "call",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,6 +158,7 @@
   "active": "007748de5fda4979",
   "lastOpenFiles": [
     "meetings.md",
+    "2021-05-18.md",
     "todo.md",
     "do.md",
     "avatar.md",
@@ -165,7 +166,6 @@
     "vr.md",
     "virtual reality.md",
     "vrm.md",
-    "vr chats.md",
-    "vr headsets.md"
+    "vr chats.md"
   ]
 }
