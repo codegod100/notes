@@ -34,4 +34,16 @@ Attendees
 	- people expect to get notifcations from people
 	- people need to follow out of band
 	- limited push message
-	- aggregator service
+	- aggregator service notifications
+		- really close to running gateway, running a service
+		- let's just use services
+		- take your data and move to other "place"
+
+
+[[minimum viable exchange format]]
+- all these technologies converge into this
+- [[indieweb]]
+- [[microformats]]
+- [[minimal social graph]]
+	- can be [[ipfs]] can be [[dat]]
+	- 
