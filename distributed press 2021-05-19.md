@@ -69,4 +69,6 @@ Attendees
 - how do you end up in a situation where governance is required
 - what are defaults
 - sign up for first time, what's being suggested
-- 
+
+
+[[fatal ambiguity]]

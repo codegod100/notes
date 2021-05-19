@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "distributed press 2021-05-19.md",
+            "file": "fatal ambiguity.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press 2021-05-19.md",
+                "file": "fatal ambiguity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "fatal ambiguity.md",
     "distributed press 2021-05-19.md",
     "minimum viable exchange format.md",
     "todo.md",
@@ -104,7 +105,6 @@
     "flancia matrix space.md",
     "meetings 2021-05-19.md",
     "ctzn.md",
-    "2021-05-19.md",
-    "Distributed Press.md"
+    "2021-05-19.md"
   ]
 }
