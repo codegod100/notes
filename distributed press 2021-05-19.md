@@ -45,5 +45,18 @@ Attendees
 - [[indieweb]]
 - [[microformats]]
 - [[minimal social graph]]
-	- can be [[ipfs]] can be [[dat]]
-	- 
+	- [[guo]]
+		- can be [[ipfs]] can be [[dat]]
+		- have to have an aggregator, how do you know if there's new content
+		- how do you do search
+		- separate data aggregator and host
+	- [[flancian]]
+		- [[underlay project]]
+	- [[Paul Frazee]]
+		- [[data mesh]]
+			- basically function like database 
+				- way for semantic 
+				- tables in there with universal ide (url based to find schema)
+				- universal global data mesh, with global semantics
+				- [[governance of the commons]]
+				- 
