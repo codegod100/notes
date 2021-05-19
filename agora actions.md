@@ -11,6 +11,5 @@
 		- people are already using the current fomat
 - proposed alternatives
 	- action:{{action name}}
-		- I've changed all the actions in my own [[digital-garden]] to this format using find and replace
 	- tag format e.g. #go #push 
 		- I'm actually starting to like this version better
