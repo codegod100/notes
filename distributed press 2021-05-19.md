@@ -59,4 +59,8 @@ Attendees
 				- tables in there with universal ide (url based to find schema)
 				- universal global data mesh, with global semantics
 				- [[governance of the commons]]
-				- 
+
+	- [[guo]]
+		- if we can determine ownership we can help with governance issue
+		- if it's my data, there is no governance issue
+		- 
