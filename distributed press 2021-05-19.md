@@ -9,5 +9,7 @@ attendees
 - [[guo]]
 	- looking at [[ipfs]] or [[hypercore]]
 	- [[webmentions]] [[microformats]]
+
+- [[sutty]]
 	- 
 
