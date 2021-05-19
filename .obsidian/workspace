@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "distributed press.md",
+            "file": "logical tea party.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "distributed press.md",
+            "file": "logical tea party.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press.md",
+                "file": "logical tea party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +133,9 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "logical tea party.md",
     "distributed press.md",
     "agora proposals.md",
-    "logical tea party.md",
     "metaverse.md",
     "vrchat.md",
     "nft minter.md",
