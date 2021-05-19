@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora proposal platform.md",
+            "file": "2021-05-19.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora proposal platform.md",
+            "file": "2021-05-19.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora proposal platform.md",
+                "file": "2021-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "2021-05-19.md",
+    "fauno.md",
+    "struggle of nature and society.md",
+    "net freedom.md",
     "agora proposal platform.md",
     "agora action.md",
     "agora actions.md",
     "todo.md",
     "distributed press 2021-05-19.md",
-    "2021-05-19.md",
-    "distributed press.md",
-    "meetings 2021-05-19.md",
-    "agora conventions.md",
-    "Distributed Press.md"
+    "distributed press.md"
   ]
 }
