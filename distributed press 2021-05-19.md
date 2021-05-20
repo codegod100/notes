@@ -12,7 +12,7 @@ Attendees
 
 [[ipfs gateways]]
 - [[Paul Frazee]]
-	- say you're twitter, 1000 users. 
+	- say you're [[twitter]], 1000 users. 
 	- 1000 users only one using service but having to pay for storage/bandwidth of 1000 poor scaling properties
 	- gateway not feasible model
 	- what are the costs

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "finance.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "finance.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.725428176205907,
+              "scale": 1.0353546248726513,
               "close": false
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "agora ctzn.md",
-    "agora containers.md",
-    "reviewing notes.md",
-    "world at war.md",
-    "do.md",
-    "2021-01-16.md",
-    "todo.md",
-    "2021-01-12.md",
-    "2021-01-02.md",
-    "2021-01-11.md"
+    "finance.md",
+    "defi.md",
+    "decentralized.md",
+    "cosmos network.md",
+    "agora actions.md",
+    "concrete nouns.md",
+    "twitter.md",
+    "Paul Frazee.md",
+    "ctzn.md",
+    "agora ctzn.md"
   ]
 }

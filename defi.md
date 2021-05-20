@@ -1,1 +1,1 @@
-distributed [[finance]] [[blockchain]] technology
+[[decentralized]] [[finance]] [[blockchain]] technology
