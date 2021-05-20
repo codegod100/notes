@@ -1,6 +1,4 @@
 -	The queen of everything
-	-	[[space]] https://gather.town/app/UIn5AAlVh3IUSKiP/home
-	-	#go
-		-	[[ctzn]] https://ctznry.com/vera@ctzn.one/ctzn.network/post/ff080bc6a2741a18
-		-	[[space]]
-		-	[[zoom]] 
+-	#space https://gather.town/app/UIn5AAlVh3IUSKiP/home
+-	[[ctzn]] https://ctznry.com/vera@ctzn.one/ctzn.network/post/ff080bc6a2741a18
+-	[[zoom]] 

@@ -2,7 +2,7 @@ Inbox
 - [ ] add hypothesis integration into [[agora-server]] on a deeper level
 - [ ] [[hyperbee]] to store agora data, we could possibly run into scaling issues running flat files, may be easier to dispatch [[agora actions]]
 - [ ] build [[agora proposal platform]]
-- [ ] cancel zoom phone if it doesn't get fixed
+- [ ] cancel [[zoom]] phone if it doesn't get fixed
 
 Back burner
 - [ ] autogen journal entry if non existent for nodes created on that day
