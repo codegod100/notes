@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "governance.md",
+            "file": "decidim.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "governance.md",
+            "file": "decidim.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.7384930490343267,
+              "scale": 0.738493049034328,
               "close": false
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "governance.md",
+                "file": "decidim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "governance.md",
-    "open source democracy.md",
-    "agora proposal platform.md",
     "decidim.md",
+    "open source democracy.md",
     "consul.md",
+    "todo.md",
+    "agora proposal platform.md",
+    "governance.md",
     "2021-05-20.md",
     "2021-05-19.md",
     "agora proposals.md",
-    "todo.md",
     "pia call 2021-05-20.md"
   ]
 }

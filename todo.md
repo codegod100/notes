@@ -1,5 +1,5 @@
 Inbox
-- [ ] find a governance platform for [[agora proposals]]
+- [ ] find a [[governance]] platform for [[agora proposals]]
 - [ ] add hypothesis integration into [[agora-server]] on a deeper level
 - [ ] [[hyperbee]] to store agora data, we could possibly run into scaling issues running flat files, may be easier to dispatch [[agora actions]]
 - [ ] build [[agora proposal platform]]
