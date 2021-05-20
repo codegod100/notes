@@ -1,8 +1,10 @@
 Inbox
 - [ ] add hypothesis integration into [[agora-server]] on a deeper level
-- [ ] [[hyperbee]] to store agora data, we could possibly run into scaling issues running flat files, 
+- [ ] [[hyperbee]] to store agora data, 
+	- we could possibly run into scaling issues running flat files, 
 	- may be easier to dispatch [[agora actions]]
 - [ ] build [[agora proposal platform]]
+	- thinking of using tools at [[open source democracy]]
 
 Back burner
 - [ ] autogen journal entry if non existent for nodes created on that day
