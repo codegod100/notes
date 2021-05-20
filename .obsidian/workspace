@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-20.md",
+            "file": "ruby.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-20.md",
+            "file": "ruby.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-20.md",
+                "file": "ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "ruby.md",
     "2021-05-20.md",
     "open source democracy.md",
     "decidim.md",
@@ -141,7 +142,6 @@
     "agora proposal platform.md",
     "governance.md",
     "2021-05-19.md",
-    "agora proposals.md",
-    "pia call 2021-05-20.md"
+    "agora proposals.md"
   ]
 }
