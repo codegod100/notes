@@ -1,3 +1,3 @@
 - [CONSUL (consulproject.org)](https://consulproject.org/en/)
 - https://github.com/consul/consul/tree/master/app/components
-- - #programming-language [[ruby]]
+-  #programming-language [[ruby]]

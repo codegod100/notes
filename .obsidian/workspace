@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ruby.md",
+            "file": "consul.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "ruby.md",
+            "file": "consul.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruby.md",
+                "file": "consul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "ruby.md",
-    "2021-05-20.md",
-    "open source democracy.md",
-    "decidim.md",
     "consul.md",
-    "todo.md",
-    "agora proposal platform.md",
     "governance.md",
-    "2021-05-19.md",
-    "agora proposals.md"
+    "golang.md",
+    "vlang.md",
+    "2021-05-09.md",
+    "2021-05-20.md",
+    "decidim.md",
+    "open source democracy.md",
+    "rbenv.md",
+    "ruby.md"
   ]
 }
