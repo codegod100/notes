@@ -1,2 +1,3 @@
-- [[twitter]] piamancini
+- #twitter piamancini
+- [[democracyos]]
 - [[pia ted talk]]

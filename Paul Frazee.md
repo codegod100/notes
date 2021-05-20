@@ -1,2 +1,2 @@
-- [[twitter]] 
+- #twitter  
 - - pronounced fray-zee
