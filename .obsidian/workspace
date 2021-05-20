@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pia call 2021-05-20.md",
+            "file": "filter bubble.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pia call 2021-05-20.md",
+            "file": "filter bubble.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pia call 2021-05-20.md",
+                "file": "filter bubble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "filter bubble.md",
     "pia call 2021-05-20.md",
     "2021-05-20.md",
     "todo.md",
@@ -141,7 +142,6 @@
     "agora actions.md",
     "agora containers.md",
     "agora ctzn.md",
-    "decidim.md",
-    "github.md"
+    "decidim.md"
   ]
 }

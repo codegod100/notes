@@ -1,0 +1,3 @@
+- found out from [[patcon]]
+- A filter bubble is a term coined by the Internet activist [[Eli Pariser]] to refer to a state of intellectual isolation
+- 
