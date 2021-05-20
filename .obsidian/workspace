@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logical tea party.md",
+            "file": "meetings.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "logical tea party.md",
+            "file": "meetings.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logical tea party.md",
+                "file": "meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "meetings.md",
+    "meetings 2021-05-20.md",
     "logical tea party.md",
     "distributed press.md",
     "agora proposals.md",
@@ -140,8 +142,6 @@
     "vrchat.md",
     "nft minter.md",
     "vr chats.md",
-    "agora actions.md",
-    "fauno.md",
-    "2021-05-19.md"
+    "agora actions.md"
   ]
 }
