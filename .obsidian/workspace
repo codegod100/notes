@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "open source democracy.md",
+            "file": "consul.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "open source democracy.md",
+            "file": "consul.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming-language",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "open source democracy.md",
+                "file": "consul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "54c1a4c4c68c1dcd",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "open source democracy.md",
-    "decidim.md",
     "consul.md",
     "2021-05-20.md",
+    "agora actions.md",
+    "agora containers.md",
+    "agora ctzn.md",
+    "pia call 2021-05-20.md",
+    "open source democracy.md",
+    "decidim.md",
     "github.md",
-    "fatal ambiguity.md",
-    "misskey.md",
-    "meetings 2021-05-19.md",
-    "librephotos.md",
-    "gomuks.md"
+    "fatal ambiguity.md"
   ]
 }

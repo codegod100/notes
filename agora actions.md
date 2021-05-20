@@ -13,3 +13,9 @@
 	- action:{{action name}}
 	- tag format e.g. #go #push 
 		- I'm actually starting to like this version better
+
+- issues
+	- an agora can only support a finite list of actions so we need to configure them somewhere
+	- #todo 
+		- [ ] create config.yaml
+		- [ ] add actions to config yaml
