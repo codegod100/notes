@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pia ted talk.md",
+            "file": "rational disscusion and decision making.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pia ted talk.md",
+            "file": "rational disscusion and decision making.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consul",
+                "query": "matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pia ted talk.md",
+                "file": "rational disscusion and decision making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "pia ted talk.md",
-    "ted talk.md",
-    "filter bubble.md",
-    "agora feature requests.md",
-    "pia call 2021-05-20.md",
-    "2021-05-20.md",
-    "todo.md",
-    "open source democracy.md",
-    "consul.md",
-    "agora actions.md"
+    "rational disscusion and decision making.md",
+    "zulip.md",
+    "gomuks.md",
+    "flancia matrix space.md",
+    "2021-02-09.md",
+    "matrix.md",
+    "brig.md",
+    "2021-02-21.md",
+    "2020-12-30.md",
+    "2021-04-24.md"
   ]
 }
