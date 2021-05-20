@@ -1,6 +1,6 @@
 - #go https://misskey.io/
 
-- [[github]] https://github.com/syuilo/misskey
+- #github https://github.com/syuilo/misskey
 
 Full featured [[fedi server]] from Japan
 

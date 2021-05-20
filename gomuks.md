@@ -1,4 +1,4 @@
-- #go https://github.com/tulir/gomuks
+- #github https://github.com/tulir/gomuks
 - technologies
 	- [[golang]] 
 	- [[cli]] 

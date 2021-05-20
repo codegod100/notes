@@ -1,1 +1,1 @@
-#go https://github.com/LibrePhotos/librephotos
+#github https://github.com/LibrePhotos/librephotos
