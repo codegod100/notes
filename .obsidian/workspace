@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pia ted talk.md",
+            "file": "agora governance.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pia ted talk.md",
+            "file": "agora governance.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pia ted talk.md",
+                "file": "agora governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "agora governance.md",
     "pia ted talk.md",
     "partido de la red.md",
     "ted talk.md",
@@ -141,7 +142,6 @@
     "red army killed black army.md",
     "rational disscusion and decision making.md",
     "zulip.md",
-    "gomuks.md",
-    "flancia matrix space.md"
+    "gomuks.md"
   ]
 }
