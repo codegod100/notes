@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "filter bubble.md",
+            "file": "pia ted talk.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "filter bubble.md",
+            "file": "pia ted talk.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "filter bubble.md",
+                "file": "pia ted talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "pia ted talk.md",
+    "ted talk.md",
     "filter bubble.md",
     "agora feature requests.md",
     "pia call 2021-05-20.md",
@@ -140,8 +142,6 @@
     "todo.md",
     "open source democracy.md",
     "consul.md",
-    "agora actions.md",
-    "agora containers.md",
-    "agora ctzn.md"
+    "agora actions.md"
   ]
 }
