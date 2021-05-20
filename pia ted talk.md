@@ -18,3 +18,9 @@
 	- hacking the political system
 	- to have a seat at the table needed to be ballot stake holders
 	- argentina launching democracyos to discuss with the citizens
+
+
+
+
+
+[[ted talk]]

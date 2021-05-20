@@ -1,3 +1,4 @@
 - #twitter piamancini
 - [[democracyos]]
 - [[pia ted talk]]
+- [[ceo]] [[open collective]]
