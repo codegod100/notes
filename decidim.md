@@ -1,2 +1,3 @@
 - [Decidim](https://decidim.org/)
-- 
+- #github https://github.com/decidim/decidim
+- #programming-language [[ruby]]
