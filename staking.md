@@ -6,7 +6,7 @@ As an ATOM delegator, you can stake your tokens with one or more Validators. In 
 
 ### **2.What is a Validator?**
 
-COSMOS Hub validators participate in consensus by broadcasting cryptographic signatures, or votes, to commit blocks. Tendermint requires a fixed known set of validators, where each validator is identified by their public key. Validators attempt to come to consensus one block at a time, where a block is a list of transactions.
+COSMOS Hub validators participate in consensus by broadcasting cryptographic signatures, or votes, to commit blocks. [[tendermint]] requires a fixed known set of validators, where each validator is identified by their public key. Validators attempt to come to consensus one block at a time, where a block is a list of transactions.
 
 ### **3.Why should I delegate my ATOM?**
 

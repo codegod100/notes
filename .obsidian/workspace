@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "finance.md",
+            "file": "2021-05-20.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "finance.md",
+            "file": "2021-05-20.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.0353546248726513,
+              "scale": 0.7384930490343267,
               "close": false
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finance.md",
+                "file": "2021-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "007748de5fda4979",
+  "active": "54c1a4c4c68c1dcd",
   "lastOpenFiles": [
-    "finance.md",
-    "defi.md",
-    "decentralized.md",
-    "cosmos network.md",
-    "agora actions.md",
-    "concrete nouns.md",
-    "twitter.md",
-    "Paul Frazee.md",
-    "ctzn.md",
-    "agora ctzn.md"
+    "2021-05-20.md",
+    "walletconnect.md",
+    "eos.io.md",
+    "okex.md",
+    "trust wallet.md",
+    "cosmostation.md",
+    "stake.fish.md",
+    "regen.network.md",
+    "tendermint.md",
+    "finance.md"
   ]
 }
