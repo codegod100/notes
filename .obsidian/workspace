@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "consul.md",
+            "file": "todo.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "consul.md",
+            "file": "todo.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "consul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "consul.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "todo.md",
+    "open source democracy.md",
     "consul.md",
     "2021-05-20.md",
     "agora actions.md",
     "agora containers.md",
     "agora ctzn.md",
     "pia call 2021-05-20.md",
-    "open source democracy.md",
     "decidim.md",
-    "github.md",
-    "fatal ambiguity.md"
+    "github.md"
   ]
 }
