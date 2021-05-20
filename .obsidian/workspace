@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-20.md",
+            "file": "governance.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-20.md",
+            "file": "governance.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-20.md",
+                "file": "governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "governance.md",
+    "open source democracy.md",
+    "agora proposal platform.md",
+    "decidim.md",
+    "consul.md",
     "2021-05-20.md",
     "2021-05-19.md",
     "agora proposals.md",
     "todo.md",
-    "pia call 2021-05-20.md",
-    "cryptocurrency.md",
-    "crypto currency.md",
-    "USD.md",
-    "meetings 2021-05-20.md",
-    "pia ted talk.md"
+    "pia call 2021-05-20.md"
   ]
 }
