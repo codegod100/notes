@@ -1,5 +1,3 @@
 - #go  https://wetransfer.com/
 - Aesthetically pleasing file transfer/sharing site. large file upload limit
-- [[todo]]
-	- [x]  check upload limit
-		- 2 gigs
+- upload limit 2 gigs

@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[todo]]",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,14 +134,14 @@
   "active": "007748de5fda4979",
   "lastOpenFiles": [
     "agora ctzn.md",
-    "rich text editor.md",
+    "agora containers.md",
+    "reviewing notes.md",
+    "world at war.md",
+    "do.md",
+    "2021-01-16.md",
     "todo.md",
-    "zoom.md",
-    "vera.md",
-    "shae.md",
-    "2020-12-30.md",
-    "pinafore.md",
-    "mastodon.md",
-    "fediverse.md"
+    "2021-01-12.md",
+    "2021-01-02.md",
+    "2021-01-11.md"
   ]
 }

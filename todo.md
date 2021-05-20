@@ -15,6 +15,7 @@ Back burner
 - [ ] show actual journal entries in /journal route
 	- can I use same codebase?
 - [ ] build [[notion]] integration
+- [ ] watch [[world at war]]
 
 
 Done

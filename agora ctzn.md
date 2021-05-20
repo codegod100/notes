@@ -1,7 +1,7 @@
 - Need to keep track of users we follow because currently the bridge only downloads the pages of people whom the user follows that is logged into the bridge
 - [[docs]] at [[agora ctzn docs]]
 
-- [[todo]]
+- #todo
 	-  [ ] have [[rich text editor]] show preview mode on save
 	- [ ] add https functionality
 		- [x] put paths to certs in config file in prod
