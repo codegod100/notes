@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "consul.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "consul.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "consul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "consul.md",
+    "open source democracy.md",
+    "decidim.md",
+    "open source governance.md",
     "agora ctzn.md",
     "agora containers.md",
-    "consul.md",
     "governance.md",
     "golang.md",
     "vlang.md",
-    "2021-05-09.md",
-    "2021-05-20.md",
-    "decidim.md",
-    "open source democracy.md"
+    "2021-05-09.md"
   ]
 }
