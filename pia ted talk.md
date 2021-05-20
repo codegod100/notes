@@ -1,3 +1,4 @@
 - the most important question
 	- If [[interent is the new printing press]], then what is [[democracy]] for the internet era
-		- What institutions do we want to build for 21st
+		- What institutions do we want to build for 21st century society
+		- 
