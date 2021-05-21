@@ -3,3 +3,4 @@
 - [New Day New Folks New Beginnings | Blog | Aether](https://aether.app/blog/2021-02-08-new-day-new-folks-new-beginnings/)
 - #twitter https://twitter.com/LauBenedict
 - #keybase https://keybase.io/benhylau
+- [[aether]]

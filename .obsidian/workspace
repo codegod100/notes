@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#twitter",
+                "query": "tag:#email",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,11 +134,11 @@
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
     "vera.md",
+    "pia mancini.md",
     "benhylau.md",
+    "aether.md",
     "flancian.md",
     "Paul Frazee.md",
-    "pia mancini.md",
-    "aether.md",
     "gemini protocol.md",
     "smol web.md",
     "gemini.md",
