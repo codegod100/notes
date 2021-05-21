@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vera.md",
+            "file": "patcon.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "vera.md",
+            "file": "patcon.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#email",
+                "query": "tag:#mastodon",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "patcon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "patcon.md",
+    "patcon 2021-05-21.md",
+    "2021-05-21.md",
+    "agora as documentation.md",
+    "2021-02-11.md",
+    "mastodon.md",
     "vera.md",
-    "pia mancini.md",
-    "benhylau.md",
-    "aether.md",
     "flancian.md",
-    "Paul Frazee.md",
-    "gemini protocol.md",
-    "smol web.md",
-    "gemini.md",
-    "2021-01-11.md"
+    "twitter.md",
+    "matrix.md"
   ]
 }
