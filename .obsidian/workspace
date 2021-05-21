@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-21.md",
+            "file": "agora feature requests.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-21.md",
+            "file": "agora feature requests.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-21.md",
+                "file": "agora feature requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "agora feature requests.md",
+    "wt.social.md",
     "2021-05-21.md",
     "corona vaccination.md",
     "meetings 2021-05-21.md",
@@ -140,8 +142,6 @@
     "qualitative palette.md",
     "agora proposal 1.md",
     "agora governance system.md",
-    "agora governance.md",
-    "pia ted talk.md",
-    "partido de la red.md"
+    "agora governance.md"
   ]
 }
