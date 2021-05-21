@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora feature requests.md",
+            "file": "mastodon.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora feature requests.md",
+            "file": "mastodon.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#history",
+                "query": "tag:#mastodon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora feature requests.md",
+                "file": "mastodon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "agora feature requests.md",
-    "wt.social.md",
-    "2021-05-21.md",
-    "corona vaccination.md",
-    "meetings 2021-05-21.md",
-    "meetings.md",
-    "qualitative palette.md",
-    "agora proposal 1.md",
-    "agora governance system.md",
-    "agora governance.md"
+    "mastodon.md",
+    "flancian.md",
+    "pia mancini.md",
+    "ceo.md",
+    "pia call 2021-05-20.md",
+    "hypha.md",
+    "hypha coop.md",
+    "open collective.md",
+    "flancia collective.md",
+    "flancia coop.md"
   ]
 }
