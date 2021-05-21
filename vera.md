@@ -2,7 +2,8 @@
 - #mastodon vera@freethinkers.lgbt
 - #matrix vera@fairydust.space
 - #email veronika.m.winters@gmail.com
-- #github fuck-capitalism
+- #github https://github.com/fuck-capitalism
+- #twitter https://twitter.com/flanciavera
 
 #developer
 #protopian

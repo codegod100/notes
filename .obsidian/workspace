@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aether.md",
+            "file": "vera.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "aether.md",
+            "file": "vera.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#go-link",
+                "query": "tag:#twitter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aether.md",
+                "file": "vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "vera.md",
+    "benhylau.md",
+    "flancian.md",
+    "Paul Frazee.md",
+    "pia mancini.md",
     "aether.md",
     "gemini protocol.md",
     "smol web.md",
     "gemini.md",
-    "2021-01-11.md",
-    "betterexplained.md",
-    "2021-01-20.md",
-    "notes on old books.md",
-    "english as she is spoke.md",
-    "create your own content.md"
+    "2021-01-11.md"
   ]
 }
