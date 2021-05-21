@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "522070344ef24095",
+        "id": "4a3a5cec676d1511",
         "type": "leaf",
-        "dimension": 27.6984126984127,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ctzn.md",
+            "file": "gemini protocol.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "65bd5feabf96ab20"
       },
       {
-        "id": "c5590abef98c4671",
+        "id": "0efd2f6028c63851",
         "type": "leaf",
-        "dimension": 72.3015873015873,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "ctzn.md",
+            "file": "gemini protocol.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
-              "localJumps": 2,
+              "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
-              "showTags": true,
+              "showTags": false,
               "showAttachments": false,
-              "hideUnresolved": true,
+              "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
@@ -45,11 +44,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.7132754626224436,
+              "scale": 1,
               "close": false
             }
           }
-        }
+        },
+        "group": "65bd5feabf96ab20"
       }
     ],
     "direction": "vertical"
@@ -76,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#go-link",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctzn.md",
+                "file": "gemini protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c5590abef98c4671",
+  "active": "0efd2f6028c63851",
   "lastOpenFiles": [
-    "ctzn.md",
-    "Paul Frazee.md",
-    "federated social media networks.md",
-    "immer protocol.md",
-    "ctznry.md",
-    "2021-05-21.md",
-    "polis.md",
-    "patcon 2021-05-21.md",
-    "cryptocurrency.md",
-    "blockchain.md"
+    "gemini protocol.md",
+    "smol web.md",
+    "gemini.md",
+    "2021-01-11.md",
+    "betterexplained.md",
+    "2021-01-20.md",
+    "notes on old books.md",
+    "english as she is spoke.md",
+    "create your own content.md",
+    "DjVu.md"
   ]
 }
