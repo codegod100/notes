@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vera.md",
+            "file": "dialectical tension.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "vera.md",
+            "file": "dialectical tension.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#email",
+                "query": "tag:#file-upload",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "dialectical tension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "vera.md",
-    "rational disscusion and decision making.md",
-    "boris mann.md",
-    "flancian.md",
+    "dialectical tension.md",
+    "struggle of nature and society.md",
+    "notes on the opression of women.md",
+    "2021-01-16.md",
+    "passive learning.md",
+    "agora-server.md",
+    "node categories.md",
+    "agora ext feature ideas.md",
     "agora containers.md",
-    "agora issues.md",
-    "agora ctzn.md",
-    "agora actions.md",
-    "agora.md",
-    "flancia collective.md"
+    "2021-01-02.md"
   ]
 }
