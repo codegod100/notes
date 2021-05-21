@@ -1,4 +1,4 @@
-- #go https://misskey.io/
+- #go-link https://misskey.io/
 
 - #github https://github.com/syuilo/misskey
 

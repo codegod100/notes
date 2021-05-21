@@ -1,2 +1,2 @@
-- #go https://hubs.mozilla.com/
+- #go-link https://hubs.mozilla.com/
 - [[virtual space]]

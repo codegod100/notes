@@ -1,2 +1,2 @@
-#go https://en.wikipedia.org/wiki/Jineology
+#go-link https://en.wikipedia.org/wiki/Jineology
 

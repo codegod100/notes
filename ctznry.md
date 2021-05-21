@@ -1,2 +1,2 @@
-- #go https://ctznry.com
+- #go-link https://ctznry.com
 - new social network by [[Paul Frazee]]

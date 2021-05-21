@@ -1,2 +1,2 @@
-- #go https://circles.garden
+- #go-link https://circles.garden
 - [[ubi]] experiment

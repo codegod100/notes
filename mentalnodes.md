@@ -1,4 +1,4 @@
-#go https://www.mentalnodes.com
+#go-link https://www.mentalnodes.com
 
 * Finding some good quotes
 * "The only way to learn in public is to build in public"

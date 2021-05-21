@@ -1,1 +1,1 @@
-#go https://maggieappleton.com/garden-history
+#go-link https://maggieappleton.com/garden-history

@@ -1,2 +1,2 @@
-- #go https://www.proofofhumanity.id
+- #go-link https://www.proofofhumanity.id
 - [[ubi]]

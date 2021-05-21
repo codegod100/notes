@@ -1,3 +1,3 @@
-#go https://betterexplained.com/
+#go-link https://betterexplained.com/
 
 site that helps you learn [[mathematics]]

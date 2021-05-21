@@ -1,1 +1,1 @@
-#go https://crossposter.masto.donte.com.br/
+#go-link https://crossposter.masto.donte.com.br/

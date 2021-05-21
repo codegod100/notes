@@ -1,1 +1,1 @@
-- #go https://ethicalsource.dev/
+- #go-link https://ethicalsource.dev/

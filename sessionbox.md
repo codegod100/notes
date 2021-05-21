@@ -1,4 +1,4 @@
-#go https://sessionbox.io/
+#go-link https://sessionbox.io/
 
 chrome and [[firefox]] versions
 multiple login to single site

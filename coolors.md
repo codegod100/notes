@@ -1,1 +1,1 @@
-#go https://coolors.co/
+#go-link https://coolors.co/

@@ -1,3 +1,3 @@
 lightweight client for [[mastodon]]
 
-#go https://pinafore.social
+#go-link https://pinafore.social

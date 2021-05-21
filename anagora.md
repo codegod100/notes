@@ -1,1 +1,1 @@
-#go anagora.org
+#go-link anagora.org

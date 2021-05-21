@@ -1,4 +1,4 @@
-#go https://quantum.country
+#go-link https://quantum.country
 
 [[project]] [[Andy Matuschak]]
 

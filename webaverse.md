@@ -1,3 +1,3 @@
-- #go https://webaverse.com/
+- #go-link https://webaverse.com/
 - [[metaverse]]
 - [[nft minter]]

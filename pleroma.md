@@ -1,2 +1,2 @@
-#go https://pleroma.social/
+#go-link https://pleroma.social/
 [[fedi server]]

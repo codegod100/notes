@@ -1,2 +1,2 @@
-- #go https://getaether.net/
+- #go-link https://getaether.net/
 - [[benhylau]]

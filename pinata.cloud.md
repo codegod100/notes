@@ -1,4 +1,4 @@
-- #go https://pinata.cloud
+- #go-link https://pinata.cloud
 - [[ipfs gateway]]
 - [[ipfs]]
 - [[nft minter]]

@@ -1,1 +1,1 @@
-#go https://radicle.xyz/
+#go-link https://radicle.xyz/

@@ -1,4 +1,4 @@
-#go https://gup.pe/
+#go-link https://gup.pe/
 
 groups in [[the federation]]
 

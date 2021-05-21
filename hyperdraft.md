@@ -1,4 +1,4 @@
-#go https://hyperdraft.rosano.ca/guide/
+#go-link https://hyperdraft.rosano.ca/guide/
 
 https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be
 

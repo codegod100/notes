@@ -1,3 +1,3 @@
-#go https://lainsafe.delegao.moe/?
+#go-link https://lainsafe.delegao.moe/?
 
 #file-upload
