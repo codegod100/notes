@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "matrix spaces.md",
+            "file": "agora proposals.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "matrix spaces.md",
+            "file": "agora proposals.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matrix spaces.md",
+                "file": "agora proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,8 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "agora proposals.md",
+    "agora proposal.md",
     "matrix spaces.md",
     "2021-05-17.md",
     "flancian.md",
@@ -140,8 +142,6 @@
     "vera.md",
     "tags.md",
     "panlex.md",
-    "logical tea party.md",
-    "gemini.md",
-    "ethical source.md"
+    "logical tea party.md"
   ]
 }
