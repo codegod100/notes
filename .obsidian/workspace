@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora issues.md",
+            "file": "vera.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora issues.md",
+            "file": "vera.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -29,7 +29,7 @@
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
-              "showTags": false,
+              "showTags": true,
               "showAttachments": false,
               "hideUnresolved": false,
               "collapse-color-groups": true,
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#issues",
+                "query": "tag:#email",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora issues.md",
+                "file": "vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "54c1a4c4c68c1dcd",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "agora issues.md",
+    "vera.md",
+    "rational disscusion and decision making.md",
+    "boris mann.md",
+    "flancian.md",
     "agora containers.md",
+    "agora issues.md",
     "agora ctzn.md",
     "agora actions.md",
     "agora.md",
-    "flancia collective.md",
-    "flancia coop.md",
-    "flancia.md",
-    "masto.md",
-    "hypha.md"
+    "flancia collective.md"
   ]
 }
