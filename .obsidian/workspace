@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "benhylau.md",
+            "file": "matrix spaces.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "benhylau.md",
+            "file": "matrix spaces.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#go",
+                "query": "tag:#protopian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "benhylau.md",
+                "file": "matrix spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "54c1a4c4c68c1dcd",
+  "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "benhylau.md",
-    "aether.md",
-    "decentralized social media.md",
-    "agora ctzn.md",
-    "ctzn bot.md",
-    "agora server.md",
-    "agora issues.md",
-    "agora containers.md",
-    "agora ctzn integration.md",
-    "agora ctzn docs.md"
+    "matrix spaces.md",
+    "2021-05-17.md",
+    "flancian.md",
+    "protopian.md",
+    "vera.md",
+    "tags.md",
+    "panlex.md",
+    "logical tea party.md",
+    "gemini.md",
+    "ethical source.md"
   ]
 }
