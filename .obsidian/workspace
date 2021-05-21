@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pia call 2021-05-20.md",
+            "file": "aether.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pia call 2021-05-20.md",
+            "file": "aether.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#protopian",
+                "query": "tag:#go-link",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pia call 2021-05-20.md",
+                "file": "aether.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "aether.md",
     "pia call 2021-05-20.md",
     "agora proposals.md",
     "agora proposal.md",
@@ -141,7 +142,6 @@
     "flancian.md",
     "protopian.md",
     "vera.md",
-    "tags.md",
-    "panlex.md"
+    "tags.md"
   ]
 }
