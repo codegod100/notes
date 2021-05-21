@@ -1,2 +1,3 @@
 - #go-link https://getaether.net/
 - [[benhylau]]
+- #github https://github.com/aethereans/aether-app

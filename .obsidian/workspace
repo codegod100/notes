@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "gemini protocol.md",
+            "file": "aether.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "gemini protocol.md",
+            "file": "aether.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gemini protocol.md",
+                "file": "aether.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0efd2f6028c63851",
+  "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "aether.md",
     "gemini protocol.md",
     "smol web.md",
     "gemini.md",
@@ -141,7 +142,6 @@
     "2021-01-20.md",
     "notes on old books.md",
     "english as she is spoke.md",
-    "create your own content.md",
-    "DjVu.md"
+    "create your own content.md"
   ]
 }
