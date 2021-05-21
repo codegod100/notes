@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora server.md",
+            "file": "agora ctzn.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora server.md",
+            "file": "agora ctzn.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.3757171161138819,
+              "scale": 1.035354624872664,
               "close": false
             }
           }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#issues",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora server.md",
+                "file": "agora ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "007748de5fda4979",
+  "active": "54c1a4c4c68c1dcd",
   "lastOpenFiles": [
+    "agora ctzn.md",
+    "ctzn bot.md",
     "agora server.md",
     "agora issues.md",
     "agora containers.md",
     "agora ctzn integration.md",
     "agora ctzn docs.md",
-    "agora ctzn.md",
     "agora.md",
     "docs.md",
-    "dialectical tension.md",
-    "struggle of nature and society.md"
+    "dialectical tension.md"
   ]
 }
