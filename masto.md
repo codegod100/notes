@@ -1,1 +1,1 @@
-- [[mastodon]]
+- #same-as [[mastodon]]

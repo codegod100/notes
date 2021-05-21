@@ -1,2 +1,2 @@
 - the [[open collective]] behind the [[agora]]
-- [[flancia coop]]
+- #same-as  [[flancia coop]]
