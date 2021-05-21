@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dialectical tension.md",
+            "file": "agora server.md",
             "mode": "source"
           }
         },
@@ -21,17 +21,17 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "dialectical tension.md",
+            "file": "agora server.md",
             "options": {
               "collapse-filter": true,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": false,
+              "localInterlinks": true,
               "showTags": true,
               "showAttachments": false,
-              "hideUnresolved": false,
+              "hideUnresolved": true,
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.738493049034328,
+              "scale": 0.3757171161138819,
               "close": false
             }
           }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#file-upload",
+                "query": "tag:#issues",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dialectical tension.md",
+                "file": "agora server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "dialectical tension.md",
-    "struggle of nature and society.md",
-    "notes on the opression of women.md",
-    "2021-01-16.md",
-    "passive learning.md",
-    "agora-server.md",
-    "node categories.md",
-    "agora ext feature ideas.md",
+    "agora server.md",
+    "agora issues.md",
     "agora containers.md",
-    "2021-01-02.md"
+    "agora ctzn integration.md",
+    "agora ctzn docs.md",
+    "agora ctzn.md",
+    "agora.md",
+    "docs.md",
+    "dialectical tension.md",
+    "struggle of nature and society.md"
   ]
 }

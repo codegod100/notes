@@ -1,10 +1,10 @@
 - Need to keep track of users we follow because currently the bridge only downloads the pages of people whom the user follows that is logged into the bridge
-- [[docs]] at [[agora ctzn docs]]
+- #documentation  [[agora ctzn docs]]
 
 - #todo
 	-  [ ] have [[rich text editor]] show preview mode on save
 		- [ ] date issue because pages don't support the first character being a number
-			- [ ] use [[agora prefix]] in meantime for now `[[agora]]-prefix`
+			- [ ] use [[agora prefix]] in meantime for now `agora-prefix`
 			- [ ] alternatively use a well defined prefix like `iso8601-`
 	- Done
 		- [x] add https functionality
