@@ -1,6 +1,6 @@
 - in the [[agora]] we actions that trigger certain internal actions
 - list of common actions
-	- #go
+	- #go-link
 	- #pulll
 	- #push
 - I'm tempted to create a different action format because:
