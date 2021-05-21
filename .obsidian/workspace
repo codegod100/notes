@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "benhylau.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora ctzn.md",
+            "file": "benhylau.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.035354624872664,
+              "scale": 1.0353546248726644,
               "close": false
             }
           }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "benhylau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "54c1a4c4c68c1dcd",
   "lastOpenFiles": [
+    "benhylau.md",
+    "aether.md",
+    "decentralized social media.md",
     "agora ctzn.md",
     "ctzn bot.md",
     "agora server.md",
     "agora issues.md",
     "agora containers.md",
     "agora ctzn integration.md",
-    "agora ctzn docs.md",
-    "agora.md",
-    "docs.md",
-    "dialectical tension.md"
+    "agora ctzn docs.md"
   ]
 }
