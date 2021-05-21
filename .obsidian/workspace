@@ -4,31 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "007748de5fda4979",
+        "id": "522070344ef24095",
         "type": "leaf",
+        "dimension": 27.6984126984127,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "federated social media networks.md",
+            "file": "ctzn.md",
             "mode": "source"
           }
-        },
-        "group": "d76d6af056475706"
+        }
       },
       {
-        "id": "54c1a4c4c68c1dcd",
+        "id": "c5590abef98c4671",
         "type": "leaf",
+        "dimension": 72.3015873015873,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "federated social media networks.md",
+            "file": "ctzn.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": true,
+              "localInterlinks": false,
               "showTags": true,
               "showAttachments": false,
               "hideUnresolved": true,
@@ -44,12 +45,11 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.0353546248726644,
+              "scale": 0.7132754626224436,
               "close": false
             }
           }
-        },
-        "group": "d76d6af056475706"
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#see-also",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "federated social media networks.md",
+                "file": "ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "007748de5fda4979",
+  "active": "c5590abef98c4671",
   "lastOpenFiles": [
+    "ctzn.md",
+    "Paul Frazee.md",
     "federated social media networks.md",
+    "immer protocol.md",
+    "ctznry.md",
     "2021-05-21.md",
     "polis.md",
     "patcon 2021-05-21.md",
     "cryptocurrency.md",
-    "blockchain.md",
-    "crypto currency.md",
-    "circles.md",
-    "born-rule.md",
-    "2021-01-04.md"
+    "blockchain.md"
   ]
 }
