@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora proposal 1.md",
+            "file": "qualitative palette.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora proposal 1.md",
+            "file": "qualitative palette.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora proposal 1.md",
+                "file": "qualitative palette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
+    "qualitative palette.md",
     "agora proposal 1.md",
     "agora governance system.md",
     "agora governance.md",
@@ -141,7 +142,6 @@
     "ted talk.md",
     "pia call 2021-05-20.md",
     "2021-05-20.md",
-    "red army killed black army.md",
-    "rational disscusion and decision making.md"
+    "red army killed black army.md"
   ]
 }
