@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Anti-Capitalist Software License.md",
-            "mode": "preview"
+            "file": "acsl.md",
+            "mode": "source"
           }
         },
         "group": "65bd5feabf96ab20"
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "The Anti-Capitalist Software License.md",
+            "file": "acsl.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Anti-Capitalist Software License.md",
+                "file": "acsl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "acsl.md",
     "The Anti-Capitalist Software License.md",
     "patcon.md",
     "patcon 2021-05-21.md",
@@ -141,7 +142,6 @@
     "2021-02-11.md",
     "mastodon.md",
     "vera.md",
-    "flancian.md",
-    "twitter.md"
+    "flancian.md"
   ]
 }
