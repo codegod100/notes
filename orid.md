@@ -1,0 +1,2 @@
+- ORID Is a specific facilitation framework that enables a focused conversation with a group of people in order to reach some point of agreement or clarify differences.
+- #go-link https://www.betterevaluation.org/en/evaluation-options/orid

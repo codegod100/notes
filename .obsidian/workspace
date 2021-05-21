@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pia ted talk.md",
+            "file": "polis.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pia ted talk.md",
+            "file": "polis.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pia ted talk.md",
+                "file": "polis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "007748de5fda4979",
   "lastOpenFiles": [
-    "pia ted talk.md",
+    "polis.md",
+    "patcon 2021-05-21.md",
+    "orid.md",
     "2021-05-21.md",
+    "pia ted talk.md",
     "agora actions.md",
     "pia call 2021-05-20.md",
-    "patcon 2021-05-21.md",
     "gather town.md",
     "flancia office.md",
-    "aether.md",
-    "agora proposals.md",
-    "agora proposal.md"
+    "aether.md"
   ]
 }
