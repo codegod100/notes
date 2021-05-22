@@ -1,4 +1,5 @@
 Inbox
+- [ ] make graph view look more like obsidian
 - [ ] add hypothesis integration into [[agora-server]] on a deeper level
 - [ ] [[hyperbee]] to store agora data, 
 	- we could possibly run into scaling issues running flat files, 
