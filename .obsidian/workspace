@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pay to win.md",
+            "file": "agora obsidian plugin.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pay to win.md",
+            "file": "agora obsidian plugin.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#see",
+                "query": "tag:#plugin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pay to win.md",
+                "file": "agora obsidian plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "agora obsidian plugin.md",
     "pay to win.md",
     "privilege.md",
     "todo.md",
@@ -141,7 +142,6 @@
     "acsl.md",
     "The Anti-Capitalist Software License.md",
     "patcon.md",
-    "patcon 2021-05-21.md",
-    "2021-05-21.md"
+    "patcon 2021-05-21.md"
   ]
 }
