@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora obsidian plugin.md",
+            "file": "2021-05-23.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "agora obsidian plugin.md",
+            "file": "2021-05-23.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora obsidian plugin.md",
+                "file": "2021-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "2021-05-23.md",
+    "vr spaces.md",
     "agora obsidian plugin.md",
+    "todo.md",
     "pay to win.md",
     "privilege.md",
-    "todo.md",
     "2021-05-22.md",
     "vaccine.md",
     "acsl.md",
-    "The Anti-Capitalist Software License.md",
-    "patcon.md",
-    "patcon 2021-05-21.md"
+    "The Anti-Capitalist Software License.md"
   ]
 }
