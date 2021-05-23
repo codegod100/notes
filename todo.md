@@ -1,4 +1,5 @@
 Inbox
+- [ ] create JS settings modules
 - [ ] investigate [[kava]]
 - [ ] move to proper [[ast]] instead of hacking around [[markdown]]
 - [ ] [[agora obsidian plugin]]
