@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-23.md",
+            "file": "todo.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-23.md",
+            "file": "todo.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,10 +133,10 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "todo.md",
     "2021-05-23.md",
     "vr spaces.md",
     "agora obsidian plugin.md",
-    "todo.md",
     "pay to win.md",
     "privilege.md",
     "2021-05-22.md",
