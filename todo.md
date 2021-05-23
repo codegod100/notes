@@ -1,4 +1,5 @@
 Inbox
+- [ ] investigate [[kava]]
 - [ ] move to proper [[ast]] instead of hacking around [[markdown]]
 - [ ] [[agora obsidian plugin]]
 - [ ] [[hyperbee]] to store agora data, 

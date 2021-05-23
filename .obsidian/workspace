@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "2021-05-23.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "todo.md",
+            "file": "2021-05-23.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#see-also",
+                "query": "tag:#blockchain",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "2021-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
-    "todo.md",
     "2021-05-23.md",
+    "todo.md",
+    "kava.md",
     "vr spaces.md",
     "agora obsidian plugin.md",
     "pay to win.md",
     "privilege.md",
     "2021-05-22.md",
     "vaccine.md",
-    "acsl.md",
-    "The Anti-Capitalist Software License.md"
+    "acsl.md"
   ]
 }
