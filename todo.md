@@ -1,5 +1,7 @@
 Inbox
 - [ ] create JS settings modules
+- [ ] create branch for proof of concept for using [[fission]] for user login
+- [ ] check out obsidian plugin api
 - [ ] investigate [[kava]]
 - [ ] move to proper [[ast]] instead of hacking around [[markdown]]
 - [ ] [[agora obsidian plugin]]

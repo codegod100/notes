@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "mail tracker.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "todo.md",
+            "file": "mail tracker.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "mail tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "mail tracker.md",
     "todo.md",
     "2021-05-23.md",
     "overlinking.md",
@@ -141,7 +142,6 @@
     "agora obsidian plugin.md",
     "pay to win.md",
     "privilege.md",
-    "2021-05-22.md",
-    "vaccine.md"
+    "2021-05-22.md"
   ]
 }
