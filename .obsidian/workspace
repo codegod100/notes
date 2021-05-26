@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-25.md",
+            "file": "agora containers.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-25.md",
+            "file": "agora containers.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 194
   },
   "right": {
     "id": "d0b481c5b720cbfd",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-25.md",
+                "file": "agora containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "agora containers.md",
     "2021-05-25.md",
     "mail tracker.md",
     "todo.md",
@@ -141,7 +142,6 @@
     "kava.md",
     "vr spaces.md",
     "agora obsidian plugin.md",
-    "pay to win.md",
-    "privilege.md"
+    "pay to win.md"
   ]
 }
