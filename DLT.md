@@ -1,0 +1,2 @@
+- Distributed Ledger Technology
+- #same-as [[blockchain]]
