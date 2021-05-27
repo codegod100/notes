@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "go-link.md",
+            "file": "0data.app.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "go-link.md",
+            "file": "0data.app.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#blockchain",
+                "query": "http",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go-link.md",
+                "file": "0data.app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0efd2f6028c63851",
+  "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "0data.app.md",
     "go-link.md",
     "go-links.md",
     "w3id.md",
@@ -141,7 +142,6 @@
     "2021-05-26.md",
     "agora containers.md",
     "2021-05-25.md",
-    "mail tracker.md",
-    "todo.md"
+    "mail tracker.md"
   ]
 }
