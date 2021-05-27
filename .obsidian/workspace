@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-27.md",
+            "file": "go-link.md",
             "mode": "source"
           }
         },
@@ -21,11 +21,11 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2021-05-27.md",
+            "file": "go-link.md",
             "options": {
               "collapse-filter": true,
               "search": "",
-              "localJumps": 1,
+              "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-27.md",
+                "file": "go-link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a3a5cec676d1511",
+  "active": "0efd2f6028c63851",
   "lastOpenFiles": [
+    "go-link.md",
+    "go-links.md",
+    "w3id.md",
     "2021-05-27.md",
     "DLT.md",
     "2021-05-26.md",
     "agora containers.md",
     "2021-05-25.md",
     "mail tracker.md",
-    "todo.md",
-    "2021-05-23.md",
-    "overlinking.md",
-    "kava.md"
+    "todo.md"
   ]
 }
