@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "promnesia git config.md",
+            "file": "broot.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "promnesia git config.md",
+            "file": "broot.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "promnesia git config.md",
+                "file": "broot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "broot.md",
     "promnesia git config.md",
     "0data.app.md",
     "go-link.md",
@@ -141,7 +142,6 @@
     "2021-05-27.md",
     "DLT.md",
     "2021-05-26.md",
-    "agora containers.md",
-    "2021-05-25.md"
+    "agora containers.md"
   ]
 }
