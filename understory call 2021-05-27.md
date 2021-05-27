@@ -1,11 +1,11 @@
-- exit to community
+- [[exit to community]]
 - sell to community
 	- co own technology
 	- platform coop
 	- pod host?
-	- solid
+	- [[solid]]
 		- darcy
 
-- jam stack
+- [[jam stack]]
 
 - ian.understory.com
