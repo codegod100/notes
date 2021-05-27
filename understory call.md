@@ -3,4 +3,9 @@
 	- co own technology
 	- platform coop
 	- pod host?
-	- 
+	- solid
+		- darcy
+
+- jam stack
+
+- 
