@@ -1,0 +1,5 @@
+- exit to community
+- sell to community
+	- co own technology
+	- platform coop
+	- 
