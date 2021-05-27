@@ -2,4 +2,5 @@
 - sell to community
 	- co own technology
 	- platform coop
+	- pod host?
 	- 
