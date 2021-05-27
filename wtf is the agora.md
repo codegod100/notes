@@ -1,0 +1,2 @@
+- Creating this note to brainstorm what we actually want out of the agora
+- 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "understory call 2021-05-27.md",
+            "file": "wtf is the agora.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "understory call 2021-05-27.md",
+            "file": "wtf is the agora.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understory call 2021-05-27.md",
+                "file": "wtf is the agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "wtf is the agora.md",
     "understory call.md",
     "broot.md",
     "promnesia git config.md",
@@ -141,7 +142,6 @@
     "go-links.md",
     "w3id.md",
     "2021-05-27.md",
-    "DLT.md",
-    "2021-05-26.md"
+    "DLT.md"
   ]
 }
