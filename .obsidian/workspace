@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git interlay howto.md",
+            "file": "2021-W22.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git interlay howto.md",
+                "file": "2021-W22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,13 +131,13 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "2021-W22.md",
     "git interlay howto.md",
     "agora.md",
     "wtf is the agora.md",
     "understory.md",
     "twitter.md",
     "daily note.md",
-    "2021-W22.md",
     "data commons.md",
     "flancian.md",
     "github.md"
