@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora.md",
+            "file": "Terrance McKenna.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "9acdea1104487899",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -78,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +128,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a3a5cec676d1511",
+  "active": "9acdea1104487899",
   "lastOpenFiles": [
     "agora.md",
     "flancian.md",
