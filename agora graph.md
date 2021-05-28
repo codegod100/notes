@@ -1,0 +1,3 @@
+- The agora graph is an [[interlay]] between the [[underlay]] and the [[overlay]]
+	- [[agora server]] is an overlay
+	- [[mastodon]] [[twitter]] etc are underlays

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git interlay howto.md",
+            "file": "agora graph.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git interlay howto.md",
+                "file": "agora graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "agora graph.md",
     "git interlay howto.md",
     "2021-W22.md",
     "yoga the future.md",
@@ -139,7 +140,6 @@
     "understory.md",
     "twitter.md",
     "daily note.md",
-    "data commons.md",
-    "flancian.md"
+    "data commons.md"
   ]
 }
