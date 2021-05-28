@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data commons.md",
+            "file": "solid.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "data commons.md",
+            "file": "solid.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data commons.md",
+                "file": "solid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "solid.md",
     "data commons.md",
     "wtf is the agora.md",
     "gardener coalition.md",
@@ -144,7 +145,6 @@
     "FANG.md",
     "refactoring notes.md",
     "2021-05-27.md",
-    "2021-05-04.md",
-    "2021-05-03.md"
+    "2021-05-04.md"
   ]
 }
