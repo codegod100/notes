@@ -6,52 +6,13 @@
       {
         "id": "4a3a5cec676d1511",
         "type": "leaf",
-        "dimension": 50.15259409969482,
         "state": {
           "type": "markdown",
           "state": {
             "file": "user controlled data store.md",
             "mode": "source"
           }
-        },
-        "group": "65bd5feabf96ab20"
-      },
-      {
-        "id": "0efd2f6028c63851",
-        "type": "leaf",
-        "dimension": 49.84740590030518,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "user controlled data store.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 2,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "65bd5feabf96ab20"
+        }
       }
     ],
     "direction": "vertical"
@@ -127,8 +88,33 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "73fde7e99aba0d78",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbbf66b2715d66b3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "0161932f5005c9ea",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
