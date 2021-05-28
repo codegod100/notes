@@ -9,19 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "flancian.md",
+            "file": "agora.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "6aa72d87d4ac9ef6",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
         }
       }
     ],
@@ -88,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,24 +113,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6aa72d87d4ac9ef6",
+  "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "agora.md",
     "flancian.md",
+    "github.md",
+    "fatal ambiguity.md",
+    "scratch.md",
+    "2021-W22.md",
     "user controlled data store.md",
     "solid.md",
     "data commons.md",
-    "wtf is the agora.md",
-    "darcy.md",
-    "gardener coalition.md",
-    "data commons coalition.md",
-    "understory.md",
-    "FANG.md"
+    "wtf is the agora.md"
   ]
 }
