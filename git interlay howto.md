@@ -1,4 +1,4 @@
-- These are instructions on how to add your [[digital-garden]] to the [[agora]]
+- These are instructions on how to add your [[digital-garden]] to the highly experimental interlay version of the [[agora]]
 	- If you have any questions feel free to contact me
 		- #email veronika.m.winters@gmail.com
 		- #twitter @flanciavera
