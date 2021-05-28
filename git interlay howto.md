@@ -1,4 +1,8 @@
-These are instructions on how to add your [[digital-garden]] to the agora
+- These are instructions on how to add your [[digital-garden]] to the agora
+	- If you have any questions feel free to contact me
+		- #email veronika.m.winters@gmail.com
+		- #twitter @flanciavera
+		- #matrix vera@fairydust.space
 
 - Fork our repo on github https://github.com/flancia-coop/agora
 - clone your repo
@@ -11,4 +15,6 @@ These are instructions on how to add your [[digital-garden]] to the agora
 	- `git add .`
 - create commit
 	- `git commit -m "submodule"`
-- 
+- push changes back to your fork
+	- `git push origin master`
+- create pull request 
