@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "user controlled data store.md",
+            "file": "flancian.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "6aa72d87d4ac9ef6",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -78,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user controlled data store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +129,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a3a5cec676d1511",
+  "active": "6aa72d87d4ac9ef6",
   "lastOpenFiles": [
+    "flancian.md",
     "user controlled data store.md",
     "solid.md",
     "data commons.md",
@@ -130,7 +140,6 @@
     "gardener coalition.md",
     "data commons coalition.md",
     "understory.md",
-    "FANG.md",
-    "refactoring notes.md"
+    "FANG.md"
   ]
 }
