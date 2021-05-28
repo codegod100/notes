@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wtf is the agora.md",
+            "file": "gardener coalition.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "wtf is the agora.md",
+            "file": "gardener coalition.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 194
+    "width": 194,
+    "collapsed": true
   },
   "right": {
     "id": "d0b481c5b720cbfd",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wtf is the agora.md",
+                "file": "gardener coalition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +136,15 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "gardener coalition.md",
     "wtf is the agora.md",
+    "understory.md",
     "data commons.md",
     "FANG.md",
     "refactoring notes.md",
     "2021-05-27.md",
     "2021-05-04.md",
     "2021-05-03.md",
-    "gardener coalition.md",
-    "understory.md",
     "understory call.md"
   ]
 }
