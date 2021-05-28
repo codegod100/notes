@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "solid.md",
+            "file": "user controlled data store.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "solid.md",
+            "file": "user controlled data store.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solid.md",
+                "file": "user controlled data store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "user controlled data store.md",
     "solid.md",
     "data commons.md",
     "wtf is the agora.md",
+    "darcy.md",
     "gardener coalition.md",
     "data commons coalition.md",
     "understory.md",
     "FANG.md",
-    "refactoring notes.md",
-    "2021-05-27.md",
-    "2021-05-04.md"
+    "refactoring notes.md"
   ]
 }
