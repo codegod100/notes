@@ -12,6 +12,8 @@
 		- [[did]]
 		- [[solid]] [[webid]]
 		- 
-
+- [[data commons]]
+	- I feel like the agora is an app on the data commons
+	- [[understory]] describes themselves as such
 
 - [[gardener coalition]]

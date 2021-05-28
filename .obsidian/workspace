@@ -6,6 +6,7 @@
       {
         "id": "4a3a5cec676d1511",
         "type": "leaf",
+        "dimension": 50.15259409969482,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "0efd2f6028c63851",
         "type": "leaf",
+        "dimension": 49.84740590030518,
         "state": {
           "type": "localgraph",
           "state": {
@@ -134,14 +136,14 @@
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
     "wtf is the agora.md",
+    "data commons.md",
+    "FANG.md",
+    "refactoring notes.md",
     "2021-05-27.md",
     "2021-05-04.md",
     "2021-05-03.md",
     "gardener coalition.md",
     "understory.md",
-    "understory call.md",
-    "broot.md",
-    "promnesia git config.md",
-    "0data.app.md"
+    "understory call.md"
   ]
 }
