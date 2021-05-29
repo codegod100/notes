@@ -1,4 +1,2 @@
-[[flancian]]
-[[flancian]]
-[[data commons]]
-[[2021-W22#^v2dnnog]]
+
+![[2021-W22#^x8kfg4o]]
