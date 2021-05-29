@@ -8,3 +8,6 @@
 #developer
 #protopian
 #anarchist
+
+![[2021-W22#^t7tc1z2]]
+![[2021-W22#^ysqvfo1]]
