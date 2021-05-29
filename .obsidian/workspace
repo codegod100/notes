@@ -15,13 +15,14 @@
         }
       },
       {
-        "id": "9acdea1104487899",
+        "id": "d932f92bf9f2eaf4",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "2020-12-30.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,13 +67,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 194,
-    "collapsed": true
+    "width": 194
   },
   "right": {
     "id": "d0b481c5b720cbfd",
@@ -132,6 +131,7 @@
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
     "oculus rift usb c.md",
+    "2020-12-30.md",
     "agora graph.md",
     "git interlay howto.md",
     "2021-W22.md",
@@ -139,7 +139,6 @@
     "agora.md",
     "wtf is the agora.md",
     "understory.md",
-    "twitter.md",
-    "daily note.md"
+    "twitter.md"
   ]
 }
