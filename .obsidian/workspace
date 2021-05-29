@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workbench.md",
-            "mode": "source"
+            "file": "2021-W22.md",
+            "mode": "preview"
           }
         }
       },
@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-W22.md",
-            "mode": "source"
+            "file": "flancian.md",
+            "mode": "preview"
           }
         }
       },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "2021-W22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,12 +139,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "74055c5a1a4d185f",
+  "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
-    "vera.md",
     "2021-W22.md",
     "flancian.md",
     "Workbench.md",
+    "vera.md",
     "data commons.md",
     "2021-05-29.md",
     "2021-01-11.md",
