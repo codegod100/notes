@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "command line shortcuts.md",
+            "file": "shae redirect.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "command line shortcuts.md",
+                "file": "shae redirect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "shae redirect.md",
     "command line shortcuts.md",
     "oculus rift usb c.md",
     "2020-12-30.md",
@@ -138,7 +139,6 @@
     "2021-W22.md",
     "yoga the future.md",
     "agora.md",
-    "wtf is the agora.md",
-    "understory.md"
+    "wtf is the agora.md"
   ]
 }
