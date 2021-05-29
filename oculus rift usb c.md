@@ -1,0 +1,4 @@
+- [[oculus rift s]] needs a [[display port]] to function properly, you can get the headset to work if your usb c port supports [[thunderbolt]]
+- [[thunderbolt firmware update]]
+- [[Thunder Bolt Control Center]]
+- 

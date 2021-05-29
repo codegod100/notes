@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora graph.md",
+            "file": "oculus rift usb c.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora graph.md",
+                "file": "oculus rift usb c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "oculus rift usb c.md",
     "agora graph.md",
     "git interlay howto.md",
     "2021-W22.md",
@@ -139,7 +140,6 @@
     "wtf is the agora.md",
     "understory.md",
     "twitter.md",
-    "daily note.md",
-    "data commons.md"
+    "daily note.md"
   ]
 }
