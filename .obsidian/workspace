@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-W22.md",
-            "mode": "preview"
+            "file": "agora interlay.md",
+            "mode": "source"
           }
         }
       },
@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "obsidian testing.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian testing.md",
+                "file": "agora interlay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "74055c5a1a4d185f",
+  "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
-    "obsidian testing.md",
+    "agora interlay.md",
+    "git interlay howto.md",
     "2021-W22.md",
+    "obsidian testing.md",
     "vera.md",
     "flancian.md",
     "Workbench.md",
     "data commons.md",
     "2021-05-29.md",
-    "2021-01-11.md",
-    "shae redirect.md",
-    "command line shortcuts.md"
+    "2021-01-11.md"
   ]
 }
