@@ -5,14 +5,3 @@
 #protopian 
 #anarchist
 
-# this is a heading
-- yolo ^yolo
-	- test
-
-Test
-
-other shit
-
-# yolo
-
-ok
