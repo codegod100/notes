@@ -12,7 +12,7 @@
 		- 100 USD setup
 		- 300 USD annual
 		- It says "contact us" for funding orgs
-	- will flancia have buy in
+	- [ ] will flancia have buy in
 
 - anchors
 	- local branch and brand ownership
@@ -24,4 +24,18 @@
 	- dazzle doulas
 	- founding members/general members
 	- institutional members
-	- 
+
+- [ ] lookup zebras unite capital
+
+
+
+
+- buy in gets you a vote
+- buyin
+- https://drive.google.com/file/d/12q3W1FV0Nr0liD4A4Fw34L2ixnULmhDv/view
+
+- circle structure
+
+
+- democracy doesn't mean you get your way, but it does mean you get your say
+
