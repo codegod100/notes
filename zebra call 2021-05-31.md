@@ -16,4 +16,12 @@
 
 - anchors
 	- local branch and brand ownership
+	- esme is stewarding
+	- https://zebrasunite.coop/chapters
+
+- org structure
+	- non profit
+	- dazzle doulas
+	- founding members/general members
+	- institutional members
 	- 
