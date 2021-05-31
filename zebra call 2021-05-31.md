@@ -6,4 +6,9 @@
 	- [ ] get link
 	- utopia/protopia
 - "dazzle"
+- lot of women, good signal
+- buy in/annual dues
+	- how much?
+	- will flancia have buy in
+
 - 
