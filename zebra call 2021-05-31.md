@@ -1,0 +1,5 @@
+- ica.coop
+- get slide deck
+- benefit in proportion to participation in coop
+- ica gets together every 35 years
+- 
