@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zebra call 2021-05-31.md",
+            "file": "scratch.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zebra call 2021-05-31.md",
+                "file": "scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
+    "scratch.md",
     "zebra call 2021-05-31.md",
     "2021-W23.md",
     "portland apparel lab.md",
@@ -139,7 +140,6 @@
     "tailscale.md",
     "vpn.md",
     "agora interlay.md",
-    "git interlay howto.md",
-    "2021-W22.md"
+    "git interlay howto.md"
   ]
 }
