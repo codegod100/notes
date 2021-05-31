@@ -9,6 +9,11 @@
 - lot of women, good signal
 - buy in/annual dues
 	- how much?
+		- 100 USD setup
+		- 300 USD annual
+		- It says "contact us" for funding orgs
 	- will flancia have buy in
 
-- 
+- anchors
+	- local branch and brand ownership
+	- 
