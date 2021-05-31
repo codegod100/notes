@@ -1,5 +1,9 @@
 - ica.coop
-- get slide deck
+- [ ] get slide deck
 - benefit in proportion to participation in coop
 - ica gets together every 35 years
+- zebras fix what unicorns break
+	- [ ] get link
+	- utopia/protopia
+- "dazzle"
 - 
