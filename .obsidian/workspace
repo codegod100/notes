@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-W23.md",
+            "file": "dns search domain.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#vpn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-W23.md",
+                "file": "dns search domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +131,15 @@
   },
   "active": "4a3a5cec676d1511",
   "lastOpenFiles": [
-    "2021-W23.md",
     "dns search domain.md",
+    "agora interlay graph.md",
+    "2021-W23.md",
+    "tailscale.md",
+    "vpn.md",
     "agora interlay.md",
     "git interlay howto.md",
     "2021-W22.md",
     "obsidian testing.md",
-    "vera.md",
-    "flancian.md",
-    "Workbench.md",
-    "data commons.md"
+    "vera.md"
   ]
 }
