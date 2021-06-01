@@ -1,6 +1,6 @@
 - im also tempted to rebrand wikilinks
 	- it's kinda a weird word
-	- it's not the selling point for people to join the agora I thought it was going to be
+	- it's not the selling point for people to join the [[agora]] I thought it was going to be
 - wikilinks are cool, I just feel like they need a cooler name
 - potential alternative names
 	- netlinks

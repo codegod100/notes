@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian testing.md",
+            "file": "reputation system.md",
             "mode": "source"
           }
         }
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian testing.md",
+                "file": "reputation system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +117,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian testing.md",
+                "file": "reputation system.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -135,7 +134,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,15 +143,15 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
-    "obsidian testing.md",
-    "scratch.md",
-    "zebra call 2021-05-31.md",
-    "2021-W23.md",
-    "portland apparel lab.md",
-    "dns search domain.md",
-    "agora interlay graph.md",
-    "tailscale.md",
-    "vpn.md",
-    "agora interlay.md"
+    "reputation system.md",
+    "rich text editor.md",
+    "agora ctzn.md",
+    "agora.md",
+    "rojava.md",
+    "reviewing old notes.md",
+    "primary focus of the day.md",
+    "portis wallet.md",
+    "github.md",
+    "fully vaccinated.md"
   ]
 }
