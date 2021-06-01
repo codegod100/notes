@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "industry terms.md",
-            "mode": "source"
+            "file": "scratch.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "industry terms.md",
+                "file": "scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "industry terms.md",
+                "file": "scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +143,7 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
+    "scratch.md",
     "industry terms.md",
     "reputation system.md",
     "rich text editor.md",
@@ -151,7 +152,6 @@
     "rojava.md",
     "reviewing old notes.md",
     "primary focus of the day.md",
-    "portis wallet.md",
-    "github.md"
+    "portis wallet.md"
   ]
 }
