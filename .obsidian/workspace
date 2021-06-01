@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reputation system.md",
+            "file": "industry terms.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reputation system.md",
+                "file": "industry terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reputation system.md",
+                "file": "industry terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +143,7 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
+    "industry terms.md",
     "reputation system.md",
     "rich text editor.md",
     "agora ctzn.md",
@@ -151,7 +152,6 @@
     "reviewing old notes.md",
     "primary focus of the day.md",
     "portis wallet.md",
-    "github.md",
-    "fully vaccinated.md"
+    "github.md"
   ]
 }
