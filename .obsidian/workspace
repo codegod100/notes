@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4a3a5cec676d1511",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "scratch.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "74055c5a1a4d185f",
         "type": "leaf",
         "state": {
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scratch.md",
+                "file": "obsidian testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +111,29 @@
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
             }
+          },
+          {
+            "id": "25bbcc59dcce3253",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd153d6a4d86d690",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -129,8 +141,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a3a5cec676d1511",
+  "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
+    "obsidian testing.md",
     "scratch.md",
     "zebra call 2021-05-31.md",
     "2021-W23.md",
@@ -139,7 +152,6 @@
     "agora interlay graph.md",
     "tailscale.md",
     "vpn.md",
-    "agora interlay.md",
-    "git interlay howto.md"
+    "agora interlay.md"
   ]
 }
