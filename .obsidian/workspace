@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "flancia goals.md",
+            "file": "implications of quantum mechanics on philosophy.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia goals.md",
+                "file": "implications of quantum mechanics on philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flancia goals.md",
+                "file": "implications of quantum mechanics on philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,6 +144,7 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
+    "implications of quantum mechanics on philosophy.md",
     "flancia goals.md",
     "prolertarian culture.md",
     "zebra call 2021-05-31.md",
@@ -152,7 +153,6 @@
     "reputation system.md",
     "rich text editor.md",
     "agora ctzn.md",
-    "agora.md",
-    "rojava.md"
+    "agora.md"
   ]
 }
