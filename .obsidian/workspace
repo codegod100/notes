@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zebra call 2021-05-31.md",
+            "file": "flancia goals.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vpn",
+                "query": "revolution",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zebra call 2021-05-31.md",
+                "file": "flancia goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zebra call 2021-05-31.md",
+                "file": "flancia goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +144,8 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
+    "flancia goals.md",
+    "prolertarian culture.md",
     "zebra call 2021-05-31.md",
     "scratch.md",
     "industry terms.md",
@@ -150,8 +153,6 @@
     "rich text editor.md",
     "agora ctzn.md",
     "agora.md",
-    "rojava.md",
-    "reviewing old notes.md",
-    "primary focus of the day.md"
+    "rojava.md"
   ]
 }
