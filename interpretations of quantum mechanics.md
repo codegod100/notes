@@ -1,0 +1,2 @@
+- [[copenhagen interpretation of quantum mechanics]]
+- [[many worlds interpretation of quantum mechanics]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "implications of quantum mechanics on philosophy.md",
+            "file": "2021-W23.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "implications of quantum mechanics on philosophy.md",
+                "file": "2021-W23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "implications of quantum mechanics on philosophy.md",
+                "file": "2021-W23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,15 +144,15 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
+    "2021-W23.md",
+    "2021-06-01.md",
     "implications of quantum mechanics on philosophy.md",
+    "interpretations of quantum mechanics.md",
+    "many worlds interpretation of quantum mechanics.md",
+    "copenhagen interpretation of quantum mechanics.md",
     "flancia goals.md",
     "prolertarian culture.md",
     "zebra call 2021-05-31.md",
-    "scratch.md",
-    "industry terms.md",
-    "reputation system.md",
-    "rich text editor.md",
-    "agora ctzn.md",
-    "agora.md"
+    "scratch.md"
   ]
 }
