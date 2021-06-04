@@ -5,4 +5,6 @@
 	- if one tree dies it hurts the whole forest
 - you have to plant your plants in someone elses garden
 	- walled garden
+- https://www.economist.com/business/2020/10/22/who-owns-the-webs-data
+- https://webmonetization.org/
 - 
