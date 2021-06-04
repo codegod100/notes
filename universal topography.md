@@ -6,6 +6,13 @@
 	- this represents a universe with a max entropy of 4 (4 bit slots)
 - universes move from one matrix stage to the next, each stage can exist in a set of superpositions, a superposition is represented by the total amount of possible combinations in that stage e.g.
 	- stage one 
+		- one bit is added to our matrix
+			- ![[Pasted image 20210604122001.png]]
+			- we see in this stage there are four possible superpositions
+			- we can traverse from stage zero to any superposition in stage one
+			- in many worlds there is a link because stage zero and all superpositions of stage one
+			- Counting the number of superpositions is intuitive all small values but can be computed for large values using combination formula
+				- todo insert combinati
 	
 	
 	
@@ -17,4 +24,5 @@
 	
 	
 	
-	$\begin{bmatrix}0 & 0\\0 & 0\end{bmatrix}$
+	$\begin{bmatrix}1 & 0\\0 & 0\end{bmatrix}$$\begin{bmatrix}0 & 1\\0 & 0\end{bmatrix}$
+	$\begin{bmatrix}0 & 0\\1 & 0\end{bmatrix}$$\begin{bmatrix}0 & 0\\0 & 1\end{bmatrix}$
