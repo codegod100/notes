@@ -10,9 +10,12 @@
 			- ![[Pasted image 20210604122001.png]]
 			- we see in this stage there are four possible superpositions
 			- we can traverse from stage zero to any superposition in stage one
-			- in many worlds there is a link because stage zero and all superpositions of stage one
-			- Counting the number of superpositions is intuitive all small values but can be computed for large values using combination formula
-				- todo insert combinati
+			- in the many worlds interpretation of quantum mechanics there is a link between stage zero and all superpositions of stage one
+			- Counting the number of superpositions is intuitive all small values but can be computed for large values using the combination formula
+				- ![[Pasted image 20210604122655.png]]
+				- n here is the total entropy of our system, r is the stage number
+				- for stage one 4C1 = 4!/()
+			- 
 	
 	
 	
