@@ -17,3 +17,14 @@
 - garden gates
 	- what is a gate but an invitation
 	- do they convert garden to git repo?
+	- https://github.com/understory-garden/single-page-gate
+	- 
+
+- next.js
+- platform coops
+	- user owners together
+- data coops
+	- not a lot in practice
+		- not a lot of demonstrated use case because data and applications bundled together
+	- separate platform and data
+	- 
