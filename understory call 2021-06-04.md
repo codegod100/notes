@@ -3,4 +3,6 @@
 - tree fungi distributes resources
 	- mycorrhizal network
 	- if one tree dies it hurts the whole forest
+- you have to plant your plants in someone elses garden
+	- walled garden
 - 
