@@ -29,3 +29,6 @@
 	- separate platform and data
 	- https://www.colab.coop/
 	- http://www.workpractice.com/trigg/thesis-chap4.html
+	- https://ceramic.network/
+	- https://pricing.understory.page/
+	- 
