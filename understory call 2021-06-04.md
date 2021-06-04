@@ -9,4 +9,11 @@
 - https://community.webmonetization.org/understory/understory-final-grant-report-4ld5
 - what if we could build a platform that could moneitize your content
 	- https://webmonetization.org/
+	- uphold.com web monetization standard
+		- monetization pointer
+	- interledger network
+	- coil.com extension
+
+- garden gates
+	- what is a gate but an invitation
 	- 
