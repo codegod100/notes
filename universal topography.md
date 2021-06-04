@@ -14,7 +14,9 @@
 			- Counting the number of superpositions is intuitive all small values but can be computed for large values using the combination formula
 				- ![[Pasted image 20210604122655.png]]
 				- n here is the total entropy of our system, r is the stage number
-				- for stage one 4C1 = 4!/()
+				- for stage one 4C1 = 4!/(1!3!) = 4
+	- stage two
+		- in stage two we are working with two bits of data, using the combination formula we see that the total number of superpositions in stage two is 6
 			- 
 	
 	
