@@ -31,4 +31,6 @@
 	- http://www.workpractice.com/trigg/thesis-chap4.html
 	- https://ceramic.network/
 	- https://pricing.understory.page/
-	- 
+	- media coops
+		- https://resonate.is/
+		- https://www.ampled.com/
