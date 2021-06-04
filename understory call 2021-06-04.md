@@ -16,4 +16,4 @@
 
 - garden gates
 	- what is a gate but an invitation
-	- 
+	- do they convert garden to git repo?
