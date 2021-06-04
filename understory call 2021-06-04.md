@@ -1,2 +1,6 @@
 - intelligent trees
+	- on amazon prime video free
+- tree fungi distributes resources
+	- mycorrhizal network
+	- if one tree dies it hurts the whole forest
 - 
