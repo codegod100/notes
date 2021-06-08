@@ -1,4 +1,6 @@
 Inbox
+- [ ] open web grant
+- [ ] notion api
 - [ ] create JS settings modules
 - [ ] create branch for proof of concept for using [[fission]] for user login
 - [ ] check out obsidian plugin api
