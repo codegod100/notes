@@ -1,10 +1,8 @@
 Inbox
-- [ ] open web grant
 - [ ] notion api
 - [ ] create JS settings modules
 - [ ] create branch for proof of concept for using [[fission]] for user login
 - [ ] check out obsidian plugin api
-- [ ] investigate [[kava]]
 - [ ] move to proper [[ast]] instead of hacking around [[markdown]]
 - [ ] [[agora obsidian plugin]]
 - [ ] [[hyperbee]] to store [[agora]] data, 
@@ -12,6 +10,8 @@ Inbox
 	- may be easier to dispatch [[agora actions]]
 
 Back burner
+- [ ] investigate [[kava]]
+- [ ] open web grant
 - [ ] make graph view look more like obsidian
 - [ ] add hypothesis integration into [[agora-server]] on a deeper level
 - [ ] autogen journal entry if non existent for nodes created on that day
