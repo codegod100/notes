@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "solidary fund.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "solidary fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "solidary fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,15 +144,15 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
-    "todo.md",
+    "solidary fund.md",
+    "mara call 2021-06-10.md",
     "2021-W24.md",
+    "call mara 2021-06-10.md",
+    "todo.md",
     "emmet.md",
     "money.md",
     "gardener coalition.md",
     "fission.md",
-    "understory call 2021-06-04.md",
-    "universal topography.md",
-    "dweb talk 2021-06-02.md",
-    "zebra call 2021-05-31.md"
+    "understory call 2021-06-04.md"
   ]
 }
