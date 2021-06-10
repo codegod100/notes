@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "solidarity fund.md",
+            "file": "impact fund.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solidarity fund.md",
+                "file": "impact fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solidarity fund.md",
+                "file": "impact fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,15 +144,15 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
-    "solidary fund.md",
+    "impact fund.md",
     "mara call 2021-06-10.md",
+    "liz fong-jones.md",
+    "solidary fund.md",
     "2021-W24.md",
     "call mara 2021-06-10.md",
     "todo.md",
     "emmet.md",
     "money.md",
-    "gardener coalition.md",
-    "fission.md",
-    "understory call 2021-06-04.md"
+    "gardener coalition.md"
   ]
 }
