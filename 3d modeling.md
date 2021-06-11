@@ -2,6 +2,6 @@
 - maya
 - unity
 - make human
-- daze 3d
+- daz 3d
 - autodesk character generator
 - 
