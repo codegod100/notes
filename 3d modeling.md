@@ -1,0 +1,7 @@
+- blender
+- maya
+- unity
+- make human
+- daze 3d
+- autodesk character generator
+- 
