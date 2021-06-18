@@ -2,4 +2,11 @@
 	- no/low code app development platform
 - member discounts and benefits
 	- https://members.zebrasunite.coop/dashboard/member-discount-benefits
+- bylaws
+	- https://drive.google.com/file/d/12q3W1FV0Nr0liD4A4Fw34L2ixnULmhDv/view
+- articles of incorporation
+	- https://drive.google.com/file/d/1K4yCZL-j1r7nsmUQu9w-gQhq9TbEczLr/view
+- collaborative funding cobudget
+	- https://cobudget.co/#/
+- It enables all members of an organization to get involved in decision-making by proposing projects and allocating funds to the proposals they like.
 - 
