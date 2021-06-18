@@ -11,4 +11,6 @@
 - It enables all members of an organization to get involved in decision-making by proposing projects and allocating funds to the proposals they like.
 - member dashboard
 	- https://members.zebrasunite.coop/dashboard
+- slide deck
+	- https://docs.google.com/presentation/d/1hPzZ72gbZMMWdIIvdYfbBkhHfYz_OH9j8arAp2k0Kbg/edit#slide=id.ge0c1af6c65_0_359
 - 
