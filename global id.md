@@ -1,0 +1,2 @@
+- #go-link https://global.id/
+- [[self sovereign identity]]
