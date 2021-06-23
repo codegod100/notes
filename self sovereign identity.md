@@ -1,0 +1,6 @@
+- pros
+	- user controlled
+- cons
+	- if lost can not retrieve
+	- needs an alias to be memorable
+	- 
