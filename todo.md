@@ -1,13 +1,8 @@
 Inbox
 - [ ] notion api
-- [ ] create JS settings modules
-- [ ] create branch for proof of concept for using [[fission]] for user login
 - [ ] check out obsidian plugin api
 - [ ] move to proper [[ast]] instead of hacking around [[markdown]]
 - [ ] [[agora obsidian plugin]]
-- [ ] [[hyperbee]] to store [[agora]] data, 
-	- we could possibly run into scaling issues running flat files, 
-	- may be easier to dispatch [[agora actions]]
 
 Back burner
 - [ ] investigate [[kava]]
@@ -28,6 +23,7 @@ Back burner
 
 
 Done
+- [x] create JS settings modules
 - [x] build [[agora proposal platform]]
 	- thinking of using tools at [[open source democracy]]
 - [x] find a [[governance]] platform for [[agora proposals]]
