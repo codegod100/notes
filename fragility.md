@@ -1,1 +1,1 @@
-- the privilege of being stressed by
+- the privilege of being stressed by privilege
