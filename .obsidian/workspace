@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,8 +144,8 @@
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
     "2021-06-30.md",
-    "2021-W27.md",
     "2021-06-29.md",
+    "2021-W27.md",
     "2021-06-26.md",
     "todo.md",
     "2021-06-24.md",
