@@ -1,8 +1,10 @@
 - will orientation be recorded
 	- probably?
 - People outside of portland
-	- what is the mission with local chapters
+- what is the mission with local chapters
 	- west coast bloc
+- Ideal chapter
+	- attributes of chapter
 - what are co-leads
 - how does chapter membership relate to ZU membership
 - what is best way ZU or chapters to share information/expectations
@@ -20,4 +22,14 @@
 	- because of founding member status sam has no path to 
 - mixed messaging between open collaboration and doing things behind closed doors
 - how patronage works in chapters
-	- multiple times said 
+	- multiple times said it's not intention to have chapter members to be members of coop
+
+- How do non coop members interface with chapters
+- to what extent does the chapter leader own the experience vs passing on zebras decisions
+- shared resources
+- newsletter resources
+- pool to all pull from
+- central repository? can chapters "shop" for content?
+- permissions
+- expected to pay coop membership even tho put in sweat equity
+- 
