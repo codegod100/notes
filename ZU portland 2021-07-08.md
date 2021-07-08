@@ -1,0 +1,4 @@
+- People outside of portland
+	- what is the mission with local chapters
+- what are co-leads
+- 
