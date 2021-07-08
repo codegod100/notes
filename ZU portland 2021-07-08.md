@@ -49,7 +49,10 @@
 	- like to know first step to access
 
 - similar to map of organization, doulas, golden share, investors etc etc birds eye
-	- inside those sections
+	- inside those sections, who are the point people
+	- org directory
+- more efficiently distribute questions, single person in charge of chapters?
+
 
 # Resources
 # ZU members/chapter members
