@@ -32,4 +32,15 @@
 - central repository? can chapters "shop" for content?
 - permissions
 - expected to pay coop membership even tho put in sweat equity
-- 
+- chapters that got started "earlier" (before existing models)
+	- when is that conversation gonna happen
+	- if there's deadlines lets have conversations before that
+- Association template
+	- is there a need?
+	- SF seems like they didn't want it
+- fall last year
+	- representative from nasa curious about startup environments
+		- wanted to see what c
+
+# Resources
+# ZU members/chapter members
