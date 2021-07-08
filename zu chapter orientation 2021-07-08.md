@@ -1,2 +1,3 @@
 - portland chapter established ~ march 2020
-- 
+- earning patronage
+- coop is a group of people pull their resources to
