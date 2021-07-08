@@ -52,6 +52,7 @@
 	- inside those sections, who are the point people
 	- org directory
 - more efficiently distribute questions, single person in charge of chapters?
+- 
 
 
 # Resources
