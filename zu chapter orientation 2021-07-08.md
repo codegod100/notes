@@ -1,1 +1,2 @@
+- portland chapter established ~ march 2020
 - 

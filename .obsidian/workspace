@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "ZU portland 2021-07-08.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "750274faa64503c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "zu chapter orientation 2021-07-08.md",
             "mode": "source"
           }
@@ -56,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,11 +152,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "74055c5a1a4d185f",
+  "active": "750274faa64503c9",
   "lastOpenFiles": [
     "zu chapter orientation 2021-07-08.md",
-    "ZU portland 2021-07-08.md",
     "2021-07-08.md",
+    "ZU portland 2021-07-08.md",
     "2021-07-04.md",
     "2021-06-30.md",
     "2021-06-29.md",
