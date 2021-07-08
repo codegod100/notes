@@ -1,4 +1,6 @@
 - People outside of portland
 	- what is the mission with local chapters
+	- west coast bloc
 - what are co-leads
+- how does chapter membership relate to ZU membership
 - 
