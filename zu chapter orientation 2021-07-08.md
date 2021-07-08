@@ -9,4 +9,7 @@
 	- chapter plays key role in global movement
 	- working to expand mission globally
 	- move entire enconomy towards the zebra way
-	- 
+- circles.world
+	- circles tool
+- create a communit peopel want to show up to
+	- work well together, belong there
