@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZU portland 2021-07-08.md",
-            "mode": "preview"
+            "file": "zu chapter orientation 2021-07-08.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZU portland 2021-07-08.md",
+                "file": "zu chapter orientation 2021-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZU portland 2021-07-08.md",
+                "file": "zu chapter orientation 2021-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,6 +144,7 @@
   },
   "active": "74055c5a1a4d185f",
   "lastOpenFiles": [
+    "zu chapter orientation 2021-07-08.md",
     "ZU portland 2021-07-08.md",
     "2021-07-08.md",
     "2021-07-04.md",
@@ -152,7 +153,6 @@
     "2021-W27.md",
     "2021-06-26.md",
     "todo.md",
-    "2021-06-24.md",
-    "pr review 2021-06-23.md"
+    "2021-06-24.md"
   ]
 }
