@@ -1,6 +1,12 @@
+- will orientation be recorded
+	- probably?
 - People outside of portland
 	- what is the mission with local chapters
 	- west coast bloc
 - what are co-leads
 - how does chapter membership relate to ZU membership
+- what is best way ZU or chapters to share information/expectations
+	- portland and SF only assoc.
+		- tokyo apparently assoc also?
+
 - 
