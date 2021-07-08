@@ -40,7 +40,16 @@
 	- SF seems like they didn't want it
 - fall last year
 	- representative from nasa curious about startup environments
-		- wanted to see what c
+		- wanted to see what collobaration possible
+		- how much autonomy do chapters have to partner
+		- ok portland what do you wanna and then they were like portland what do you wanna do
+- can chapters enter into legal arrangements
+- what is the first step to request support / funding
+	- how is this structured?
+	- like to know first step to access
+
+- similar to map of organization, doulas, golden share, investors etc etc birds eye
+	- inside those sections
 
 # Resources
 # ZU members/chapter members
