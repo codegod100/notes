@@ -9,4 +9,15 @@
 	- portland and SF only assoc.
 		- tokyo apparently assoc also?
 
-- 
+- Where is information?
+	- three different copies of FAQs
+	- hard to find
+	- different places makes things confusing
+	- 
+- The notion
+	- What is the address
+	- accessibility?
+	- because of founding member status sam has no path to 
+- mixed messaging between open collaboration and doing things behind closed doors
+- how patronage works in chapters
+	- multiple times said 
