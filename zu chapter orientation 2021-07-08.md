@@ -1,3 +1,12 @@
 - portland chapter established ~ march 2020
 - earning patronage
-- coop is a group of people pull their resources to
+- coop is a group of people pool their resources to and labor
+	- see slide for whole speil
+- coops 12% of people?
+- creates our own economic sphere
+- grounded in local and global community
+- how do chapters fit in?
+	- chapter plays key role in global movement
+	- working to expand mission globally
+	- move entire enconomy towards the zebra way
+	- 
