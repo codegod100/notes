@@ -13,3 +13,5 @@
 	- circles tool
 - create a communit peopel want to show up to
 	- work well together, belong there
+- 100 paying coop members in ZU
+- [ZU Co-op Chapter Lead Orientation - July 2021 - Google Slides](https://docs.google.com/presentation/d/1Zn-4ST-Vl-MY9NaHe2v5PV-1Hkj9N-iGdasJy4TFnSQ/edit)
