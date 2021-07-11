@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "informational complexity.md",
+            "file": "commonmark.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informational complexity.md",
+                "file": "commonmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informational complexity.md",
+                "file": "commonmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,15 +143,15 @@
   },
   "active": "750274faa64503c9",
   "lastOpenFiles": [
-    "informational complexity.md",
+    "commonmark.md",
     "2021-07-11.md",
+    "informational complexity.md",
     "zu chapter orientation 2021-07-08.md",
     "2021-07-08.md",
     "ZU portland 2021-07-08.md",
     "2021-07-04.md",
     "2021-06-30.md",
     "2021-06-29.md",
-    "2021-W27.md",
-    "2021-06-26.md"
+    "2021-W27.md"
   ]
 }
