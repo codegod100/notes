@@ -1,3 +1,5 @@
 - A strongly defined, highly compatible specification of Markdown
+	- an unambiguous definition, the original markdown contained multiple ambiguities
 - #go-link https://commonmark.org/
+- parser included in [[atjson]]
 - 
