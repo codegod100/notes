@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "commonmark.md",
+            "file": "todo.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commonmark.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "commonmark.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +143,7 @@
   },
   "active": "750274faa64503c9",
   "lastOpenFiles": [
+    "todo.md",
     "commonmark.md",
     "zettelkasten.md",
     "2021-07-11.md",
@@ -151,7 +152,6 @@
     "2021-07-08.md",
     "ZU portland 2021-07-08.md",
     "2021-07-04.md",
-    "2021-06-30.md",
-    "2021-06-29.md"
+    "2021-06-30.md"
   ]
 }

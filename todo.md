@@ -1,10 +1,13 @@
 Inbox
-- [ ] notion api
+- [ ] [[agora ext]]
+	- [ ] autolink only element you click on
+	- [ ] on/off toggle in toolbar
+
+Back burner
 - [ ] check out obsidian plugin api
 - [ ] move to proper [[ast]] instead of hacking around [[markdown]]
 - [ ] [[agora obsidian plugin]]
-
-Back burner
+- [ ] notion api
 - [ ] investigate [[kava]]
 - [ ] open web grant
 - [ ] make graph view look more like obsidian
