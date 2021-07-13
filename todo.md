@@ -1,7 +1,5 @@
 Inbox
-- [ ] [[agora ext]]
-	- [ ] autolink only element you click on
-	- [ ] on/off toggle in toolbar
+
 
 Back burner
 - [ ] check out obsidian plugin api
@@ -63,6 +61,9 @@ Back burner
 
 
 Done
+- [x] [[agora ext]]
+	- [x] autolink only element you click on
+	- [x] on/off toggle in toolbar
 - [x] build [[agora proposal platform]]
 	- thinking of using tools at [[open source democracy]]
 - [x] find a [[governance]] platform for [[agora proposals]]
