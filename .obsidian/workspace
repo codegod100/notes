@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "2021-07-13.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "2021-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "2021-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,15 +143,15 @@
   },
   "active": "750274faa64503c9",
   "lastOpenFiles": [
+    "2021-07-13.md",
+    "2021-07-11.md",
+    "Untitled.md",
     "todo.md",
     "commonmark.md",
     "zettelkasten.md",
-    "2021-07-11.md",
     "informational complexity.md",
     "zu chapter orientation 2021-07-08.md",
     "2021-07-08.md",
-    "ZU portland 2021-07-08.md",
-    "2021-07-04.md",
-    "2021-06-30.md"
+    "ZU portland 2021-07-08.md"
   ]
 }
