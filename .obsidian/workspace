@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-13.md",
+            "file": "vera requests.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brutaldon",
+                "query": "vera",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-13.md",
+                "file": "vera requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-07-13.md",
+                "file": "vera requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +144,7 @@
   },
   "active": "750274faa64503c9",
   "lastOpenFiles": [
+    "vera requests.md",
     "2021-07-13.md",
     "2021-07-11.md",
     "Untitled.md",
@@ -151,7 +153,6 @@
     "zettelkasten.md",
     "informational complexity.md",
     "zu chapter orientation 2021-07-08.md",
-    "2021-07-08.md",
-    "ZU portland 2021-07-08.md"
+    "2021-07-08.md"
   ]
 }
