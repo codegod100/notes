@@ -5,7 +5,7 @@
 - #github https://github.com/fuck-capitalism
 - #twitter https://twitter.com/flanciavera
 - [[go]] 
-	- [[books]] https://ipfs.runfission.com/ipfs/bafybeie3tvdabqcv4dlmy3xmlmpiwapgfse4ie3hcgxjoq6iyi32fowjde/p/books
+	- [[books]] https://vera.files.fission.name/p/books
 
 #developer
 #protopian
