@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-14.md",
+            "file": "2021-07-15.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-14.md",
+                "file": "2021-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-07-14.md",
+                "file": "2021-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,6 +144,7 @@
   },
   "active": "750274faa64503c9",
   "lastOpenFiles": [
+    "2021-07-15.md",
     "2021-07-14.md",
     "vera requests.md",
     "2021-07-13.md",
@@ -152,7 +153,6 @@
     "todo.md",
     "commonmark.md",
     "zettelkasten.md",
-    "informational complexity.md",
-    "zu chapter orientation 2021-07-08.md"
+    "informational complexity.md"
   ]
 }
