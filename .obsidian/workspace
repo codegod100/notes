@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vera.md",
+            "file": "2021-08-06.md",
             "mode": "source"
           }
         }
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "2021-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vera.md",
+                "file": "2021-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -152,6 +151,8 @@
   },
   "active": "750274faa64503c9",
   "lastOpenFiles": [
+    "2021-08-06.md",
+    "zettelkasten.md",
     "vera.md",
     "2021-07-15.md",
     "2021-07-14.md",
@@ -159,8 +160,6 @@
     "2021-07-13.md",
     "2021-07-11.md",
     "Untitled.md",
-    "todo.md",
-    "commonmark.md",
-    "zettelkasten.md"
+    "todo.md"
   ]
 }
