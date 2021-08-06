@@ -134,6 +134,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "79fc0b93816a9a38",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
