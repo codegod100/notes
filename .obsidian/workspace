@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-06.md",
-            "mode": "source"
+            "file": "a confluence of waters.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-06.md",
+                "file": "a confluence of waters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-08-06.md",
+                "file": "a confluence of waters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,6 +151,7 @@
   },
   "active": "750274faa64503c9",
   "lastOpenFiles": [
+    "a confluence of waters.md",
     "2021-08-06.md",
     "zettelkasten.md",
     "vera.md",
@@ -159,7 +160,6 @@
     "vera requests.md",
     "2021-07-13.md",
     "2021-07-11.md",
-    "Untitled.md",
-    "todo.md"
+    "Untitled.md"
   ]
 }
