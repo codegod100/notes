@@ -1,0 +1,18 @@
+# 2022-01-07
+- [[move]]
+- [[patterns]]
+  - [[blockchain]] https://dl.acm.org/doi/10.1145/3282308.3282312
+  - [[game design]] https://www.routledge.com/Pattern-Language-for-Game-Design/Barney/p/book/9780367367725
+- [[push]] [[movies]]
+  - [[red rocket]]
+  - [[licorice pizza]]
+  - [[the last picture show]]
+- [[angle]] == [[angular angel]]
+  - [[agora project]]
+- [[flancia weekly]]
+- [[push]] [[2022-01-08]]
+  - [x] add video stoa to the Agora
+     - <iframe allow="camera; microphone; fullscreen; display-capture; autoplay" src="https://meet.jit.si/SuccessiveUniversesTestifyYet" style="height: 100%; width: 100%; border: 0px;"></iframe>
+    - done -- see [[this is not a 404]]
+- [[push]] [[2021-01-12]]
+  - a friend's 40th birthday!
