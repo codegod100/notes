@@ -1,8 +1,8 @@
-- Pretty cool person
-- #twitter https://twitter.com/flancian
-- #mastodon https://social.coop/@flancian
+- [flancian@twitter](https://twitter.com/flancian)
+- [In Flancia we will meet (@flancian@social.coop) - social.coop](https://social.coop/@flancian)
 
-#protopian 
-#anarchist
+- #protopian 
+- #anarchist
 
 [[2021-06-23]]
+
