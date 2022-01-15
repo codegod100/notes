@@ -1,7 +1,7 @@
 * [[person]]
-* #go-link https://maya.land/who/
-* [[fediverse]] https://occult.institute/@maya
-* [[blogroll]] https://maya.land/blogroll.opml
+- [[go]] https://maya.land/who/
+*  [maya 🧙‍♀️ (@maya@occult.institute) - Conventicle of the Lesser Occult Institute](https://occult.institute/@maya)
+* [[blogroll]] [Maya's subscriptions](https://maya.land/blogroll.opml)
 * [[swamp-person]]
 
 
