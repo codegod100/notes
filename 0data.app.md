@@ -1,4 +1,4 @@
-#go-link https://0data.app/
+# [Zero Data App](https://0data.app/)
 
 -   an app in which _your data stays with you_
 -   _you control where_ the data is stored
