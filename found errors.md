@@ -1,0 +1,1 @@
+Using this note to keep track of errors I need to google throughout my day
