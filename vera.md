@@ -1,5 +1,4 @@
-# HELLO!
-
+# Vera's home on the web
 You made it to my secret lair congratulations
 
 # Here are some of the virtual places I frequent
