@@ -1,3 +1,6 @@
 [submodule "logseq"]
 	path = logseq
 	url = https://github.com/fuck-capitalism/logseq.git
+[submodule "wiki"]
+	path = wiki
+	url = https://git.anagora.org/vera/notes.wiki.git
