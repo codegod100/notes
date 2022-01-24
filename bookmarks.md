@@ -1,3 +1,7 @@
+sed --expression="s/\[\[\([0-9A-Za-z]\{1,\}\)\(\]\]\)/[\1](\/\1)/g"
+
+
+
 -	[[todo]] ([[flancian]] uses [[do]] I believe)
 -	[[calendar]] (Not used but maybe?)
 -	[[found errors]] (errors that I find)
