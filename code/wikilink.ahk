@@ -1,3 +1,10 @@
-
+Link()
+{
 InputBox, Wikilink, "wikilink"
-return [[[%Wikilink%](https://anagora.org/%Wikilink%)]]
+Replaced := StrReplace(Wikilink," ","-")
+return % "[[["  Wikilink  "](https://anagora.org/"  Replaced ")]]"
+}
+
+^j::
+Foo := Link()
+SendInput, %Foo%
