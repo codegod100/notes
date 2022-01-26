@@ -24,3 +24,4 @@ return
 ^+g::
 InputBox, Message, "Git", "Enter your Git commit message"
 SendInput, % "git add . && git commit -m '" Message "' && git push gitlab"
+return
