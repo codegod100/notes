@@ -1,5 +1,8 @@
+# 2022-01-27
+- [ ] look at tiddlywiki parser
 # 2022-01-26
 - [ ] agora flavored markdown
+- [ ] watch [[Contagion]]
 
 # 2022-01-25
 - [ ] fix [[wikilink | aliases]] in the agora
