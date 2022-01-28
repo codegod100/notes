@@ -204,3 +204,4 @@ Thumbnail image
 [![](https://upload.wikimedia.org/wikipedia/mediawiki/thumb/a/a9/Example.jpg/220px-Example.jpg)](https://www.mediawiki.org/wiki/File:Example.jpg)
 
 Caption text
+

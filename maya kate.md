@@ -10,3 +10,12 @@
 - presenting different versions alongside each other allows a certain amount of... I remember consulting urban dictionary as a teenager trying to figure out a piece of slang, and feeling like I needed to see various slightly-different definitions to be confident something was even really in use
 - They showed me  [proposal for a web made of markdown documents](https://macwright.com/2020/08/22/clean-starts-for-the-web.html?s=09 "https://macwright.com/2020/08/22/clean-starts-for-the-web.html?s=09")
 
+## Backlinks
+
+> - [](transcranial magnetic stimulation.md)
+>   - learned about from [[maya kate]]
+>    
+> - [](2021-01-02.md)
+>   - met [[maya kate]] and talked about [[folkpunk]] and [[agora]] and simpler web interfaces in general
+
+_Backlinks last generated 2022-01-28 07:55:20_

@@ -31,3 +31,4 @@ ALT+l / ESC+l  Lower the case of characters from the cursor to the
 ALT+c / ESC+c  Capitalize the character under the cursor position 
                 and move to the end of the word.
 ```
+

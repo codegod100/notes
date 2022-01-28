@@ -1,1 +1,2 @@
 - The notes are numbered hierarchically, so that new notes may be inserted at the appropriate place, and contain [metadata](https://en.wikipedia.org/wiki/Metadata "Metadata") to allow the note-taker to associate notes with each other. For example, notes may contain [tags](https://en.wikipedia.org/wiki/Tag_(metadata) "Tag (metadata)") that describe key aspects of the note, and they may reference other notes. The numbering, metadata, format and structure of the notes is subject to variation depending on the specific method employed.
+

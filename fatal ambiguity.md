@@ -5,3 +5,10 @@
 - take compatibility away from developers as a concern
 - if they wanna change jump on [[github]] and argue about it
 - 
+
+## Backlinks
+
+> - [](distributed press 2021-05-19.md)
+>   - [[fatal ambiguity]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

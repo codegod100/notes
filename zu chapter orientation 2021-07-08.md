@@ -16,3 +16,10 @@
 - 100 paying coop members in ZU
 - [ZU Co-op Chapter Lead Orientation - July 2021 - Google Slides](https://docs.google.com/presentation/d/1Zn-4ST-Vl-MY9NaHe2v5PV-1Hkj9N-iGdasJy4TFnSQ/edit)
 - 
+
+## Backlinks
+
+> - [](2021-07-08.md)
+>   - [[zu chapter orientation 2021-07-08]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

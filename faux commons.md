@@ -11,3 +11,10 @@ and not as long-term covenants among participants to share stewardship responsib
 80 Free, Fair and Alive
 because businesses enterprises are often eager to disguise their mercantile interests and claim democratic legitimacy by pretending to be about
 sharing, community, and the common good, i.e., to “commonswash.” 
+
+## Backlinks
+
+> - [2022-01-26](2022-01-26.md)
+>   - [[faux commons]]
+
+_Backlinks last generated 2022-01-28 07:55:20_

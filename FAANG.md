@@ -4,3 +4,4 @@
 	- real effect on social systems
 	- lock people out of economic growth of internet
 	- 
+

@@ -9,3 +9,10 @@ git add .
 git commit -m post-commit-hook
 git push
 ```
+
+## Backlinks
+
+> - [](2021-01-04.md)
+>   - TIL [[git]] comes with examples for [[git hooks]] in `.git/hooks` for every new repo you initialize
+
+_Backlinks last generated 2022-01-28 07:55:20_
