@@ -1,4 +1,4 @@
-#go-link https://radicle.xyz/
+#go https://radicle.xyz/
 
 ## Backlinks
 

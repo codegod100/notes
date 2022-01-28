@@ -1,2 +1,2 @@
-- #go-link https://github.com/small-tech/remote
+- #go https://github.com/small-tech/remote
 

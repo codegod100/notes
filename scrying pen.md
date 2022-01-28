@@ -1,4 +1,4 @@
-#go-link https://andymatuschak.org/scrying-pen/
+#go https://andymatuschak.org/scrying-pen/
 
 [[project]] by [[Andy Matuschak]]
 

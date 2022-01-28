@@ -1,4 +1,4 @@
-- #go-link https://hubs.mozilla.com/
+- #go https://hubs.mozilla.com/
 - [[virtual space]]
 
 ## Backlinks

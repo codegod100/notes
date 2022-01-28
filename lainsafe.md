@@ -1,4 +1,4 @@
-#go-link https://lainsafe.delegao.moe/?
+#go https://lainsafe.delegao.moe/?
 
 #file-upload
 

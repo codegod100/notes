@@ -1,4 +1,4 @@
-- #go-link https://global.id/
+- #go https://global.id/
 - [[self sovereign identity]]
 
 ## Backlinks

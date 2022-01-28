@@ -1,6 +1,6 @@
 virtual assistant like [[gooogle home]] or [[alexa]]
 
-#go-link https://mycroft.ai/
+#go https://mycroft.ai/
 
 ## Backlinks
 

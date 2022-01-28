@@ -1,4 +1,4 @@
-#go-link https://spritelyproject.org/
+#go https://spritelyproject.org/
 
 uses distributed programming language
 

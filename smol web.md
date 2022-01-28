@@ -1,4 +1,4 @@
-- #go-link https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
+- #go https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
 - current software
 	- [[gemini protocol]]
 	- [[gopher protocol]]

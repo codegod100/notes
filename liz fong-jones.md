@@ -1,4 +1,4 @@
-- #go-link https://www.lizthegrey.com/
+- #go https://www.lizthegrey.com/
 - #twitter https://twitter.com/lizthegrey
 
 ## Backlinks

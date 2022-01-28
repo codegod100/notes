@@ -1,4 +1,4 @@
-#go-link anagora.org
+#go anagora.org
 
 ## Backlinks
 

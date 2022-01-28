@@ -1,4 +1,4 @@
-#go-link https://cosmoso.network/
+#go https://cosmoso.network/
 
 built on top of a [[Byzantine Fault Tolerant]] consensus engine.
 

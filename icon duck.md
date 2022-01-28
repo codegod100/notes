@@ -1,4 +1,4 @@
-#go-link iconduck.com
+#go iconduck.com
 
 free open source icons
 

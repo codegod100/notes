@@ -1,2 +1,2 @@
-- #go-link https://docs.emmet.io/cheat-sheet/
+- #go https://docs.emmet.io/cheat-sheet/
 

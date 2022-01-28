@@ -1,4 +1,4 @@
-#go-link https://coolors.co/
+#go https://coolors.co/
 
 ## Backlinks
 

@@ -1,4 +1,4 @@
-#go-link https://maggieappleton.com/garden-history
+#go https://maggieappleton.com/garden-history
 
 ## Backlinks
 

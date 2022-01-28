@@ -1,3 +1,3 @@
-- #go-link https://github.com/Canop/broot
+- #go https://github.com/Canop/broot
 - A better way to navigate directories
 

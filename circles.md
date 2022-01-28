@@ -1,4 +1,4 @@
-- #go-link https://circles.garden
+- #go https://circles.garden
 - [[ubi]] experiment
 - #blockchain
 
