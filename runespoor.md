@@ -1,0 +1,5 @@
+https://harrypotter.fandom.com/wiki/Runespoor
+
+>According to writings from Parselmouths, each of the Runespoor's heads served a different function. The left head (from the perspective of someone facing the snake) was the planner; it decided where the Runespoor was to go and what it was to do next. The middle head was the dreamer (it is common for a Runespoor to remain stationary for days lost in glorious visions and imaginations), and the right head was the critic; it evaluated the efforts of the left and middle heads with a continuous irritable hissing, and its fangs were highly venomous. It was common to see Runespoors with the right head missing, as the other two heads often banded together to bite it off when it criticised them too much. Because of this, the Runespoor rarely lived to a great age.[1]
+
+wow that's dark. I love it. had to add to my notes

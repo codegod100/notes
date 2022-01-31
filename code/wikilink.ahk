@@ -8,7 +8,7 @@ Link()
 {
 InputBox, Wikilink, "Wikilink", "Enter your phrase to wikilink"
 Display := Url(Wikilink)
-return % "[[["  Wikilink  "](" Display ")]]"
+return % "["  Wikilink  "](" Display ")"
 }
 
 ^j::
