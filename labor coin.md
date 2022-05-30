@@ -1,0 +1,3 @@
+I am selling 3 VERA. One VERA is worth one hour of creative labor, each 1 hour block is sold at 100 USD
+- https://stellarterm.com/exchange/VERA-GBKFI5HFH7BI2IFNYBPHORKSDEVU35JUCTXLLIHM7TTXV4JX7XD2U6VQ/USDC-www.centre.io
+- I can create another market for someone else's labor coin for a discount; e.g. I could create an ALICE/VERA market pair where .5 ALICE = 1 VERA thereby giving alice a 50% labor discount.
