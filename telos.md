@@ -1,4 +1,4 @@
-#pull entelechy
+#pull [[entelechy]]
 
 From wikipedia:
 
