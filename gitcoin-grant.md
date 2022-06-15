@@ -1,1 +1,1 @@
-Gitcoin Grants allows individuals to get funding for a public goods project they are working on. Gitcoin Grants leverages Quadratic Funding (QF) to allocate extra funding from a matching pool to the most impactful projects, based on the number of contributors.
+Gitcoin Grants allows individuals to get funding for a public goods project they are working on. Gitcoin Grants leverages [[Quadratic Funding]] (QF) to allocate extra funding from a matching pool to the most impactful projects, based on the number of contributors.
