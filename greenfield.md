@@ -1,0 +1,1 @@
+In software development, a greenfield project could be one of developing a system for a totally new environment, without concern for integrating with other systems, especially not legacy systems. Such projects are deemed higher risk, as they are often for new infrastructure, new customers, and even new owners.
