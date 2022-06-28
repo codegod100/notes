@@ -1,0 +1,1 @@
+In 2017, [[Kevin Owocki]] founded Gitcoin, a Blockchain-based incentivization layer for open source software. [1]
