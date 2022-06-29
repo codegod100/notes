@@ -1,0 +1,1 @@
+- The character or fundamental values of a person, people, [[culture]] , or movement

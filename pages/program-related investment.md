@@ -1,0 +1,2 @@
+- A PRI investment is one of the ways a tax-exempt foundation can meet the IRS’ requirements that it pay at least 5% of its funds towards a charitable project or activity each year.
+-

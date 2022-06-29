@@ -1,0 +1,5 @@
+- #go https://www.colorado.edu/lab/medlab/exit-to-community
+- [[Nathan Schneider]]
+- [[Open Society Foundations]]
+- [[Danny Spitzberg]]
+-

@@ -1,0 +1,14 @@
+- #go https://members.zebrasunite.coop/b3edfaf22bcd4dd4b7b741bffd3f7d5f
+- Inspired by the principles of [[Zakat]] (read our Founding Member, [[sheeza shah]] ’s article in The Guardian), a morally obligated Islamic practice that dissuades hoarding to redistribute wealth and eradicate poverty, **Zebras Unite Co-op has set aside 2.5% of all gross revenues for a Zebra Solidarity Fund for its co-op members.** This fund will be used to offer financial assistance, advance projects centred on economic justice, underwrite scholarships and experiments serving the [[solidarity economy]] .
+	- https://www.theguardian.com/social-enterprise-network/2013/jan/24/islamic-finance-ethical-capitalism-social-enterprise
+-
+- Subsidising member fees for Zebras Unite Co-op members struggling to meet the financial ask
+- Non-profit or charitable projects centred on economic justice work
+- Community experiments to create solutions for solidarity issues
+- “Emergency Response Fund/Rapid Response” for disaster relief, and/or emergent social issue support, “care and health” fund impacting our members
+- Care fund for physical and mental health of founders that are members of Zebras Unite Co-op
+- Sabbatical fund for rejuvenating founders that are members of the Co-op
+- Underwriting or providing scholarships for travel to come together for solidarity in action
+- Redistribute wealth to those who are vulnerable or cut out from wealth/work
+- a maximum of $3k will be available for distribution per quarter in 2022.  Co-op members are eligible for **one **grant each fiscal year. The committee will decide how the quarterly budget is distributed amongst applicants based on the needs outlined in applications.
+-

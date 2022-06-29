@@ -1,0 +1,8 @@
+- Zebras Unite Capital is a circle of co-op members who are working together to create the distributed, [[democratic networks]] and infrastructure for raising and deploying debt, equity and [[hybrid capital]] to Zebra companies at varying stages of their evolution. We work in partnership with our growing global [[zebra chapter network]] .
+- Incubating [[next generation capital]] and entrepreneur support ecosystems. We started this work in 2021 with the [[Inclusive Capital Collective]] , a growing, US network of independent loan, equity and real estate funds and entrepreneur support organizations working to overcome systemic racism through equitable access to capital. In 2022 we launched the [[South East Asia Capital Collective]] , and are actively exploring several other
+- Building a rich referral ecosystem to connect Zebras Unite Co-op members and investors with each other, working in partnership with platforms like [[Wefunder]] , [[tinyseed]] , and others, and a with a growing network of investors **with over $2.8B in assets under management**.
+- Developing new financing mechanism. We are working on a number of innovative financing mechanisms, both in the context of our current Capital Collectives, and in partnership with Co-op members who are building innovative new funds.
+- [[capital collective]]
+- Chances are, you are looking for funding. Zebras Unite exists to make it easier for you to find [[values aligned investors]] . There are **many investors in our 8,000+ online community**. If you are currently raising, please get in touch through this form—we are prototyping the referral ecosystem. (Co-op membership required).
+- [[capital instruments]]
+-

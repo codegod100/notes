@@ -1,0 +1,10 @@
+- A low-profit limited liability company (L3C) is a legal form of business entity in the United States.[1] Commonly referred to as a hybrid structure, it has characteristics of both for-profit and non-profit entities
+- #go https://en.wikipedia.org/wiki/Low-profit_limited_liability_company
+- #pull [[benefit corporation]]
+-
+- It significantly furthers the accomplishment of one or more charitable or educational purposes within the meaning of Sec. 170(c)(2)(b) of the Internal Revenue Code and would not have been formed but for the company's relationship to the accomplishment of those charitable or educational purposes.
+- It does not have as a significant purpose the production of income or the appreciation of property.
+- It does not have as a purpose the accomplishment of one or more political or legislative purposes.
+- Those three requirements are imposed for a reason. They match the conditions imposed by the Internal Revenue Service on the type of businesses in which a charitable foundation can make a [[program-related investment]] (PRI).
+- The L3C’s creators believe foundations will prefer making PRIs to L3Cs over making grants to nonprofits engaged in the same mission because the L3C can provide a return on the investment that can be used to fund other charitable missions.
+-
