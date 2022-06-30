@@ -1,0 +1,2 @@
+- [[social currency]] in [[down and out in the magic kingdom]] similar to [[bitcoin]]
+-

@@ -1,0 +1,2 @@
+- #go https://jamstack.org/
+- The name "Jamstack" came about because as [[Matt Biilmann]] and [[Chris Bach]] were creating modern web development workflows and capabilities at[Netlify](https://netlify.com/), they found there was no easy way to refer to the architectural approach in conversation. Jamstack embraces many existing fundamentals of web architectures, and so they created the term Jamstack to help us talk about it more succinctly.
