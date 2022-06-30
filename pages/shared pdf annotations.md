@@ -1,4 +1,5 @@
 - I don't like using [[hypothes.is]] for [[pdf]] files
 - I want to make a tool/system where files instead of webpages are used
 - pdf annotation javascript
+- [[federated web annotations]]
 -
