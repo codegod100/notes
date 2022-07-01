@@ -1,0 +1,4 @@
+- separate [[defi]] coop to fund interesting [[blockchain]] innovations
+- [[governance]]
+- [[staking]]
+	- https://stake.fish/en/

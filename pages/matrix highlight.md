@@ -1,3 +1,4 @@
 - https://danilafe.com/blog/introducing_highlight/
 - # 2022-06-30
 - I emailed the creator asking for source code
+- https://github.com/DanilaFe/matrix-highlight
