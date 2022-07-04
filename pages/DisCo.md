@@ -6,4 +6,9 @@
 - [[feminist economics]]
 - [[non speculative or deterministic]]
 - [[guerilla translation]]
+- [[locally embedded, globally oriented]]
+- [[primed for federation]]
+- [[DisCO framework]]
+- [[DisCO stack]]
+- [[guerilla media collective]]
 -
