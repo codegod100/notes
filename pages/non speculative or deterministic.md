@@ -1,0 +1,1 @@
+- >Large or small, DisCOs are not algorithmic blueprints for humans to conform to. Instead they take things one step at a time, beginning with tangible community wealth and stable livelihoods, to then expand and federate through secure P2P infrastructures to create resilient solidarity economies.
