@@ -1,0 +1,3 @@
+- A Wiki for Distributed Cooperative Practices
+- The Guerrilla Translation/Guerrilla Media Collective Wiki is the main knowledge base for the Guerrilla Media Collective and its offshoots ([[Guerrilla Translation]], [[Guerrilla Graphic Collective]] , etc).
+-

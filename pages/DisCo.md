@@ -5,7 +5,7 @@
 - >The DisCO Manifesto is a deep dive into the world of Distributed Cooperative Organizations. Over its 80 colorful pages, you will read about how DisCOs are a P2P/Commons, cooperative and Feminist Economic alternative to Decentralized Autonomous Organizations (or DAOs). The DisCO Manifesto also includes some background on topics like blockchain, AI, the commons, feminism, cooperatives, cyberpunk, and more.
 - [[feminist economics]]
 - [[non speculative or deterministic]]
-- [[guerilla translation]]
+- [[Guerrilla Translation]]
 - [[locally embedded, globally oriented]]
 - [[primed for federation]]
 - [[DisCO framework]]
