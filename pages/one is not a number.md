@@ -1,0 +1,2 @@
+- >Caldwell and Xiong start with classical Greek mathematicians. They did not consider 1 to be a number in the same way that 2, 3, 4, and so on are numbers. 1 was considered a unit, and a number was composed of multiple units. For that reason, 1 couldn’t have been prime — it wasn’t even a number
+-

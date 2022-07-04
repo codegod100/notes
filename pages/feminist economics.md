@@ -1,0 +1,3 @@
+- https://wbg.org.uk/wp-content/uploads/2018/01/WBG-What-is-Feminsist-Economics-PDF-compressed.pdf
+- [[what is feminist economics]]
+-
