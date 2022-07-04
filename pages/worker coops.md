@@ -1,3 +1,0 @@
--
-- Outline note for worker coops
--
