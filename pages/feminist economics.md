@@ -1,3 +1,8 @@
 - https://wbg.org.uk/wp-content/uploads/2018/01/WBG-What-is-Feminsist-Economics-PDF-compressed.pdf
 - [[what is feminist economics]]
+- relationship between economics and feminism
+- the economy affects decision making that affects women
+- feminist economics is economics that is mindful of how it affects women
+- [[how does this affect trans?]]
+-
 -
