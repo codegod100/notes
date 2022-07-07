@@ -1,0 +1,2 @@
+- the practice of developing software on a remote host either something like [[gitpod]] or using a [[vps]]
+-
