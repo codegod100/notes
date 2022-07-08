@@ -1,0 +1,7 @@
+- [[building lens]]
+- [[burchenergy]]
+- [[open ai training]]
+- #PIECompany
+- # 2022-07-08
+- Talked today about potentially training [[openai]] on case studies from users
+	- Next step: schedule call with CTO

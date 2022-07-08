@@ -1,0 +1,3 @@
+- reminds me of [[edgedb]]
+- #go https://www.prisma.io/
+-
