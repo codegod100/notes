@@ -1,0 +1,7 @@
+- [[flancian]] requested I make this node to track ai progress in [[an agora]]
+- Fine tuning
+	- https://beta.openai.com/docs/guides/fine-tuning/preparing-your-dataset
+- currently I'm taking flancian's data and experimenting on it using instructions on fine tuning page
+	- [[fine tuning]] the dataset is expensive though
+- gpt-3 accuracy roughly scales linearly for each doubling of tuning dataset
+-
