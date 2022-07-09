@@ -1,2 +1,3 @@
 - [[zebra ethos]]
+- [[zebras podcast episode]]
 -

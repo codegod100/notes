@@ -2,4 +2,18 @@
 - #go https://www.wonderfil.world/
 - Zero-Waste Distribution Technology for Liquid & Cream Products
 - #PIECompany
+- [[your undivided attention]]
+- what size investments do zebras companies get?
+- Waiting
+	- blurb to match industry
+- [[zebras podcast episode]]
+-
+- # resources
+-
+- https://zebrasunite.coop/success-stories
+- https://zebrasunite.coop/capital-services
+	- 404
+- https://airtable.com/shrBLKv9HPKOTjuCZ
+	- capital request form [ZU members only]
+- https://zebrasunite.coop/casestudies
 -
