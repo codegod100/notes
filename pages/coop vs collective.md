@@ -1,0 +1,8 @@
+- coop
+	- ownership system
+- collective
+	- management system
+- >So when we are talking about a democratically owned and governed business, it’s important to keep in mind the following: a worker collective is always a worker cooperative, but a worker cooperative is not always a worker collective. (Similar to the math rule that a square is always a rectangle, but a rectangle is not always a square.)
+	- https://cdi.coop/coop-cathy-coops-and-collectives-difference
+-
+-
