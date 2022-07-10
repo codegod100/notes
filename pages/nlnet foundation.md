@@ -1,0 +1,3 @@
+- https://nlnet.nl/
+- NLnet has contributed funding to many important and very visible projects around fundamental standards from securing the core routing protocols and the domain name system of the internet to safer email, vendor-independent videoconferencing, more reliable wireless networks and private instant messaging
+-
