@@ -1,2 +1,4 @@
 - [[Aaron Parecki]]
 - [[tantek]]
+- [[vera's blog]]
+-
