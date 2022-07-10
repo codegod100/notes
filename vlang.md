@@ -1,1 +1,5 @@
 - similar to [[golang]]
+- https://vlang.io/
+- [[graphics library]]
+- as fast as c
+-
