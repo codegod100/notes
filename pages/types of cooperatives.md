@@ -1,7 +1,12 @@
 - https://ncdc.unl.edu/typescooperatives.shtml
 - retail
+	- Examples: hardware, food, agriculture products, and even movie theaters.
 - worker
+	- Examples: bakeries, retail stores, software development groups, and aquaculture.
 - producer
+	- Examples: agricultural products, lumber, carpentry and crafts.
 - service
+	- _Examples: service co-ops such as child care, health care clinics, and funeral services_
 - housing
+	- Examples include: condominiums, rentals, single-family homes, market rate, and limited equity.
 -
