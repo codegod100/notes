@@ -1,2 +1,6 @@
 - #pull [[burch energy services]]
+- https://www.burchenergy.com/
+- [[ideal ai projects]]
+- [[climate justice]]
+- [[black owned business]]
 -

@@ -1,0 +1,4 @@
+- the ideal [[ai project]] is something that has a definite pattern
+	- something that has a lot of data in same shape
+- the model generates things that copies the "shape" of this data
+-
