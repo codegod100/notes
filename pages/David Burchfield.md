@@ -6,5 +6,5 @@
 	- Talked today about potentially training [[openai]] on case studies from users
 		- Next step: schedule call with CTO
 - [[Jul 9th, 2022]]
-	- call on monday [[Jul 11th, 2022]]
+	- TODO call on monday [[Jul 11th, 2022]]
 -

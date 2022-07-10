@@ -5,7 +5,7 @@
 - [[your undivided attention]]
 - what size investments do zebras companies get?
 - Waiting
-	- blurb to match industry
+	- TODO blurb to match industry
 - [[zebras podcast episode]]
 -
 - # resources
