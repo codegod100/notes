@@ -1,0 +1,2 @@
+- owner of a [[cooperative]]
+-

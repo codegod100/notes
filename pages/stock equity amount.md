@@ -1,0 +1,5 @@
+- In July 2001, the Board of Directors proposed a revised membership system, which would eliminate the $35 Annual Membership Fee, after members had reached the $200 “paid in full” stock equity amount.
+- Harvest also started the [[Harvest Co-op Community Fund]] whereby when a member has fully paid the $200 equity deposit, new choices are available to them:
+	- 1) take an additional 10% discount at the register; or
+	- 2) donate their 10% to the Co-op Community Fund.
+-
