@@ -1,0 +1,7 @@
+- https://ncdc.unl.edu/typescooperatives.shtml
+- retail
+- worker
+- producer
+- service
+- housing
+-
