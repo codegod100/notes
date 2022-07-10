@@ -1,4 +1,5 @@
 - https://workerstap.com/
 - local [[tap house]]
-- [[socalist]] leaning
+- [[socialist]] leaning
+- #portland
 -

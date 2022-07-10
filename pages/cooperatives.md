@@ -1,6 +1,7 @@
 - outline note
 - [[DisCo]]
 - [[zebras unite]]
-- [[red coded]]
+- [[rose coded]]
 - [[workers coop]]
+- [[workers tap]]
 -
