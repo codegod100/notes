@@ -5,3 +5,5 @@
 	  
 	  [[open collective]]
 - [[fiscal host]] of [[flancia collective]]
+- #pull [[cooperative]]
+-
