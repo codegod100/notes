@@ -2,9 +2,16 @@
 - #project [[democracyos]]
 - #ted-talk [[pia ted talk]]
 - #ceo [[open collective]]
-## Backlinks
-
-> - [](pia call 2021-05-20.md)
->   - [[pia mancini]]
-
-_Backlinks last generated 2022-01-28 07:55:20_
+- [[2021-05-20]]
+	- Start time 9am pacific (timeboxed to 30 min)
+	- projects
+		- [[open collective]] funds
+		- payments paths ([[hypha]] needs to setup)
+			- [[cryptocurrency]]
+				- Converted to USD via [[stripe]]
+				- the giving block
+					- https://www.thegivingblock.com/
+			- open stocks
+			- virtual cards
+				- https://blog.opencollective.com/virtual-card-support/
+-
