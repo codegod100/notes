@@ -1,0 +1,2 @@
+- Metcalfe's law states that the value of a telecommunications network is proportional to the square of the number of connected users of the system (n2)
+-

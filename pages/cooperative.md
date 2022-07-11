@@ -1,3 +1,4 @@
 - #pull [[cooperatives]]
 - Co-ops often emerge as an attempt to respond to market failures and exploitative economic systems.
+- community and commerce
 -

@@ -10,3 +10,4 @@
 - [[Jul 11th, 2022]]
 	- Introductions with [[Paul Bursch]] [[Vanessa Burchfield]]
 	-
+- https://calendly.com/dburchfield/60min

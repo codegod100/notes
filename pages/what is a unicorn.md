@@ -1,0 +1,10 @@
+- #pull [[zebras unite]]
+- ~ billion valuation
+- vc funded
+- 10x return
+- creates a system of perverse incentives
+- incentivize better behavior
+- high risk capital
+- growth at all costs
+- fiduciary responsibility
+-

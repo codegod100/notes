@@ -1,0 +1,3 @@
+- https://infranodus.com
+- note taking app that uses AI to "fill in the gaps"
+-

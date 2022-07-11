@@ -1,3 +1,9 @@
 - https://your-undivided-attention.simplecast.com/episodes/an-alternative-to-silicon-valley-unicorns-QIVjUmV9
 - [[your undivided attention]]
+- you need trust; [[web3]] removes trust. this is not good
+- reframing the metrics me use to evaluate companies and start talking about people's character
+- [[character based loan programs]]
+- [[hylo]]
+- [[social roots]]
+- [[Metcalfe's law]]
 -
