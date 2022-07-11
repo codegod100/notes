@@ -7,9 +7,4 @@ doesn't work with [[pleroma]] because of bug
 
 
 
-## Backlinks
 
-> - [](2021-01-23.md)
->   - [[guppe]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

@@ -26,15 +26,4 @@ Other names:
 
 
 
-## Backlinks
 
-> - [](notes on communism.md)
->   - [[prolertarian culture]]
->    
-> - [](2021-01-16.md)
->   - [[prolertarian culture]]
->    
-> - [](prolertarian culture.md)
->   - -	[[prolertarian culture]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

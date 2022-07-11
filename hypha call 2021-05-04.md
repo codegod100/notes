@@ -11,9 +11,4 @@ have people pitch your pitch to test communication
 
 
 
-## Backlinks
 
-> - [](2021-05-04.md)
->   - [[hypha call 2021-05-04]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

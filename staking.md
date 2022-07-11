@@ -51,9 +51,4 @@ When evaluating Validators to stake with, you can think about three distinct buc
 
 
 
-## Backlinks
 
-> - [](flancia projects.md)
->   - [[staking]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

@@ -4,9 +4,4 @@ lightweight fedi client like [[pinafore]]
 
 
 
-## Backlinks
 
-> - [](2020-12-31.md)
->   - [[pinafore]] and [[brutaldon]] are lightweight fedi clients
-
-_Backlinks last generated 2022-01-28 07:55:20_

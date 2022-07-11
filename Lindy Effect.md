@@ -10,9 +10,4 @@ https://en.wikipedia.org/wiki/Lindy_effect
 
 https://coffeeandjunk.com/antilibrary/
 
-## Backlinks
 
-> - [2022-01-27](2022-01-27.md)
->   - [[Lindy Effect]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

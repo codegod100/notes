@@ -34,9 +34,4 @@ Coins
 
 
 
-## Backlinks
 
-> - [](2021-05-10.md)
->   - Doing some [[blockchain research]] for potential [[flancia projects]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

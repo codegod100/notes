@@ -5,9 +5,4 @@ One of my favorite nicknames for [[capitalism]]
 
 
 
-## Backlinks
 
-> - [](2021-01-10.md)
->   - Good note take systems seem like they require a non mobile device. There could be issues with classism and a [[pay to win]] model for note taking success.
-
-_Backlinks last generated 2022-01-28 07:55:20_

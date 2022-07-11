@@ -8,12 +8,4 @@ An open protocol for per-user storage on the Web
 
 
 
-## Backlinks
 
-> - [[Zero Data App](https://0data.app/)](0data.app.md)
->   - This seems to be running the same engine as [[remoteStorage]]/[[hyperdraft]]/et al
->    
-> - [](2021-01-09.md)
->   - Mulling over ideas involving [[remoteStorage]].
-
-_Backlinks last generated 2022-01-28 07:55:20_

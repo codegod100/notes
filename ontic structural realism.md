@@ -8,9 +8,4 @@
 	-	https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12399
 		-	What is clear, however, is that structuralists have revealed a seam of material at the core of modern physics that is replete with implications for metaphysics.
 
-## Backlinks
 
-> - [](2021-01-04.md)
->   - -	reading about [[ontic structural realism]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

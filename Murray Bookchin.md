@@ -18,18 +18,4 @@ His favorite word is "Coherence"
 
 
 
-## Backlinks
 
-> - [](bookchin.md)
->   - [[Murray Bookchin]]
->    
-> - [](democratic confederalism.md)
->   - [[Murray Bookchin]]
->    
-> - [](notes on communism.md)
->   - [[Murray Bookchin]]
->    
-> - [](preliterate society.md)
->   - [[Murray Bookchin]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

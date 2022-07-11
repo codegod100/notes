@@ -1,0 +1,1 @@
+- this one is growing on me. I like that you can "glance" to get a nice generated meeting overview

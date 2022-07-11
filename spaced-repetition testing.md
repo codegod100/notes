@@ -4,9 +4,4 @@ from [[Andy Matuschak]]
 
 
 
-## Backlinks
 
-> - [](quantum.country.md)
->   - Uses [[spaced-repetition testing]] to teach about quantum mechanics/computing
-
-_Backlinks last generated 2022-01-28 07:55:20_

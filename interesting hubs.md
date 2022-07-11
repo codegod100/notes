@@ -5,9 +5,4 @@
 - [Metaship | Hubs by Mozilla](https://hubs.mozilla.com/oyxfSEX/)
 	- cool art exhibit very nice
 
-## Backlinks
 
-> - [](2021-05-17.md)
->   - [[interesting hubs]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

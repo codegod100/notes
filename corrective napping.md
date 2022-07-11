@@ -2,9 +2,4 @@ I suffer from [[insomnia]] and I've been trying to come up with solution to help
 
 Step 1) I need to figure out what my ideal sleep/awake pattern should be. Without that, it will be difficult to determine what I should do. Before that, I need to determine a methodology for determining ideal sleep routine.
 
-## Backlinks
 
-> - [](2022-01-16.md)
->   - -	[[corrective napping]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

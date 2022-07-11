@@ -4,12 +4,4 @@
 
 
 
-## Backlinks
 
-> - [](flancia matrix space.md)
->   - A space in the new [[matrix spaces]] feature
->    
-> - [](2021-05-17.md)
->   - [[matrix spaces]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

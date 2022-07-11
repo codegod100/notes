@@ -6,9 +6,4 @@
 
 
 
-## Backlinks
 
-> - [](2021-05-16.md)
->   - [[brig]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

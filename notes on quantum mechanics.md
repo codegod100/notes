@@ -14,9 +14,4 @@ was trying to explain to my friend the other day how [[quantum decoherence]] is 
 
 
 
-## Backlinks
 
-> - [](2021-01-20.md)
->   - [[notes on quantum mechanics]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

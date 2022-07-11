@@ -17,11 +17,4 @@
 
 
 
-## Backlinks
 
-> - [](2021-02-21.md)
->   - this one goes out to [[ocell]] #catlife
->   - this one goes out to [[ocell]] #catlife
->   - this one goes out to [[ocell]] #catlife
-
-_Backlinks last generated 2022-01-28 07:55:20_

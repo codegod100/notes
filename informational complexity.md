@@ -5,9 +5,4 @@
 - How do we deal with system with disparate informational complexity
 - 
 
-## Backlinks
 
-> - [](2021-07-11.md)
->   - [[informational complexity]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

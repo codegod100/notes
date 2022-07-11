@@ -20,9 +20,4 @@ my first attempt at [[speculative outline]]
 
 
 
-## Backlinks
 
-> - [](2021-01-18.md)
->   - -	[[notes on communism]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

@@ -15,9 +15,4 @@ Confusing stuff but interesting none the less
 
 
 
-## Backlinks
 
-> - [](notes on quantum mechanics.md)
->   - [[self-locating uncertainty]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

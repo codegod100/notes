@@ -1,8 +1,3 @@
 [[linux]] tool for managing [[disk partition]]s
 
-## Backlinks
 
-> - [](2021-05-07.md)
->   - Found [[ventoy]] that let's you put multiple [[iso image]]s on a boot medium like USB or DVD. Really handy to have a diagnostic iso like [[gparted]] in case something happens.
-
-_Backlinks last generated 2022-01-28 07:55:20_

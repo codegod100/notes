@@ -1,0 +1,3 @@
+- https://energytrust.org/about/
+- >We’ve saved and generated the equivalent to what is needed to power more than all the homes in the Portland Metro area and heat more than all the homes in Lane County.
+-

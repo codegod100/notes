@@ -1,12 +1,3 @@
 - video hosting in the [[fediverse]]
   
   #go https://instances.joinpeertube.org/instances
-## Backlinks
-
-> - [](2021-01-16.md)
->   - [[peertube]]
->    
-> - [](the weed tube.md)
->   - -	I'm uploading files to see if I can import into [[peertube]] because all the peertube instances I'm finding kinda suck for upload
-
-_Backlinks last generated 2022-01-28 07:55:20_

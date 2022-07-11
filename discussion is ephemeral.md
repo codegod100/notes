@@ -13,9 +13,4 @@ they automatically delete chat messages older than a few weeks to discourage rel
 
 convert chats into notes
 
-## Backlinks
 
-> - [](2021-01-11.md)
->   - [[discussion is ephemeral]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

@@ -5,9 +5,3 @@
 		- e.g. my #friend is [[flancian]]
 		  
 		  
-## Backlinks
-
-> - [](2021-05-23.md)
->   - [[tags]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

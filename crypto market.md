@@ -3,9 +3,4 @@ The global crypto market including all the [[blockchain]]s
 
 
 
-## Backlinks
 
-> - [](2022-01-09.md)
->   - [[Kazakhstan]] is experiencing civil unrest which is affecting the [[crypto market]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

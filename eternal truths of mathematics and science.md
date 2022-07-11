@@ -2,9 +2,4 @@
 
 
 
-## Backlinks
 
-> - [](eternal truths of mathematics and science.md)
->   - A pseudo religion I created in high school that essentialy worships [[science]] and [[mathematics]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

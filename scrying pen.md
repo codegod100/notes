@@ -6,9 +6,4 @@ tries to predict what you'll draw next using machine learning
 
 
 
-## Backlinks
 
-> - [](2021-01-11.md)
->   - [[scrying pen]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

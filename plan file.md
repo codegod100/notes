@@ -6,9 +6,4 @@ possible inspiration for [[agora]] [[plan]]
 
 
 
-## Backlinks
 
-> - [](2021-01-11.md)
->   - [[plan file]]
-
-_Backlinks last generated 2022-01-28 07:55:20_

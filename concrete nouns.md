@@ -3,9 +3,4 @@
 
 
 
-## Backlinks
 
-> - [](2021-01-11.md)
->   - [[concrete nouns]]
-
-_Backlinks last generated 2022-01-28 07:55:20_
