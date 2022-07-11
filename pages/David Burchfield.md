@@ -7,4 +7,6 @@
 		- Next step: schedule call with CTO
 - [[Jul 9th, 2022]]
 	- TODO call on monday [[Jul 11th, 2022]]
--
+- [[Jul 11th, 2022]]
+	- Introductions with [[Paul Bursch]] [[Vanessa Burchfield]]
+	-
