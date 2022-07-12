@@ -1,2 +1,5 @@
 - I like that it records a video. [[sembly]] doesn't do this as far as I can tell
--
+- also does a better job at mapping names
+- call quality isn't good on a sample call
+	- TODO check call quality on another call
+	-
