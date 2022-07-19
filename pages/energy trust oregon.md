@@ -1,3 +1,7 @@
 - https://energytrust.org/about/
 - >We’ve saved and generated the equivalent to what is needed to power more than all the homes in the Portland Metro area and heat more than all the homes in Lane County.
+- The board carries out its oversight with guidance from three advisory councils: Conservation Advisory Council, Diversity Advisory Council and Renewable Energy Advisory Council.
+- A volunteer, non-stakeholder board of directors oversees Energy Trust management, provides strategic and policy direction and approves the organization’s budget and major expenditures.
+- 3% public purpose charge "portion" of these funds to energy trust oregon
+	- where do rest of funds go?
 -
