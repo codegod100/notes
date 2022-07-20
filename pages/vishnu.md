@@ -1,0 +1,4 @@
+- [[buddha]]
+- [[mohini]]
+- [[avatars of vishnu]]
+-
