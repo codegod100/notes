@@ -1,0 +1,7 @@
+- It's funny have have so many notes about this but it's emtpy
+- [[mental illness]]
+- eat
+- shower
+- pills
+- water
+-
