@@ -1,10 +1,20 @@
 - panel
+	- Sep-Oct early Nov good times for people to put heads in difficult topics
+	- our needs in alignment before panel
+		- so its not a debate
+		-
 	- veronika
 	- who are you investors
 		- transparency
-		-
+	- founders need a plan
 	- what do they really value
 	- politics
+	- how do you realize/recognize you're victimized, without being a victim
+		- felt on investor and founder side
+		- common mission
+		- focus on outcomes
+			- measurable
+		- without attachments
 - roundtable
 	- rossi
 	- breakout groups
