@@ -1,0 +1,50 @@
+- panel
+	- veronika
+	- who are you investors
+		- transparency
+		-
+	- what do they really value
+	- politics
+- roundtable
+	- rossi
+	- breakout groups
+		- consolidate discussion afterwards
+	- "these are our common needs"
+		- issues that come up regularly
+		-
+- handout/flyer
+	- Time
+	- Diversity, Equity, Inclusion, Antiracism
+	- Zebras Unite PDX Antiracism Equity Inclusion panel discussion
+	- change a kernel of people
+		- they will change other people
+		- panel
+	- blurb
+		- Prosocial investors collaborate to increase change
+			- collaboration
+				- are we exposing ignorant founders to ignorant investors
+				- combined/separate
+					- breakouts
+					- different discussion topics for roles and then bring together
+			- roundtable is zoom
+			- panel cover lot of ground
+				- crowdcast?
+				- setup breakout topics at the end of the panel
+				- topics
+					- prosperity
+						- location based
+						- resource coordination
+						- investors need to
+							- what metric using wage - locality
+								- RESEARCH
+							-
+	- impact
+		- investors
+			- attract people
+			- don't bend over backwards
+			-
+		- prosocial
+	- founders willing to be exposed to dumb ideas
+	-
+	- eventbrite
+	-
