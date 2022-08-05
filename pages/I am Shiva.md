@@ -1,0 +1,7 @@
+- [Atma Shatkam (The song of the Self)](https://en.wikipedia.org/wiki/Atma_Shatkam):
+- I am Consciousness, I am [Bliss](https://en.wikipedia.org/wiki/Satcitananda), I am Shiva, I am Shiva.[[note 11]](https://en.wikipedia.org/wiki/Adi_Shankara#cite_note-77)
+- Without hate, without infatuation, without craving, without greed;Neither arrogance, nor conceit, never jealous I am;Neither_dharma_, nor_artha_, neither_kama_, nor_moksha_am I;I am Consciousness, I am Bliss, I am Shiva, I am Shiva.
+- Without sins, without merits, without elation, without sorrow;Neither mantra, nor rituals, neither pilgrimage, nor Vedas;Neither the experiencer, nor experienced, nor the experience am I,I am Consciousness, I am Bliss, I am Shiva, I am Shiva.
+- Without fear, without death, without discrimination, without caste;Neither father, nor mother, never born I am;Neither kith, nor kin, neither teacher, nor student am I;I am Consciousness, I am Bliss, I am Shiva, I am Shiva.
+- Without form, without figure, without resemblance am I;Vitality of all senses, in everything I am;Neither attached, nor released am I;I am Consciousness, I am Bliss, I am Shiva, I am Shiva.
+- —Adi Shankara, Nirvana Shatakam, Hymns 3–6[[](https://en.wikipedia.org/wiki/Adi_Shankara#cite_note-78)
