@@ -1,1 +1,1 @@
-- a group get-together where there is a teacher and an open question/answer session about dharma related things
+- a group get-together where there is a teacher and an open question/answer session about [[dharma]] related things
