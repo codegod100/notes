@@ -1,0 +1,2 @@
+- Worship of [[lord shiva]]
+- [[vera]] is a shaivst. very close to [[buddhism]]
