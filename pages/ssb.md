@@ -1,0 +1,1 @@
+- secure scuttlebutt [Secure Scuttlebutt - Scuttlebot](https://scuttlebot.io/more/protocols/secure-scuttlebutt.html)
