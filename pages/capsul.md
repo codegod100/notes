@@ -1,3 +1,4 @@
 - [website](https://capsul.org/)
-- servers.coop
+- [servers.coop](https://servers.coop/)
+- [[servers.coop]]
 -
