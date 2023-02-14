@@ -2,3 +2,4 @@
 - makers of [[abra]]
 - [[decentral1se]]
 - [[Co-op Cloud (@coopcloud@social.coop) - social.coop](https://social.coop/@coopcloud)](https://social.coop/@coopcloud)
+- [State of the Co-op Cloud 2023 - Underscore TV](https://tv.undersco.re/w/fNq9vX4oXThyuDbY3ae9vu)
