@@ -1,0 +1,3 @@
+- [CoTech « Cooperative Technologists (coops.tech)](https://www.coops.tech/)
+- [Cooperative Technologists Community Discourse Forum - The CoTech open community news, events and discussion forum (coops.tech)](https://community.coops.tech/)
+-
