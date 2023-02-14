@@ -1,3 +1,4 @@
 - [The Co-op Cloud (coopcloud.tech)](https://coopcloud.tech/)
 - makers of [[abra]]
--
+- [[decentral1se]]
+- [[Co-op Cloud (@coopcloud@social.coop) - social.coop](https://social.coop/@coopcloud)](https://social.coop/@coopcloud)
