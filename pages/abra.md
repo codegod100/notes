@@ -7,3 +7,4 @@
 - [Packaging handbook - Co-op Cloud: Public Interest Infrastructure (coopcloud.tech)](https://docs.coopcloud.tech/maintainers/handbook/)
 - [Operations handbook - Co-op Cloud: Public Interest Infrastructure (coopcloud.tech)](https://docs.coopcloud.tech/operators/handbook/)
 - [Co-op Cloud Recipes (coopcloud.tech)](https://recipes.coopcloud.tech/)
+- [Issues - docs.coopcloud.tech - Co-op Cloud Code](https://git.coopcloud.tech/coop-cloud/docs.coopcloud.tech/issues)
