@@ -6,4 +6,4 @@
 - #Docker [[Coop Cloud]]
 - [Packaging handbook - Co-op Cloud: Public Interest Infrastructure (coopcloud.tech)](https://docs.coopcloud.tech/maintainers/handbook/)
 - [Operations handbook - Co-op Cloud: Public Interest Infrastructure (coopcloud.tech)](https://docs.coopcloud.tech/operators/handbook/)
--
+- [Co-op Cloud Recipes (coopcloud.tech)](https://recipes.coopcloud.tech/)
