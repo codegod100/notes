@@ -3,3 +3,8 @@
 - [[decentral1se]]
 - [[Co-op Cloud (@coopcloud@social.coop) - social.coop](https://social.coop/@coopcloud)](https://social.coop/@coopcloud)
 - [State of the Co-op Cloud 2023 - Underscore TV](https://tv.undersco.re/w/fNq9vX4oXThyuDbY3ae9vu)
+- [coop-cloud/docs.coopcloud.tech: Documentation for the Co-op Cloud project - docs.coopcloud.tech - Co-op Cloud Code](https://git.coopcloud.tech/coop-cloud/docs.coopcloud.tech)
+- [Issues - docs.coopcloud.tech - Co-op Cloud Code](https://git.coopcloud.tech/coop-cloud/docs.coopcloud.tech/issues)
+- [matrix room](https://matrix.to/#/#coopcloud:autonomic.zone?via=autonomic.zone)
+- [The Co-op Cloud | Blogs (coopcloud.tech)](https://coopcloud.tech/blog/)
+-
