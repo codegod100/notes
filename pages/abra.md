@@ -4,4 +4,6 @@
 	- e.g. SOURCES_YML_URL=https://tinyurl.com/2p99y5hr
 - this config creates a single user agora that I use at https://agora.cloud.vera.pink
 - #Docker [[Coop Cloud]]
+- [Packaging handbook - Co-op Cloud: Public Interest Infrastructure (coopcloud.tech)](https://docs.coopcloud.tech/maintainers/handbook/)
+- [Operations handbook - Co-op Cloud: Public Interest Infrastructure (coopcloud.tech)](https://docs.coopcloud.tech/operators/handbook/)
 -
