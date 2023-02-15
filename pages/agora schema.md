@@ -4,7 +4,7 @@
 	- title
 	- content
 	- hasMany Subnodes
-	- hasMany Nodes through Edges
+	- hasMany Nodes through Edge
 - Subnodes
 	- belongsTo Node
 - Users
