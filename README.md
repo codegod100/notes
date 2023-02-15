@@ -5,17 +5,15 @@ You made it to my secret lair, congratulations! 🎉
 - ssb: @UK4I9qaWYtSkBATEBnFxtvbnLadFWVrM9HFNc7XIGw4=.ed25519
 # Virtual places I frequent
 - [Gather](https://gather.town/app/UIn5AAlVh3IUSKiP/home)
-- [vera @Freethinkers.lgbt](https://vera@freethinkers.lgbt)
 - [[matrix]] vera@fairydust.space
-- [fuck-capitalism · GitHub](https://github.com/fuck-capitalism)
-- [twitter](https://twitter.com/moonlion_eth)
+- · GitHub](https://github.com/codegod100)
 # Go links
 - [[go]]
 	- [[books]] https://vera.files.fission.name/p/books
 # Tags
-- #developer
-- #protopian
-- #anarchist
+- #Developer
+- #Protopian
+- #Anarchist
 # Experimental features
 [[agora pull]] [[vera]]
 
