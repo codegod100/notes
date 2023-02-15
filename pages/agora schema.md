@@ -9,6 +9,7 @@
 - Files
 	- content
 	- path
+	- nodeName
 	- belongsTo User
 - Users
 	- name
