@@ -1,5 +1,8 @@
 - Graph
 - Edges
 - Nodes
+	- hasMany Subnodes
+	- hasMany Nodes
 - Subnodes
+	- belongsTo Node
 - Users
