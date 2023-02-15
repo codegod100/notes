@@ -1,7 +1,5 @@
 - Graph
-	- edges
-	- n_edges
-	- node
 - Edges
 - Nodes
 - Subnodes
+-
