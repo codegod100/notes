@@ -2,7 +2,9 @@
 - Edges
 - Nodes
 	- hasMany Subnodes
-	- hasMany Nodes
+	- hasMany Nodes through Edges
 - Subnodes
 	- belongsTo Node
 - Users
+	- name
+	- hasMany Nodes
