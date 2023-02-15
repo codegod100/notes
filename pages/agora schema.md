@@ -1,6 +1,8 @@
 - Graph
 - Edges
 - Nodes
+	- title
+	- content
 	- hasMany Subnodes
 	- hasMany Nodes through Edges
 - Subnodes
