@@ -1,5 +1,7 @@
 - Graph
 - Edges
+	- sourceNode
+	- targetNode
 - Nodes
 	- title
 	- content
