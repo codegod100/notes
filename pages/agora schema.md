@@ -4,11 +4,12 @@
 	- targetNode
 - Nodes
 	- title
-	- content
-	- hasMany Subnodes
+	- hasMany Files
 	- hasMany Nodes through Edge
-- Subnodes
-	- belongsTo Node
+- Files
+	- content
+	- path
+	- belongsTo User
 - Users
 	- name
-	- hasMany Nodes
+	- hasMany Files
