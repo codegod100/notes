@@ -1,4 +1,4 @@
-- Zebras Unite is a member-owned co-operative that’s creating the capital, culture, and community to power a more just and inclusive economy. #card
+- Zebras Unite is a member-owned co-operative that’s creating the capital, culture, and community to power a more just and inclusive economy.
   card-last-interval:: 4
   card-repeats:: 1
   card-ease-factor:: 2.6
