@@ -1,2 +1,2 @@
 - working on pull.go
--
+- {{embed [[go build]]}}
