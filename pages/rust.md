@@ -1,0 +1,4 @@
+- logging
+	- https://github.com/borntyping/rust-simple_logger
+- git
+	- https://github.com/rust-lang/git2-rs
