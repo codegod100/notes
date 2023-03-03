@@ -1,0 +1,2 @@
+- https://autonomic.zone/
+- main steward of [[Coop Cloud]]
