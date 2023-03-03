@@ -4,4 +4,9 @@
 - [[2023-03-03]]
 	- first meeting of coop cloud federation
 	- objective of the meeting was mostly meet and greet. we broke out into rooms on jitsi
-	-
+		- finance room
+			-
+		- tech room
+			-
+-
+-
