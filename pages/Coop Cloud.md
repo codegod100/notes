@@ -7,4 +7,4 @@
 - [matrix room](https://matrix.to/#/#coopcloud:autonomic.zone?via=autonomic.zone)
 - [The Co-op Cloud | Blogs (coopcloud.tech)](https://coopcloud.tech/blog/)
 -
--
+- [[coop cloud federation]]
