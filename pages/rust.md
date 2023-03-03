@@ -7,4 +7,5 @@
 		- experiment on threading
 	- https://gist.github.com/codegod100/aed9adf5bd8298f241ad0a21589d8361
 		- experiment using git2 rust library
--
+- database orm
+	- https://diesel.rs/
