@@ -1,0 +1,2 @@
+- Trying to install on arch linux
+- https://github.com/SerenityOS/serenity
