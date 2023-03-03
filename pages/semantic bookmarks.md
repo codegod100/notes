@@ -1,1 +1,2 @@
-- idea I came up with that is like a bookmark manager but it
+- idea I came up with that is like a bookmark manager but it deep links your bookmarks together in a [[semantic graph]] rather than just a folder hierarchy
+-
