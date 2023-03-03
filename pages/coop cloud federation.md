@@ -3,11 +3,16 @@
 	- also a distributed funding model
 - [[2023-03-03]]
 	- first meeting of coop cloud federation
+		- meeting notes
+		- https://pad.autonomic.zone/XVhRKvAaRHmaEIR14KBxLA
 	- objective of the meeting was mostly meet and greet. we broke out into rooms on jitsi
 		- finance room
+			- https://pad.autonomic.zone/iJjdpX-3QdeD8TacJe5Qnw
 			- federated model has been tried before, can be difficult
 			- start with #PayWhatYouCan see where it goes next meeting
 		- tech room
+			- https://pad.autonomic.zone/CMPv96RNQf-qapA1xyQiGg
 			-
+-
 -
 -
