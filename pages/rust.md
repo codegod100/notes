@@ -3,6 +3,7 @@
 - git
 	- https://github.com/rust-lang/git2-rs
 - gist
+	- https://gist.github.com/codegod100/7480a3d01cd07b14805b05dd378985a5
+		- experiment on threading
 	-
--
 -
