@@ -2,5 +2,3 @@
 
 chrome and [[firefox]] versions
 multiple login to single site
-
-

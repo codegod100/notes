@@ -2,6 +2,4 @@
 	- an unambiguous definition, the original markdown contained multiple ambiguities
 - #go https://commonmark.org/
 - parser included in [[atjson]]
-- 
-
-
+-

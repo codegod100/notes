@@ -9,5 +9,3 @@ Fedi reddit
 It looks like it's a federated groups thing so let's keep our eye on the progression of that space
 
 Kinda slow and low featured but looks promising
-
-

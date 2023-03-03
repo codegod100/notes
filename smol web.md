@@ -3,7 +3,3 @@
 	- [[gemini protocol]]
 	- [[gopher protocol]]
 	- [[finger protocol]]
-
-
-
-

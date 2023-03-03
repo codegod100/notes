@@ -1,4 +1,3 @@
 #go https://tinyseed.com/
 
->The First Accelerator for Ambitious SaaS Bootstrappers 
-
+>The First Accelerator for Ambitious SaaS Bootstrappers

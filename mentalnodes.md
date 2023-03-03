@@ -8,5 +8,3 @@
 *	Connect: Link to previous notes. [Do not keep orphan notes](https://www.mentalnodes.com/do-not-keep-orphan-notes).
 *	Create: Write original article.
 *	"It's less than a blog, more than a tweet."
-
-

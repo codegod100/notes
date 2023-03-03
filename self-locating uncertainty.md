@@ -12,7 +12,3 @@ Confusing stuff but interesting none the less
 
 
 >In Everettian quantum mechanics, the wave function branches when the system becomes sufficiently entangled with the environment to produce decoherence
-
-
-
-

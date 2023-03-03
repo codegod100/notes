@@ -2,6 +2,3 @@
 - [[ipfs gateway]]
 - [[ipfs]]
 - [[nft minter]]
-
-
-

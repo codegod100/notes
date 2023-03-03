@@ -4,5 +4,3 @@
   Full featured [[fedi server]] from Japan
   
   Lots of features not present in other fedi servers
-  
-  

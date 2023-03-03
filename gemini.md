@@ -4,7 +4,5 @@ A cool project somewhere between gopher and the modern web. I've mostly seen it 
 
  [[gemini protocol]]
 
-
- # browsers
+# browsers
  [[lagrange]]: https://git.skyjake.fi/gemini/lagrange/releases
-

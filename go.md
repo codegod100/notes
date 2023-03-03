@@ -1,2 +1,0 @@
-- an [[ancient game]]
-- the [[golang]] programming language
