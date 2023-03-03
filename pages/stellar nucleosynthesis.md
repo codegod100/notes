@@ -1,0 +1,11 @@
+- https://www.thoughtco.com/stellar-nucleosynthesis-269931
+- Carbon plus helium produces oxygen.
+- Oxygen plus helium produces neon.
+- Neon plus helium produces magnesium.
+- Magnesium plus helium produces silicon.
+- Silicon plus helium produces sulfur.
+- Sulfur plus helium produces argon.
+- Argon plus helium produces calcium.
+- Calcium plus helium produces titanium.
+- Titanium plus helium produces chromium.
+- Chromium plus helium produces iron.
