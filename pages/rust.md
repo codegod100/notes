@@ -5,5 +5,6 @@
 - gist
 	- https://gist.github.com/codegod100/7480a3d01cd07b14805b05dd378985a5
 		- experiment on threading
-	-
+	- https://gist.github.com/codegod100/aed9adf5bd8298f241ad0a21589d8361
+		- experiment using git2 rust library
 -
