@@ -1,3 +1,5 @@
+- An initiative
 - [[2023-03-03]]
-	- first meeting of coop cloud federation meeting
-	- we mostly
+	- first meeting of coop cloud federation
+	- objective of the meeting was mostly meet and greet. we broke out into rooms on jitsi
+	-
