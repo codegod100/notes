@@ -1,4 +1,6 @@
-- An initiative
+- An initiative by [[autonomic coop]]
+	- they want to get consensus on changes so that everyone is happy
+	- also a distributed funding model
 - [[2023-03-03]]
 	- first meeting of coop cloud federation
 	- objective of the meeting was mostly meet and greet. we broke out into rooms on jitsi
