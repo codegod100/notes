@@ -5,7 +5,8 @@
 	- first meeting of coop cloud federation
 	- objective of the meeting was mostly meet and greet. we broke out into rooms on jitsi
 		- finance room
-			-
+			- federated model has been tried before, can be difficult
+			- start with #PayWhatYouCan see where it goes next meeting
 		- tech room
 			-
 -
