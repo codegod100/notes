@@ -1,0 +1,1 @@
+- found https://en.wikipedia.org/wiki/Semantic_network today, reminded me of the agora
