@@ -1,0 +1,3 @@
+- [[2023-03-03]]
+	- first meeting of coop cloud federation meeting
+	- we mostly
