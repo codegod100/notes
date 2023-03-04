@@ -1,6 +1,7 @@
 - I've been working on various versions of garden downloader
 	- the thing that downloads all the git files for the agora
 	- these are very alpha so please be kind
+	- both of these also build an [[agora database]]
 - [[golang]]
 	- https://github.com/codegod100/agora-bridge/blob/docker/pull.go
 - [[rust]]
