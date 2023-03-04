@@ -4,7 +4,8 @@
 		- using canopy
 			- http://canopy.jcoglan.com/langs/python.html
 - rust
-- https://git.anagora.org/vera/mycorust
-	- very alpha
-	- formal grammar
-		- https://git.anagora.org/vera/mycorust/src/branch/yolo/src/block.pest
+	- https://git.anagora.org/vera/mycorust
+		- using [[pest]]
+		- very alpha
+		- formal grammar
+			- https://git.anagora.org/vera/mycorust/src/branch/yolo/src/block.pest
