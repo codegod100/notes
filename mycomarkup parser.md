@@ -1,11 +1,11 @@
 - I have two parsers I've started working on, both of them are using [[PEG grammar]]
 - python
 	- https://git.anagora.org/vera/myco
-		- using canopy
+		- using [[canopy]]
 			- http://canopy.jcoglan.com/langs/python.html
 - rust
 	- https://git.anagora.org/vera/mycorust
-		- using [[pest]]
+		- using [[pest]] https://docs.rs/pest/latest/pest/
 		- very alpha
 		- formal grammar
 			- https://git.anagora.org/vera/mycorust/src/branch/yolo/src/block.pest
