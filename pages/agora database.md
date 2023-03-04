@@ -1,2 +1,4 @@
 - The agora is getting rather large so maybe it's time for a databse?
--
+- I've been experimenting with different implementations of building the database at [[garden downloader]]
+	- each of them downloads the git files and builds a [[sqlite]] database
+- I also have a fork
