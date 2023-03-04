@@ -1,9 +1,9 @@
 - I have two parsers I've started working on, both of them are using [[PEG grammar]]
-- python
+- [[python]]
 	- https://git.anagora.org/vera/myco
 		- using [[canopy]]
 			- http://canopy.jcoglan.com/langs/python.html
-- rust
+- [[rust]]
 	- https://git.anagora.org/vera/mycorust
 		- using [[pest]] https://docs.rs/pest/latest/pest/
 		- very alpha

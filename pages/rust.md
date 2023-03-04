@@ -1,3 +1,6 @@
+- my projects
+	- [[garden downloader]]
+	- [[mycomarkup parser]]
 - logging
 	- https://github.com/borntyping/rust-simple_logger
 - git
@@ -9,6 +12,3 @@
 		- experiment using git2 rust library
 - database orm
 	- https://diesel.rs/
-- my projects
-	- [[garden downloader]]
-	-
