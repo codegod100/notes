@@ -1,10 +1,9 @@
-- I have two parsers I've started working on
+- I have two parsers I've started working on, both of them are using [[PEG grammar]]
 - python
 	- https://git.anagora.org/vera/myco
-http://canopy.jcoglan.com/langs/python.html
-
+		- using canopy
+			- http://canopy.jcoglan.com/langs/python.html
 - rust
-- I'm working on a [[rust]] parser for [[mycomarkup]]
 - https://git.anagora.org/vera/mycorust
 	- very alpha
 	- formal grammar
