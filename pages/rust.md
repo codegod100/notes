@@ -9,3 +9,5 @@
 		- experiment using git2 rust library
 - database orm
 	- https://diesel.rs/
+- peg parser
+	- https://github.com/kevinmehall/rust-peg
