@@ -1,6 +1,4 @@
 - [[agora containers]]
 - [[agora ext]]
-- [[agora-server]]
+- [[agora server]]
 - [[agora ctzn]]
-
-
