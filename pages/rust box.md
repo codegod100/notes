@@ -1,0 +1,2 @@
+- https://doc.rust-lang.org/stable/book/ch15-01-box.html
+- box in rust allows you to store data on the heap instead of the stack
