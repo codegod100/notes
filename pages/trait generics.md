@@ -1,0 +1,2 @@
+- https://stackoverflow.com/questions/27957103/how-do-i-create-a-heterogeneous-collection-of-objects
+-
