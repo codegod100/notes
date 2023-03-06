@@ -1,6 +1,6 @@
 - projects
 	- [[agora server]]
 	- [[mycomarkup parser]]
-		- [[rust|yolo]] version is better though
+		- [rust version](rust) version is better though
 -
 -
