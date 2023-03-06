@@ -1,3 +1,5 @@
+- [[wikimedia-style links]]
+- [[wikitext]]
 - im also tempted to rebrand wikilinks
 	- it's kinda a weird word
 	- it's not the selling point for people to join the [[agora]] I thought it was going to be
@@ -5,6 +7,5 @@
 - potential alternative names
 	- netlinks
 	-
-- [[wikimedia-style links]]
-- [[wikitext]]
+-
 -
