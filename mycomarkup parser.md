@@ -11,8 +11,4 @@
 		- formal grammar
 			- https://git.anagora.org/vera/mycorust/src/branch/yolo/src/block.pest
 	- I'm planning on turning this into a [[wasm]] module and maybe use with [https://github.com/wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) in [[agora server]]
-	- can also just make a native python extension with [[py03]]
-		- python rust bindings
-		- https://www.maturin.rs/index.html
-			- [This project is meant as a zero configuration replacement for setuptools-rust and milksnake. It supports building wheels for python 3.5+ on windows, linux, mac and freebsd, can upload them to pypi and has basic pypy support.](https://www.maturin.rs/index.html)
 -
