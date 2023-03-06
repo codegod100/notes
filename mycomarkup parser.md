@@ -2,7 +2,7 @@
 - [[python]]
 	- https://git.anagora.org/vera/myco
 		- using [[canopy]]
-			- http://canopy.jcoglan.com/langs/python.html
+			-
 - [[rust]]
 	- https://git.anagora.org/vera/mycorust
 		- I ended up converting to a native python extension with [[py03]]
