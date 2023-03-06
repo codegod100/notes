@@ -1,0 +1,1 @@
+- https://www.neowin.net/news/microsoft-edge-canary-can-now-upscale-low-resolution-videos/
