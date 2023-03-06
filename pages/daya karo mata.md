@@ -5,7 +5,7 @@
 - om mata om mata om mata anandamayii
 -
 - https://mantraslandes.wixsite.com/mantras-landes/chants-61-a-70
--
+- #Mantra #Hindu #Ma
 -
 - "Have mercy, Mother Amba, have mercy, Mother.
 - Show mercy, Mother, protect us, Mother.
