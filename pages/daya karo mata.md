@@ -1,0 +1,7 @@
+- Daya karo mata amba kripa karo janani
+- Kripa karo mata amba raksha karo janani
+- Kalyana ru-upini ka-ali kapa-alini
+- Kar'na mayi amba mam pa-ahi
+- om mata om mata om mata anandamayii
+-
+- https://mantraslandes.wixsite.com/mantras-landes/chants-61-a-70
