@@ -1,3 +1,3 @@
 - https://github.com/jsepia/markdown-it-wikilinks
-- renders [[wikimedia style links]]
+- renders [[wikimedia-style links]]
 -

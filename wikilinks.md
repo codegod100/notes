@@ -5,4 +5,4 @@
 - potential alternative names
 	- netlinks
 	-
-- [[wikimedia style links]]
+- [[wikimedia-style links]]
