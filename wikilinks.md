@@ -4,7 +4,5 @@
 - wikilinks are cool, I just feel like they need a cooler name
 - potential alternative names
 	- netlinks
-	- 
-
-
-
+	-
+- [[wikimedia style links]]

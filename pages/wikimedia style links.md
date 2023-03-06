@@ -1,1 +1,2 @@
 - https://www.mediawiki.org/wiki/Help:Links#Internal_links
+- a.k.a. [[wikilinks]]
