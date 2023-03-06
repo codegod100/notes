@@ -6,9 +6,8 @@
 - [[rust]]
 	- https://git.anagora.org/vera/mycorust
 		- I ended up converting to a native python extension with [[py03]]
-		- using [[pest]] https://docs.rs/pest/latest/pest/
+		- using [[pest]]
 		- very alpha
 		- formal grammar
 			- https://git.anagora.org/vera/mycorust/src/branch/yolo/src/block.pest
-	- I'm planning on turning this into a [[wasm]] module and maybe use with [https://github.com/wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) in [[agora server]]
--
+	- maybe use [[wasmer python]]
