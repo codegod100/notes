@@ -1,0 +1,1 @@
+- https://github.com/jsepia/markdown-it-wikilinks
