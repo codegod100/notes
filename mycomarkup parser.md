@@ -5,6 +5,7 @@
 			- http://canopy.jcoglan.com/langs/python.html
 - [[rust]]
 	- https://git.anagora.org/vera/mycorust
+		- I ended up converting to a native python extension with [[py03]]
 		- using [[pest]] https://docs.rs/pest/latest/pest/
 		- very alpha
 		- formal grammar
