@@ -1,4 +1,6 @@
 - https://www.mediawiki.org/wiki/Help:Links#Internal_links
+- https://en.wikipedia.org/wiki/Help:Wikitext#Wikilinks
 - a.k.a. [[wikilinks]]
 - [[commonmark doesn't support wikilinks]]
+- [[wikitext]]
 -

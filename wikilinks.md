@@ -6,3 +6,5 @@
 	- netlinks
 	-
 - [[wikimedia-style links]]
+- [[wikitext]]
+-
