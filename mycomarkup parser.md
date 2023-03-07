@@ -1,3 +1,4 @@
+- [[mycomarkup]]
 - I have two parsers I've started working on, both of them are using [[PEG grammar]]
 - [[python]]
 	- https://git.anagora.org/vera/myco
@@ -12,4 +13,3 @@
 		- formal grammar
 			- https://git.anagora.org/vera/mycorust/src/branch/yolo/src/block.pest
 	- maybe use [[wasmer python]]
--
