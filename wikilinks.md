@@ -1,4 +1,4 @@
-- [[wikimedia-style links]]
+- [[mediawiki-style links]]
 - [[wikitext]]
 - im also tempted to rebrand wikilinks
 	- it's kinda a weird word

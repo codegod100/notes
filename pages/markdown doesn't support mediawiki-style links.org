@@ -1,4 +1,4 @@
-* [[wikimedia-style links]]
+* [[mediawiki-style links]]
 * [[markdown]]
 * [[too many markdown flavors]]
 *

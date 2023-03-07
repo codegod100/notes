@@ -1,5 +1,5 @@
 - https://orgmode.org/
-- supports [[wikimedia-style links]]
+- supports [[mediawiki-style links]]
 	- https://orgmode.org/manual/Link-Format.html
 - [[logseq supports org mode]]
 - [[org mode supports mediawiki-style links]]
