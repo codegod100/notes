@@ -3,5 +3,8 @@
 	- https://orgmode.org/manual/Link-Format.html
 - [[logseq supports org mode]]
 - [[org mode supports mediawiki-style links]]
-- [[orgize]]
+- #Rust parsers
+	- [[orgize]]
+	- [[org-rs]]
+	-
 -
