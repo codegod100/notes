@@ -1,2 +1,3 @@
 * I was frustrated because I tried to install [[grep]] using [[winget]] but it wasn't available
-* It wor
+* It worked using [[chocolatey]]
+*
