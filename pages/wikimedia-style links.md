@@ -3,4 +3,5 @@
 - a.k.a. [[wikilinks]]
 - [[commonmark doesn't support wikilinks]]
 - [[wikitext]]
+- [[org mode]] supports this style link
 -

@@ -1,0 +1,3 @@
+- https://orgmode.org/
+- supports [[wikimedia-style links]]
+	- https://orgmode.org/manual/Link-Format.html
