@@ -2,4 +2,5 @@
 - [[github]] [[wiki]] engine
 - #Ruby
 - uses [[kramdown]]
+- >**Note: Gollum's tag syntax `[[tag]]` conflicts with asciidoc's bookmark syntax. On Asciidoc pages, gollum's support for tags is thus turned off by default. See [here](https://github.com/gollum/gollum/wiki/Customizing-rendering-settings) for more info on how to turn it on.**
 -
