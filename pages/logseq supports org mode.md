@@ -1,1 +1,2 @@
-- I learned this today
+- I learned this today [[2023-03-06]]
+-
