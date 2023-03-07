@@ -1,0 +1,2 @@
+* I have been doing some research today and came to the conclusion that [[I don't like markdown]] because [[markdown doesn't support mediawiki-style links]].
+*
