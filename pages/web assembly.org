@@ -1,5 +1,6 @@
 * [[wasmer]]
 * [[WAPM]]
 * [[WebAssembly.sh]]
+* [[wasm-pack]]
 *
 *
