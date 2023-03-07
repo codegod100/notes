@@ -1,0 +1,2 @@
+* command in [[powershell]] that will refresh your environment variables
+*
