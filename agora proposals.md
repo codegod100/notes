@@ -5,15 +5,8 @@
 	- pull in all linked [[wikilinks]] without having to use #pull action
 	- [[flancia collective]] or flancia coop
 		- I kinda kinda coop because it's shorter to type and less intimidating
-		
 - proposal types
 	- multiple choice
 	- yes/no
-
-
 - Links to proposals
-	- 
-
-
-
-
+	-

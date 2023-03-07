@@ -1,3 +1,1 @@
 #pull [[Nassim Taleb]]
-
-
