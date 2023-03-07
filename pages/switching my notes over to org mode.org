@@ -1,3 +1,4 @@
 * I have been doing some research today and came to the conclusion that [[I don't like markdown]] because [[markdown doesn't support mediawiki-style links]].
+* [[markdown alternatives]]
 * From today [[2023-03-06]] my notes in [[logseq]] will be in [[org mode]] as defiance
 *
