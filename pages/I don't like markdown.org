@@ -1,2 +1,5 @@
-* There are a number of reasons
+* There are two main reasons
+** [[too many markdown flavors]]
+** [[markdown doesn't support mediawiki-style links]]
 **
+*
