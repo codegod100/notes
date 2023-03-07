@@ -4,5 +4,3 @@ concept that [[flancian]] and I came up with where we list interesting things we
 [[ansi art]]
 
 I found this the other day but I'm adding under today's date because I can
-
-

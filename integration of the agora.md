@@ -13,5 +13,3 @@ Here's an outline for possible [[twitter]]/[[mastodon]] integration
   Remaining problems:
 - how do we store data?
 - if we push data to the [[agora]] more than once for same user for same wikilink does it override the note?
-  
-  

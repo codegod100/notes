@@ -11,6 +11,3 @@ https://docs.bandchain.org/
 still in testnet phase
 
 [[blockchain]]
-
-
-
