@@ -1,3 +1,4 @@
 * https://github.com/PoiScript/orgize
-* A #Rust library for parsing orgmode files
+* A #Rust library for parsing [[org mode]] files
+*
 *
