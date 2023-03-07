@@ -7,4 +7,5 @@
 	- [[orgize]]
 	- [[org-rs]]
 	-
+- [[blogs and wikis with org]]
 -
