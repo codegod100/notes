@@ -1,4 +1,5 @@
 * I've been using [[find]] a lot recently to find files in my [[user home]]
 * I really like that it has recursive behavior by default so I can do something like
-** `find . -name "sample.myco"`
-*
+* ```
+find . -name "sample.myco"
+```
