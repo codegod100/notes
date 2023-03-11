@@ -5,4 +5,5 @@
 * Thinking about adding an #InterestingLinks section to my journals
 ** [[https://www.toml-lint.com/][TOML Lint - The TOML Validator (toml-lint.com)]]
 * [[microsoft edge paste settings]]
+* [[rust is solarpunk]]
 *
