@@ -1,3 +1,5 @@
 * there is no [[garbage collection]] in rust
 * why?
+* [[there is no garbage]]
+* you process your own waste
 *
