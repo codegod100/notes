@@ -1,2 +1,1 @@
-- [[meetings 2021-05-20]] thurs
-- [[meetings 2021-05-21]] friday
+*
