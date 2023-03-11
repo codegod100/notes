@@ -1,3 +1,5 @@
-* `edge://settings/?search=paste`
+* ```
+edge://settings/?search=paste
+```
 *
 *
