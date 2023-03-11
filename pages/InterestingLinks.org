@@ -1,1 +1,2 @@
 * Hashtag I'm using to signal interesting links for journal pages
+* Ostensibly I can click the tag and have this page backlink to all my entries with interesting links
