@@ -4,5 +4,3 @@
 * [[windows nightlight saves my eyes]]
 * Thinking about adding an #InterestingLinks section to my journals
 ** https://www.toml-lint.com/
-** https://www.toml-lint.com/
-*
