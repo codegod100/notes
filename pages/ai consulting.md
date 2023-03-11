@@ -1,4 +1,0 @@
-- thinking about creating an ai consulting business or maybe cooperative
-- [[ai cooperative]]
-- [[ideal ai projects]]
--

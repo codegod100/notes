@@ -1,3 +1,0 @@
-- [[Jul 9th, 2022]]
-	- TODO find cooperatives
-	-
