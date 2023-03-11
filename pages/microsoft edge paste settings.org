@@ -1,2 +1,3 @@
 * edge://settings/?search=paste
 *
+*
