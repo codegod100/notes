@@ -1,3 +1,4 @@
 * Experiment that I'm gonna try where I create a hashtag for single (maybe double) word tokens
 * I'm not sure why but it seems fun
-** I think the reason is because I want to encourage myself to use #wikilinks
+** I think the reason is because I want to encourage myself to use #wikilinks for things that require for complex topics.
+** I'm tired of using my garden as a
