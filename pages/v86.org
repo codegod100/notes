@@ -1,3 +1,5 @@
 * https://github.com/copy/v86
 * x86 virtualization in your browser, recompiling x86 to [[wasm]] on the fly
-**
+* https://copy.sh/v86/
+** Operating system on the console
+*
