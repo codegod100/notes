@@ -1,5 +1,6 @@
 * [[windows terminal is open source]]
 * [[the find program is recursive by default]]
-*
+* [[I think I'm going to start using hashtags for single word links]]
 * [[windows nightlight saves my eyes]]
+*
 *
