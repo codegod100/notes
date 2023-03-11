@@ -1,5 +1,6 @@
-* https://git.anagora.org/vera/orgora/src/branch/yolo/src/bin
+* https://git.anagora.org/vera/orgora
 * #rust
 * [[org mode parser]]
 * [[org mode]]
+*
 *
