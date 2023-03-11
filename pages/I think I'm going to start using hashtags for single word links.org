@@ -1,1 +1,3 @@
-* Experiment that I'm gonna try where I
+* Experiment that I'm gonna try where I create a hashtag for single (maybe double) word tokens
+* I'm not sure why but it seems fund
+*
