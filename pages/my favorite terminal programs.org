@@ -1,4 +1,5 @@
 * list of programs I usually install on every machine
 * [[starship]]
 * [[mcfly]]
+* [[windows terminal is open source]]
 *
