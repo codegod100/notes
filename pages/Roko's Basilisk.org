@@ -1,3 +1,4 @@
 * [[https://en.wikipedia.org/wiki/Roko%27s_basilisk][Roko's basilisk - Wikipedia]]
 * > *Roko's basilisk* is a [[https://en.wikipedia.org/wiki/Thought_experiment][thought experiment]] which states that an otherwise benevolent [[https://en.wikipedia.org/wiki/Superintelligence][artificial superintelligence]] (AI) in the future would be incentivized to create a [[https://en.wikipedia.org/wiki/Virtual_reality][virtual reality]] simulation to torture anyone who knew of its potential existence but did not directly contribute to its advancement or development.
-*
+* I often times think about this.
+** It is both nonsense and scary at the same time
