@@ -15,5 +15,6 @@
 * [[Roko's Basilisk]]
 * #InterestingQuotes
 ** > De Icaza was criticized by [[https://en.wikipedia.org/wiki/Richard_Stallman][Richard Stallman]] on the [[https://en.wikipedia.org/wiki/Software_Freedom_Day][Software Freedom Day]] 2009, who labeled him as "Traitor to the Free Software Community".[[https://en.wikipedia.org/wiki/Miguel_de_Icaza#cite_note-19][[19]]] Icaza responded on his blog to Stallman with the remark that he believes in a "world of possibility" and that he is open for discussions on ways to improve the pool of [[https://en.wikipedia.org/wiki/Free_and_open-source_software][open source and free software]]
-* [[orgora]]
+* #RecentProjects
+** [[orgora]]
 *
