@@ -1,4 +1,4 @@
 * compiling python extensions in rust is slightly non trivial
 * note to self
 ** use github actions
-***
+** twine upload file_name.whl
