@@ -1,0 +1,1 @@
+* In case something happens to me, all my code that doesn't have an explicit license is under MIT

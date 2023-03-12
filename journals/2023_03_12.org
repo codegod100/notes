@@ -11,4 +11,5 @@
 ** currently [[orgora]] needs rust installed to compile on machine
 *** use https://github.com/PyO3/maturin#manylinux-and-auditwheel to setup binary distribution
 * [[python publishing]]
+* [[all my code is MIT license by default]]
 *
