@@ -7,11 +7,11 @@
 * #InterestingQuotes
 ** > The *Carrington Event* was the most intense [[https://en.wikipedia.org/wiki/Geomagnetic_storm][geomagnetic storm]] in recorded history, peaking from 1 to 2 September 1859 during [[https://en.wikipedia.org/wiki/Solar_cycle_10][solar cycle 10]]. It created strong [[https://en.wikipedia.org/wiki/Aurora][auroral]] displays that were reported globally[[https://en.wikipedia.org/wiki/Carrington_Event#cite_note-kimball60-1][[1]]] and caused sparking and even fires in multiple [[https://en.wikipedia.org/wiki/Telegraph][telegraph]] stations.
 ** > If I had to choose a religion, the sun as the universal giver of life would be my god. -- Napoléon Bonaparte
-** >
 ** > “Ambition is a poor excuse for not having sense enough to be lazy.” ― *Edgar Bergen*
 * #TODO
 ** currently [[orgora]] needs rust installed to compile on machine
 *** use https://github.com/PyO3/maturin#manylinux-and-auditwheel to setup binary distribution
 * [[python publishing]]
 * [[all my code is MIT license by default]]
+*
 *
