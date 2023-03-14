@@ -1,1 +1,2 @@
 * #InterestingLinks
+** [[https://maggieappleton.com/wtf-rust][What the Fork is Rust? (maggieappleton.com)]]
