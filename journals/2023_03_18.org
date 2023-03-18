@@ -16,6 +16,9 @@
 ***** PCA
 ***** different graph libraries
 *** the .. of science
-**** database of
+**** database of artists; relations between them
+**** 3d
+**** wanting to find demo
+****
 **
 *
