@@ -1,3 +1,5 @@
 * #InterestingLinks
 ** [[https://github.com/Canop/broot][Canop/broot: A new way to see and navigate directory trees : https://dystroy.org/broot (github.com)]]
 ** [[https://github.com/rust-unofficial/awesome-rust][rust-unofficial/awesome-rust: A curated list of Rust code and resources. (github.com)]]
+* #NotesToSelf
+** I forgot #cargo
