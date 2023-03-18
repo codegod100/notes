@@ -12,5 +12,8 @@
 * #FlanciaMeet #Meetings
 ** j0lms
 *** [[https://github.com/danaugrs/go-tsne][https://github.com/danaugrs/go-tsne]]
+**** flancian
+***** PCA
+*****
 **
 *
