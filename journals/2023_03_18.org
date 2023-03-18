@@ -10,5 +10,6 @@
 ** Interesting app that acts like #Tmux written in #Rust
 * [[org mode hyper links]]
 * #FlanciaMeet
+** Jolm
 ** [[https://github.com/danaugrs/go-tsne][https://github.com/danaugrs/go-tsne]]
 **
