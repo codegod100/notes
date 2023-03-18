@@ -9,7 +9,7 @@
 ** [[https://zellij.dev/][Zellij website]]
 ** Interesting app that acts like #Tmux written in #Rust
 * [[org mode hyper links]]
-* #FlanciaMeet
+* #FlanciaMeet #Meetings
 ** j0lms
 *** [[https://github.com/danaugrs/go-tsne][https://github.com/danaugrs/go-tsne]]
 **
