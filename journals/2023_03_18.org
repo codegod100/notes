@@ -23,5 +23,7 @@
 ****
 ** flancian
 *** making agora more user friendly #AgoraUsers
-**** user models for
+**** open/closed model
+**** want agora to exist outside a particular user model
+****
 *
