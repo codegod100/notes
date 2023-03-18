@@ -5,4 +5,5 @@
 ** I forgot `cargo install` compiles everything. So while convenient, it can be quite slow. Maybe just install binaries?
 * #Pijul
 ** I've been watching this app for awhile. It will be interesting what they get up to. I like that it's in rust but I don't hear much news about it. I don't think there's enough there to switch from git
-*
+* #Zellij
+**
