@@ -4,7 +4,7 @@
 	- https://git.anagora.org/vera/myco
 		- using [[canopy]]
 			-
-- [[rust]]
+- [[Rust]]
   id:: 6403b57b-b13d-4391-88af-c78dbdbf2c3d
 	- https://git.anagora.org/vera/mycorust
 		- I ended up converting to a native python extension with [[py03]]

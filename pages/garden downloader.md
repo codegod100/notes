@@ -4,6 +4,6 @@
 	- both of these also build an [[agora database]]
 - [[golang]]
 	- https://github.com/codegod100/agora-bridge/blob/docker/pull.go
-- [[rust]]
+- [[Rust]]
 	- https://git.anagora.org/vera/garden/src/branch/yolo/src/main.rs
 -

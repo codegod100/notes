@@ -1,5 +1,5 @@
 * https://git.anagora.org/vera/orgora
-* #rust
+* #Rust
 * [[org mode parser]]
 * [[org mode]]
 *

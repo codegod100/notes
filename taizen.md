@@ -1,6 +1,2 @@
--	[[cli]] [[wikipedia]] client written in [[rust]]
--	https://github.com/NerdyPepper/taizen
-
-
-
-
+- [[cli]] [[wikipedia]] client written in [[Rust]]
+- https://github.com/NerdyPepper/taizen
