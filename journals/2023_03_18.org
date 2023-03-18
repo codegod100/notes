@@ -8,4 +8,5 @@
 * #Zellij
 ** [[https://zellij.dev/][Zellij website]]
 ** Interesting app that acts like #Tmux written in #Rust
+* [[org mode hyper links]]
 *
