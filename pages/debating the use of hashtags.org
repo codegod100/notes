@@ -1,2 +1,3 @@
 * I was trying an experiment where I was using hashtags to denote single and double letter words
-* I'm not so sure about this experiment anymore since I like using [[org mode]] and o
+* I'm not so sure about this experiment anymore since I like using [[org mode]] and [[org mode doesn't support hashtags]] in the spec
+*

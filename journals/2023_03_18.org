@@ -28,4 +28,6 @@
 *** paramita
 * [[identity in a user centric model]]
 * [[debating the use of hashtags]]
+** mostly because [[org mode doesn't support hashtags]]
+**
 *
