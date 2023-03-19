@@ -1,1 +1,2 @@
-* I've started hiding brackets in [[logseq]]
+* I've started hiding brackets in [[logseq]] because I'm trying a mental experiment to blur the lines between internal links and external links to see what it does to my writing style
+*
