@@ -7,6 +7,7 @@
 ** peertube
 ** etc...
 * User model
-** there are just people
+** there are just people connecting with other people without any inherent "community" aspect
+*** the downside to this model is that in
 ** git
 ** blockchain
