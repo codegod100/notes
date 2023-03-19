@@ -30,4 +30,5 @@
 * [[debating the use of hashtags]]
 ** mostly because [[org mode doesn't support hashtags]]
 **
+* [[hiding brackets in logseq]]
 *
