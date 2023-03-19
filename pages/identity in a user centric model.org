@@ -8,6 +8,6 @@
 ** etc...
 * User model
 ** there are just people connecting with other people without any inherent "community" aspect
-*** the downside to this model is that in
+*** the downside to this model is that in order to have community one somewhat artificially synthesize a community model since the other models come with a cio
 ** git
 ** blockchain
