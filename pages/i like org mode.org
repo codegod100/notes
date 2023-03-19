@@ -1,0 +1,1 @@
+* I like [[org mode]] mostly because [[wikilinks]] or [[hyperlinks]] as they're called in org mode.
