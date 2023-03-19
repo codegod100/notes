@@ -1,2 +1,2 @@
-* hash tags are actually in the org spec
-*
+* hash tags aren't actually in the org spec
+* [[https://orgmode.org/manual/index.html][The Org Manual (orgmode.org)]]
