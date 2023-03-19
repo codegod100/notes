@@ -1,3 +1,8 @@
 * Three tiers of social power
 * Twitter model
-*
+* Fediverse model
+** mastodon
+**
+* User model
+** git
+** blockchain
