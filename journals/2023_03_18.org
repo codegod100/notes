@@ -26,4 +26,5 @@
 **** open/closed model
 **** want agora to exist outside a particular user model
 *** paramita
+* [[identity in a user centric model]]
 *
