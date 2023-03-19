@@ -2,10 +2,11 @@
 * Twitter model
 ** one website, one corporation
 * Fediverse model
-** many
+** many websites, many communities, all talking
 ** mastodon
 ** peertube
 ** etc...
 * User model
+** there are just people
 ** git
 ** blockchain
