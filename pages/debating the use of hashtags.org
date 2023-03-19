@@ -1,2 +1,2 @@
 * I was trying an experiment where I was using hashtags to denote single and double letter words
-*
+* I'm not so sure about this experiment anymore since I like using [[org mode]] and o
