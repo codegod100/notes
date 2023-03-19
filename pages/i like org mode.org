@@ -1,2 +1,3 @@
 * I like [[org mode]] mostly because [[wikilinks]], or [[hyperlinks]] as they're called in org mode, are the only kind of linking mechanism. If we are going to promote a culture of wikilinks in the agora, it only seems logical to support org mode
-* [[mycomarkup]] si
+* [[mycomarkup]] supports "[[]]" style links but they aren't the *only* supported style as they are in org mode
+*
