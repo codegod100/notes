@@ -1,4 +1,5 @@
 * [[mycomarkup]]
 * [[org mode]]
 * [[markdown]]
+* [[wikitext]]
 *
