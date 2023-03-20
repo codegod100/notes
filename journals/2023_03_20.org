@@ -1,4 +1,3 @@
-* [[keeping a journal helps my mental health]]
 * [[agora protocol simplified]]
 * NOW testing
 :LOGBOOK:
