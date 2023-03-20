@@ -7,4 +7,4 @@
 *** > The difference between bracket links and hashtags is purely cosmetic as they function the same. However, many people use them in different situations; brackets are often used for inline links, whereas hashtags are often used for metadata.
 ***
 *
-*
+* [[https://www.ineteconomics.org/perspectives/blog/ayn-rand-vs-elinor-ostrom-the-fight-for-the-future-of-social-media][Ayn Rand vs. Elinor Ostrom: The Fight for the Future of Social Media | Institute for New Economic Thinking (ineteconomics.org)]]
