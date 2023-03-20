@@ -9,3 +9,5 @@
 *
 * [[https://www.ineteconomics.org/perspectives/blog/ayn-rand-vs-elinor-ostrom-the-fight-for-the-future-of-social-media][Ayn Rand vs. Elinor Ostrom: The Fight for the Future of Social Media | Institute for New Economic Thinking (ineteconomics.org)]]
 * [[https://www.platformer.news/p/meta-is-building-a-decentralized][Meta is building a decentralized, text-based social network (platformer.news)]]
+** > Details about the project are scant. The product is still in its earliest stages, sources said, and there is no time frame for it being released. But legal and regulatory teams have already started to investigate potential privacy concerns around the app so they can be addressed before launch, we’re told.
+**
